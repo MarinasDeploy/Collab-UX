@@ -4,6 +4,14 @@ Laufendes Changelog für die Team-Session. Neueste Einträge **oben**.
 
 ---
 
+## 2026-06-12 — HTML nur noch 3 UX/KI-Themen
+
+- Navigation reduziert auf Use Cases, Prozess-Beratung, News
+- `was-ist-neu.md` erscheint in der HTML unter dem News-Tab
+- CDD-Kontext (index, persona, design) bleibt im Repo, nicht in der HTML-Nav
+
+---
+
 ## 2026-06-12 — HTML an design.md & persona.md angepasst
 
 - CDD-Design-Tokens (Violet, Dark, Yellow) in `public/index.html`

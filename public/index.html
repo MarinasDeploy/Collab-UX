@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Collab-UX — Context Driven Development</title>
+<title>Collab-UX — KI &amp; UX</title>
 <style>
 :root{
   --violet:#9B6FDF;
@@ -64,16 +64,13 @@ body{
   overflow-y:auto;padding:16px 0 32px;
   z-index:90;transition:transform .25s ease;
 }
-.nav-cluster{margin-bottom:4px}
-.nav-cluster-header{
-  display:flex;align-items:center;gap:8px;
-  padding:10px 20px 6px;
+.nav-label{
+  padding:10px 20px 8px;
   font-size:11px;font-weight:700;
   text-transform:uppercase;letter-spacing:.1em;
   color:var(--black);
 }
-.cluster-icon{width:6px;height:6px;background:var(--violet);flex-shrink:0}
-.nav-cluster-items{display:flex;flex-direction:column}
+.nav-items{display:flex;flex-direction:column}
 .nav-btn{
   display:block;width:100%;text-align:left;
   padding:7px 20px 7px 28px;
@@ -81,7 +78,7 @@ body{
   color:var(--dark);
   background:none;border:none;border-left:3px solid transparent;
   cursor:pointer;transition:background .15s,border-color .15s;
-  line-height:1.4;
+  line-height:1.35;
 }
 .nav-btn:hover{background:var(--violet-light);border-left-color:var(--violet)}
 .nav-btn.active{background:var(--violet-light);border-left-color:var(--violet);font-weight:700}
@@ -112,14 +109,7 @@ body{
   color:var(--yellow);margin-bottom:8px;
 }
 .hero-title{font-size:26px;font-weight:700;color:var(--white);margin-bottom:10px;line-height:1.25}
-.hero-sub{font-size:14px;color:#C8BFEF;margin-bottom:16px;max-width:42em}
-.persona-tags{display:flex;flex-wrap:wrap;gap:8px}
-.badge{
-  display:inline-block;padding:2px 9px;
-  font-size:11px;font-weight:700;white-space:nowrap;
-}
-.badge-owner{background:var(--violet-light);color:var(--dark);border:1px solid var(--violet)}
-.badge-contrib{background:var(--yellow-light);color:#7A7000;border:1px solid #CCCC00}
+.hero-sub{font-size:14px;color:#C8BFEF;margin:0;max-width:42em}
 .prose h1{font-size:20px;font-weight:700;color:var(--dark);margin-bottom:14px;line-height:1.3}
 .prose h2{
   font-size:20px;font-weight:700;color:var(--dark);
@@ -165,6 +155,7 @@ body{
   .sidebar{transform:translateX(-100%)}
   .sidebar.open{transform:translateX(0)}
   .main{margin-left:0;padding:24px 20px 60px;max-width:none}
+  .nav-btn{font-size:12px;padding-left:20px}
 }</style>
 </head>
 <body>
@@ -176,792 +167,34 @@ body{
     <div class="topbar-mark" aria-hidden="true"></div>
     <div>
       <h1>Collab-UX</h1>
-      <p>Context Driven Development · für UX-Profis</p>
+      <p>KI &amp; UX — Use Cases · Prozess · News</p>
     </div>
   </div>
 </header>
 <div class="shell">
   <aside class="sidebar" id="sidebar">
     <nav aria-label="Hauptnavigation">
-      
-    <div class="nav-cluster">
-      <div class="nav-cluster-header">
-        <span class="cluster-icon" aria-hidden="true"></span>
-        Einstieg
+      <div class="nav-label">Themen</div>
+      <div class="nav-items">
+        <button type="button" class="nav-btn active" data-target="ai-use-cases" aria-current="page">AI in Applikationen — Use Cases</button>
+<button type="button" class="nav-btn" data-target="ux-prozess" aria-current="false">UX Prozess-Beratung</button>
+<button type="button" class="nav-btn" data-target="news" aria-current="false">News zu UX und AI</button>
       </div>
-      <div class="nav-cluster-items">
-        <button type="button" class="nav-btn active" data-target="start" aria-current="page">Start</button>
-<button type="button" class="nav-btn" data-target="neu" aria-current="false">Was ist neu?</button>
-      </div>
-    </div>
-
-    <div class="nav-cluster">
-      <div class="nav-cluster-header">
-        <span class="cluster-icon" aria-hidden="true"></span>
-        Kontext
-      </div>
-      <div class="nav-cluster-items">
-        <button type="button" class="nav-btn" data-target="persona" aria-current="false">Persona</button>
-<button type="button" class="nav-btn" data-target="design" aria-current="false">Design</button>
-      </div>
-    </div>
-
-    <div class="nav-cluster">
-      <div class="nav-cluster-header">
-        <span class="cluster-icon" aria-hidden="true"></span>
-        Themen
-      </div>
-      <div class="nav-cluster-items">
-        <button type="button" class="nav-btn" data-target="ai-use-cases" aria-current="false">AI Use Cases</button>
-<button type="button" class="nav-btn" data-target="ux-prozess" aria-current="false">UX Prozess</button>
-<button type="button" class="nav-btn" data-target="news" aria-current="false">News UX & AI</button>
-      </div>
-    </div>
     </nav>
     <div class="footer-meta">
-      Generiert: 2026-06-12 10:19<br/>
-      Design: <code>cdd/design.md</code><br/>
+      Generiert: 2026-06-12 10:25<br/>
       Updates: <code>git pull</code> + <code>npm run build</code>
     </div>
   </aside>
   <main class="main">
     
-    <section class="page" id="page-start" data-page="start" hidden>
-      
-    <div class="hero" role="banner">
-      <p class="hero-label">Collab-UX · Context Driven Development</p>
-      <h2 class="hero-title">Für UX-Profis im Team</h2>
-      <p class="hero-sub">UX/UI Designer, Researcher und UX Leads — Wissen, Design-Tokens und Use Cases gemeinsam im Repo versionieren. Lesbar für Mensch und KI.</p>
-      <div class="persona-tags" aria-label="Ziel-Personas">
-        <span class="badge badge-owner">Samira · UX/UI</span>
-        <span class="badge badge-contrib">Jonas · Research</span>
-        <span class="badge badge-owner">Marina · UX Lead</span>
-      </div>
-    </div>
-      <article class="prose"><h1>Collab-UX — Context Driven Development</h1>
-<p>Willkommen in der gemeinsamen Wissensbasis für <strong>UX</strong>, <strong>AI in Applikationen</strong> und <strong>Prozess-Beratung</strong>. Dieses Repo ist bewusst schlank: Inhalte leben in Markdown, die lesbare Oberfläche wird daraus gebaut.</p>
-<hr>
-<h2>Worum es geht</h2>
-<table>
-<thead>
-<tr>
-<th>Ziel</th>
-<th>Beschreibung</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Bündeln</strong></td>
-<td>UX-Inputs, Use Cases und News an einem Ort statt in verstreuten Chats</td>
-</tr>
-<tr>
-<td><strong>Versionieren</strong></td>
-<td>Git als Historie — wer hat wann was ergänzt?</td>
-</tr>
-<tr>
-<td><strong>CDD</strong></td>
-<td>Kontext für Menschen <em>und</em> KI strukturiert im Repo bereitstellen</td>
-</tr>
-<tr>
-<td><strong>Lesbar</strong></td>
-<td><code>npm run build</code> → <code>public/index.html</code> zum Ansehen und Teilen</td>
-</tr>
-</tbody></table>
-<hr>
-<h2>Aufbau</h2>
-<pre><code>Collab-UX/
-├── cdd/
-│   ├── index.md              ← diese Datei (Einstieg)
-│   ├── was-ist-neu.md        ← Session „Was ist neu passiert?“
-│   ├── persona.md            ← Zielgruppe UXler (CDD-Kontext)
-│   ├── design.md             ← Design-Tokens &amp; Muster (aus CDD-Dokument)
-│   └── nav/
-│       ├── 01-ai-in-applikationen-use-cases.md
-│       ├── 02-ux-prozess-beratung.md
-│       └── 03-news-ux-ai.md
-├── scripts/build-html.js     ← Markdown → HTML
-├── public/index.html         ← generiert (nicht von Hand editieren)
-└── docs/                     ← Zusammenarbeit &amp; KI-Kontext (repo-basiert)
-</code></pre>
-<hr>
-<h2>Navigationspunkte</h2>
-<ol>
-<li><strong><a href="nav/01-ai-in-applikationen-use-cases.md">AI in Applikationen — Use Cases</a></strong> — konkrete Einsatzszenarien, Patterns, Grenzen</li>
-<li><strong><a href="nav/02-ux-prozess-beratung.md">UX Prozess-Beratung</a></strong> — Workshops, Reviews, Checklisten, Entscheidungsvorlagen</li>
-<li><strong><a href="nav/03-news-ux-ai.md">News zu UX und AI</a></strong> — Kuratierte Links, Trends, interne Learnings</li>
-</ol>
-<p><strong>Kontext-Dateien:</strong></p>
-<ul>
-<li><strong><a href="persona.md">Persona</a></strong> — Zielgruppe UXler (Designer, Research, Lead)</li>
-<li><strong><a href="design.md">Design</a></strong> — Farben, Typo, Komponenten aus dem CDD-Dokument</li>
-</ul>
-<p>Zusätzlich: <strong><a href="was-ist-neu.md">Was ist neu passiert?</a></strong> — laufendes Changelog für die Team-Session.</p>
-<hr>
-<h2>CDD-Workflow (kurz)</h2>
-<ol>
-<li><strong>Thema wählen</strong> — passenden Navigationspunkt in <code>cdd/nav/</code> öffnen oder anlegen</li>
-<li><strong>Ergänzen</strong> — Abschnitt hinzufügen, Datum und Autor:in notieren</li>
-<li><strong>Changelog</strong> — in <code>cdd/was-ist-neu.md</code> kurz vermerken, was neu ist</li>
-<li><strong>Bauen &amp; pushen</strong> — <code>npm run build</code>, commit, push</li>
-<li><strong>Abholen</strong> — Kolleg:innen <code>git pull</code>, bei Bedarf <code>npm run build</code>, <code>public/index.html</code> öffnen</li>
-</ol>
-<h3>Konventionen für neue Inhalte</h3>
-<ul>
-<li>Überschrift <code>##</code> pro thematischem Block</li>
-<li>Am Blockende: <code>*Stand: YYYY-MM-DD — Name/Kürzel*</code></li>
-<li>Offene Fragen unter <code>### Offen</code> sammeln</li>
-<li>Große Entscheidungen unter <code>### Entscheidung</code> mit Kurzbegründung</li>
-</ul>
-<hr>
-<h2>Bezug zu App-Repos</h2>
-<p>Collab-UX ist <strong>unabhängig</strong> vom App-Code (z. B. <code>MarinasDeploy/RookieLaunch</code>). UX-Erkenntnisse können in App-Repos per Issue oder <code>docs/</code> übernommen werden — hier bleibt der <strong>kollaborative UX-Kontext</strong> zentral. Verknüpfung immer über <strong>Repo-URLs und Pfade</strong>, nicht über private Rechnerordner.</p>
-<hr>
-<p><em>Stand: 2026-06-12 — Initial-Setup</em></p>
-</article>
-    </section>
-
-    <section class="page" id="page-neu" data-page="neu" hidden>
-      
-      <article class="prose"><h1>Was ist neu passiert?</h1>
-<p>Laufendes Changelog für die Team-Session. Neueste Einträge <strong>oben</strong>.</p>
-<hr>
-<h2>2026-06-12 — HTML an design.md &amp; persona.md angepasst</h2>
-<ul>
-<li>CDD-Design-Tokens (Violet, Dark, Yellow) in <code>public/index.html</code></li>
-<li>Topbar, Sidebar mit Nav-Clustern, Hero mit UX-Personas (Samira, Jonas, Marina)</li>
-<li>Typografie Arial 14px, Tabellen-Header dark, Code-Blöcke <code>#1a1a2e</code></li>
-</ul>
-<hr>
-<h2>2026-06-12 — Doku repo-zentriert</h2>
-<ul>
-<li><code>docs/CURSOR-ZUGRIFF.md</code> entfernt → <code>docs/KI-KONTEXT.md</code> (tool-neutral, nur Repo-Pfade)</li>
-<li>Cursor- und rechner-spezifische Hinweise aus README und Kollegen-Doku entfernt</li>
-</ul>
-<hr>
-<h2>2026-06-12 — Persona &amp; Design</h2>
-<ul>
-<li><code>cdd/persona.md</code> — Zielgruppe UXler (Designer, Research, Lead) im CDD-Kontext</li>
-<li><code>cdd/design.md</code> — Design-Tokens und UI-Muster aus <code>CDD_Workflow-grosseTeams-KI.html</code></li>
-<li>Navigation und HTML-Build um beide Seiten erweitert</li>
-</ul>
-<hr>
-<h2>2026-06-12 — Initial-Setup</h2>
-<ul>
-<li>Repo <code>MarinasDeploy/Collab-UX</code> angelegt</li>
-<li>CDD-Struktur mit <code>index.md</code>, drei Navigationspunkten und Build-Skript</li>
-<li>HTML-Ausgabe unter <code>public/index.html</code> (nach <code>git pull</code> und <code>npm run build</code>)</li>
-</ul>
-<h3>Nächste Schritte (Vorschlag)</h3>
-<ul>
-<li><input disabled="" type="checkbox"> Ersten Use Case unter „AI in Applikationen“ eintragen</li>
-<li><input disabled="" type="checkbox"> UX-Prozess-Checkliste für Review-Sessions ergänzen</li>
-<li><input disabled="" type="checkbox"> Erste News-Links sammeln</li>
-<li><input disabled="" type="checkbox"> Kolleg:innen als Collaborators einladen (siehe <code>docs/KOLLEGEN-EINBINDEN.md</code>)</li>
-</ul>
-<hr>
-<h2>Vorlage für neue Einträge</h2>
-<pre><code class="language-markdown">## YYYY-MM-DD — Kurztitel
-
-- Was wurde ergänzt oder geändert?
-- Welcher Navigationspunkt ist betroffen?
-- Gibt es offene Follow-ups?
-
-*Autor:in*
-</code></pre>
-<hr>
-<p><em>Stand: 2026-06-12</em></p>
-</article>
-    </section>
-
-    <section class="page" id="page-persona" data-page="persona" hidden>
-      
-      <article class="prose"><h1>Persona — Zielgruppe Collab-UX</h1>
-<p>Diese Datei beschreibt <strong>wen</strong> Collab-UX adressiert: UX-Profis im CDD-Workflow. Sie ist Kontext für KI-Sessions, Reviews und neue Inhalte in den Navigationspunkten.</p>
-<p><strong>Owner:</strong> UX Lead · <strong>Aktualisierung:</strong> bei Rollen- oder Teamänderungen</p>
-<hr>
-<h2>Primäre Zielgruppe</h2>
-<p>UXler, die UX-Wissen, AI-Use-Cases und Prozess-Beratung <strong>gemeinsam versionieren</strong> — nicht in Chats, Figma-Alleen oder Einzel-Dokumenten.</p>
-<table>
-<thead>
-<tr>
-<th>Merkmal</th>
-<th>Beschreibung</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Rollen</strong></td>
-<td>UX/UI Designer, UX Researcher, ggf. UX Lead / Service Designer</td>
-</tr>
-<tr>
-<td><strong>Kontext</strong></td>
-<td>Produktteams mit KI-gestützter Entwicklung (Figma AI, Chat-KIs, IDE-Assistenten)</td>
-</tr>
-<tr>
-<td><strong>Bedarf</strong></td>
-<td>Ein Ort für Personas, Design-Entscheidungen, Flows und UX-News — lesbar für Mensch und Agent</td>
-</tr>
-<tr>
-<td><strong>Sprache</strong></td>
-<td>Deutsch (Fachtexte, Checklisten, Entscheidungen)</td>
-</tr>
-</tbody></table>
-<hr>
-<h2>Persona 1: UX/UI Designer „Samira“</h2>
-<p><strong>Rolle:</strong> UX/UI Designerin in einem cross-funktionalen Team<br><strong>Erfahrung:</strong> 4–8 Jahre, stark in Figma, erste Erfahrung mit KI-Tools</p>
-<h3>Ziele</h3>
-<ul>
-<li>Design-System und Tokens zentral pflegen (<code>design.md</code>)</li>
-<li>Figma-Entscheidungen für Dev und KI <strong>sichtbar</strong> machen (kein Figma-Silo)</li>
-<li>UX-Prozess-Beratung und Checklisten für Reviews nutzen</li>
-<li>AI-Use-Cases für UI-Copy, Varianten und Specs erkunden</li>
-</ul>
-<h3>Frustrationen (heute)</h3>
-<ul>
-<li>„In Figma steht alles — aber niemand außerhalb sieht es.“</li>
-<li>Jede KI-Session startet ohne Kontext neu</li>
-<li>Design-Änderungen gehen in Slack unter</li>
-</ul>
-<h3>Verhalten in Collab-UX</h3>
-<ul>
-<li>Pflegt <code>design.md</code> bei Token- oder Komponentenänderungen</li>
-<li>Trägt Use Cases unter <strong>AI in Applikationen</strong> ein</li>
-<li>Nutzt <strong>UX Prozess-Beratung</strong> für Review-Sessions</li>
-<li>Liest <code>was-ist-neu.md</code> zu Wochenbeginn</li>
-</ul>
-<h3>KI-Kontext (CDD)</h3>
-<p><strong>Immer laden:</strong> <code>persona.md</code> · <code>design.md</code> · <code>was-ist-neu.md</code> · relevante <code>nav/*.md</code><br><strong>Nach Figma-Session:</strong> Entscheidung in Nav-Punkt oder Changelog dokumentieren</p>
-<hr>
-<h2>Persona 2: UX Researcher „Jonas“</h2>
-<p><strong>Rolle:</strong> UX Researcher, Discovery und Validierung<br><strong>Erfahrung:</strong> 3–6 Jahre, Interviews, Usability-Tests, Synthese</p>
-<h3>Ziele</h3>
-<ul>
-<li>Research-Erkenntnisse strukturiert teilen</li>
-<li>Personas und Pain Points als Grundlage für Design und KI-Inhalte</li>
-<li>News zu UX/AI kuratieren und für das Team einordnen</li>
-</ul>
-<h3>Frustrationen (heute)</h3>
-<ul>
-<li>Findings landen in Präsentationen, nicht im Dev-Kontext</li>
-<li>Personas veralten ohne dass es jemand merkt</li>
-<li>KI generiert Texte ohne Nutzerbezug</li>
-</ul>
-<h3>Verhalten in Collab-UX</h3>
-<ul>
-<li>Ergänzt Persona-Abschnitte und Journey-Hinweise hier in <code>persona.md</code></li>
-<li>Pflegt <strong>News zu UX und AI</strong></li>
-<li>Formuliert Research-Inputs für <strong>UX Prozess-Beratung</strong> (Checklisten, Workshop-Formate)</li>
-</ul>
-<h3>KI-Kontext (CDD)</h3>
-<p><strong>Immer laden:</strong> <code>persona.md</code> · <code>was-ist-neu.md</code><br><strong>Bei Research-Zyklus:</strong> Persona-Block aktualisieren, Changelog-Eintrag</p>
-<hr>
-<h2>Persona 3: UX Lead „Marina“</h2>
-<p><strong>Rolle:</strong> Koordination UX-Spur im CDD-Workflow<br><strong>Erfahrung:</strong> Team-Lead, Governance, Schnittstelle zu PO/Tech</p>
-<h3>Ziele</h3>
-<ul>
-<li>Collab-UX als <strong>Single Source of Truth</strong> für UX-Kontext etablieren</li>
-<li>Kolleg:innen einbinden (Git, Reviews, CDD-Sessions)</li>
-<li>Priorisieren: welche Nav-Punkte wann befüllt werden</li>
-</ul>
-<h3>Frustrationen (heute)</h3>
-<ul>
-<li>UX-Arbeit nicht versioniert, schwer nachvollziehbar</li>
-<li>Unklar, welche .md-Datei für welche Rolle gilt</li>
-</ul>
-<h3>Verhalten in Collab-UX</h3>
-<ul>
-<li>Pflegt <code>index.md</code> und <code>was-ist-neu.md</code></li>
-<li>Moderiert CDD-Sessions (siehe <strong>UX Prozess-Beratung</strong>)</li>
-<li>Verknüpft Erkenntnisse mit App-Repos (z. B. RookieLaunch-Issues)</li>
-</ul>
-<hr>
-<h2>Sekundäre Leser (Read-Only)</h2>
-<table>
-<thead>
-<tr>
-<th>Rolle</th>
-<th>Nutzen</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Frontend Dev</strong></td>
-<td><code>design.md</code> als Implementierungsgrundlage</td>
-</tr>
-<tr>
-<td><strong>PO / PM</strong></td>
-<td>Personas, Prioritäten aus UX-Prozess</td>
-</tr>
-<tr>
-<td><strong>KI (beliebiges Tool)</strong></td>
-<td>Vollständiger CDD-Kontext aus <code>cdd/*.md</code> ohne mündliche Übergabe</td>
-</tr>
-</tbody></table>
-<hr>
-<h2>Tonalität &amp; Qualitätskriterien</h2>
-<p>Aus dem CDD-Workflow für UX-Sessions:</p>
-<ul>
-<li>Entscheidungen <strong>immer mit Persona-Bezug</strong> prüfen: „Würde Samira/Jonas’ Nutzer:in das verstehen?“</li>
-<li>Fehlende UI-Zustände benennen: Loading, Error, Empty, Success</li>
-<li>Barrierefreiheit (WCAG 2.1 AA) aktiv einfordern</li>
-<li>Kein Design- oder Copy-Feedback ohne Referenz auf Persona oder <code>design.md</code></li>
-</ul>
-<hr>
-<h2>Endnutzer-Personas (Produkt)</h2>
-<p>Endnutzer-Personas einzelner Produkte (z. B. RookieLaunch Eltern/Rookie) gehören <strong>pro Produkt</strong> in die jeweilige App-Doku oder ein verlinktes <code>spec-personas.md</code>.<br>Collab-UX <code>persona.md</code> = <strong>Zielgruppe der UX-Kollaboration</strong>, nicht die App-Nutzer:innen.</p>
-<h3>Vorlage für verlinkte Produkt-Persona</h3>
-<pre><code class="language-markdown">### [Name] — [Produkt]
-- Kontext: …
-- Hauptziel: …
-- Hauptfrustration: …
-- Link: [Repo/Pfad]
-</code></pre>
-<hr>
-<p><em>Stand: 2026-06-12 — abgeleitet aus CDD_Workflow-grosseTeams-KI (Rollen UX Research &amp; UX/UI)</em></p>
-</article>
-    </section>
-
-    <section class="page" id="page-design" data-page="design" hidden>
-      
-      <article class="prose"><h1>Design — Collab-UX / CDD Visual System</h1>
-<p>Design-Spezifikation für Collab-UX und CDD-Dokumentation. Abgeleitet aus <code>CDD_Workflow-grosseTeams-KI.html</code> (conet Context Driven Development).</p>
-<p><strong>Owner:</strong> UX/UI Designer · <strong>Aktualisierung:</strong> bei jeder Design-Änderung · <strong>Pflicht für:</strong> HTML-Build, künftige UI-Erweiterungen</p>
-<hr>
-<h2>1. Zweck (CDD)</h2>
-<table>
-<thead>
-<tr>
-<th>Aspekt</th>
-<th>Regel</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Rolle</strong></td>
-<td>UX/UI definiert Tokens und Muster <strong>vor</strong> Implementierung</td>
-</tr>
-<tr>
-<td><strong>Figma</strong></td>
-<td>Eingang, nicht Endpunkt — Entscheidungen landen in <code>.md</code>, nicht nur in Figma</td>
-</tr>
-<tr>
-<td><strong>KI</strong></td>
-<td>Coding- und UX-Agenten laden <code>design.md</code> als Kontext</td>
-</tr>
-<tr>
-<td><strong>Abweichungen</strong></td>
-<td>Nie still — dokumentieren oder mit UX klären</td>
-</tr>
-</tbody></table>
-<hr>
-<h2>2. Design-Tokens (CSS-Variablen)</h2>
-<p>Aus dem CDD-Dokument (<code>:root</code>):</p>
-<table>
-<thead>
-<tr>
-<th>Token</th>
-<th>Wert</th>
-<th>Verwendung</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><code>--violet</code></td>
-<td><code>#9B6FDF</code></td>
-<td>Primär, Akzente, aktive Navigation, Buttons hover</td>
-</tr>
-<tr>
-<td><code>--violet-light</code></td>
-<td><code>#EBE2F9</code></td>
-<td>Hintergründe Sidebar/Topbar, Callouts, Role-Cards</td>
-</tr>
-<tr>
-<td><code>--dark</code></td>
-<td><code>#3E2C59</code></td>
-<td>Überschriften, Logo-Text, Hero-Hintergrund, Tabellen-Header</td>
-</tr>
-<tr>
-<td><code>--yellow</code></td>
-<td><code>#FFFC2E</code></td>
-<td>Akzentlinien, Highlights, Sticky-Labels</td>
-</tr>
-<tr>
-<td><code>--yellow-light</code></td>
-<td><code>#FFFEC0</code></td>
-<td>Warn-Callouts, Contributor-Badges</td>
-</tr>
-<tr>
-<td><code>--black</code></td>
-<td><code>#000000</code></td>
-<td>Fließtext, Nav-Cluster-Header</td>
-</tr>
-<tr>
-<td><code>--white</code></td>
-<td><code>#FFFFFF</code></td>
-<td>Karten, Main-Background</td>
-</tr>
-<tr>
-<td><code>--gray</code></td>
-<td><code>#4A4A4A</code></td>
-<td>Sekundärtext, Beschreibungen</td>
-</tr>
-<tr>
-<td><code>--gray-light</code></td>
-<td><code>#F5F5F5</code></td>
-<td>Tabellen-Zebra, Resp-Boxen</td>
-</tr>
-<tr>
-<td><code>--gray-mid</code></td>
-<td><code>#CCCCCC</code></td>
-<td>Borders, Read-Badges</td>
-</tr>
-<tr>
-<td><code>--border</code></td>
-<td><code>#E0DCF0</code></td>
-<td>Trennlinien Sidebar, Tabellen</td>
-</tr>
-</tbody></table>
-<h3>Zusätzliche Festwerte (CDD-UI)</h3>
-<table>
-<thead>
-<tr>
-<th>Element</th>
-<th>Wert</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Topbar-Hintergrund</td>
-<td><code>#EBE2F9</code></td>
-</tr>
-<tr>
-<td>Topbar-Border</td>
-<td><code>#D0C8E8</code></td>
-</tr>
-<tr>
-<td>Sidebar-Hintergrund</td>
-<td><code>#FAFAFA</code></td>
-</tr>
-<tr>
-<td>Callout info (alt.)</td>
-<td><code>#F5F2FF</code> + Border-left <code>#9B6FDF</code> 3–4px</td>
-</tr>
-<tr>
-<td>Code-Block-Hintergrund</td>
-<td><code>#1a1a2e</code></td>
-</tr>
-<tr>
-<td>Logo-Gradient</td>
-<td><code>#9B6FDF</code> → <code>#3E2C59</code></td>
-</tr>
-</tbody></table>
-<hr>
-<h2>3. Typografie</h2>
-<table>
-<thead>
-<tr>
-<th>Stufe</th>
-<th>Font</th>
-<th>Größe</th>
-<th>Gewicht</th>
-<th>Farbe</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Body</strong></td>
-<td>Arial, Helvetica, sans-serif</td>
-<td>14px</td>
-<td>400</td>
-<td><code>--black</code></td>
-</tr>
-<tr>
-<td><strong>Zeilenhöhe</strong></td>
-<td>—</td>
-<td>1.7</td>
-<td>—</td>
-<td>—</td>
-</tr>
-<tr>
-<td><strong>Topbar-Logo</strong></td>
-<td>Arial</td>
-<td>15px</td>
-<td>700</td>
-<td><code>#3E2C59</code></td>
-</tr>
-<tr>
-<td><strong>Hero-Titel</strong></td>
-<td>Arial</td>
-<td>26px</td>
-<td>700</td>
-<td><code>--white</code></td>
-</tr>
-<tr>
-<td><strong>Section Title (h2)</strong></td>
-<td>Arial</td>
-<td>20px</td>
-<td>700</td>
-<td><code>--dark</code></td>
-</tr>
-<tr>
-<td><strong>Sub-Title (h3)</strong></td>
-<td>Arial</td>
-<td>15px</td>
-<td>700</td>
-<td><code>--black</code></td>
-</tr>
-<tr>
-<td><strong>Nav-Cluster</strong></td>
-<td>Arial</td>
-<td>11px</td>
-<td>700</td>
-<td>uppercase, letter-spacing <code>.1em</code></td>
-</tr>
-<tr>
-<td><strong>Nav-Item</strong></td>
-<td>Arial</td>
-<td>13px</td>
-<td>400 / 700 active</td>
-<td><code>#3E2C59</code></td>
-</tr>
-<tr>
-<td><strong>Code / Prompts</strong></td>
-<td>Courier New, monospace</td>
-<td>12px</td>
-<td>—</td>
-<td><code>#d4d4d4</code> auf <code>#1a1a2e</code></td>
-</tr>
-</tbody></table>
-<h3>Code-Syntax-Farben (MD-Blöcke)</h3>
-<table>
-<thead>
-<tr>
-<th>Klasse</th>
-<th>Farbe</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Kommentar</td>
-<td><code>#6A9955</code></td>
-</tr>
-<tr>
-<td>Überschrift</td>
-<td><code>#9B6FDF</code></td>
-</tr>
-<tr>
-<td>Key</td>
-<td><code>#9CDCFE</code></td>
-</tr>
-<tr>
-<td>Value</td>
-<td><code>#FFFEC0</code></td>
-</tr>
-<tr>
-<td>Label</td>
-<td><code>#FFFC2E</code></td>
-</tr>
-</tbody></table>
-<hr>
-<h2>4. Layout</h2>
-<table>
-<thead>
-<tr>
-<th>Token</th>
-<th>Wert</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><code>--sidebar-w</code></td>
-<td><code>280px</code></td>
-</tr>
-<tr>
-<td><code>--topbar-h</code></td>
-<td><code>56px</code></td>
-</tr>
-<tr>
-<td>Main max-width</td>
-<td><code>880px</code></td>
-</tr>
-<tr>
-<td>Main padding</td>
-<td><code>40px 56px 80px</code> (Desktop)</td>
-</tr>
-<tr>
-<td>Hero padding</td>
-<td><code>36px 40px</code></td>
-</tr>
-<tr>
-<td>Hero border-radius</td>
-<td><code>12px</code></td>
-</tr>
-<tr>
-<td>Hero accent</td>
-<td><code>border-left: 6px solid var(--yellow)</code></td>
-</tr>
-</tbody></table>
-<h3>Breakpoints</h3>
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Breite</th>
-<th>Verhalten</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Mobile</strong></td>
-<td><code>max-width: 768px</code></td>
-<td>Sidebar ausklappbar, Main full-width, reduzierte Paddings</td>
-</tr>
-</tbody></table>
-<p>Standard-Breakpoints (SPEC-Referenz CDD): <code>sm=640</code> / <code>md=768</code> / <code>lg=1024</code></p>
-<hr>
-<h2>5. Komponenten-Muster</h2>
-<h3>Topbar</h3>
-<ul>
-<li>Fixiert, Höhe 56px, Hintergrund <code>#EBE2F9</code></li>
-<li>Logo: conet-SVG + Trennlinie + „ContextDriven Development“</li>
-</ul>
-<h3>Sidebar-Navigation</h3>
-<ul>
-<li>Nav-Item: <code>padding 7px 20px 7px 28px</code>, <code>border-left 3px transparent</code></li>
-<li>Hover/Active: Hintergrund <code>#EBE2F9</code>, Border <code>#9B6FDF</code>, ggf. <code>font-weight: 700</code></li>
-<li>Cluster-Punkt: 6×6px, <code>#9B6FDF</code></li>
-</ul>
-<h3>Hero-Banner</h3>
-<ul>
-<li>Hintergrund <code>--dark</code>, gelber linker Rand</li>
-<li>Label: 11px uppercase, <code>--yellow</code></li>
-<li>Subtext: <code>#C8BFEF</code></li>
-</ul>
-<h3>Callouts</h3>
-<table>
-<thead>
-<tr>
-<th>Variante</th>
-<th>Hintergrund</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>info</td>
-<td><code>--violet-light</code> oder <code>#F5F2FF</code></td>
-</tr>
-<tr>
-<td>warning</td>
-<td><code>--yellow-light</code></td>
-</tr>
-<tr>
-<td>success</td>
-<td><code>--violet-light</code></td>
-</tr>
-</tbody></table>
-<p>Kein Border-Radius (CDD: <code>border-radius: 0</code> bei Callouts/Role-Cards).</p>
-<h3>Badges</h3>
-<table>
-<thead>
-<tr>
-<th>Badge</th>
-<th>Stil</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>owner</td>
-<td><code>--violet-light</code> bg, <code>--dark</code> text, border <code>--violet</code></td>
-</tr>
-<tr>
-<td>contrib</td>
-<td><code>--yellow-light</code> bg, <code>#7A7000</code> text</td>
-</tr>
-<tr>
-<td>reads</td>
-<td><code>--gray-light</code> bg, <code>--gray</code> text</td>
-</tr>
-</tbody></table>
-<p>Padding: <code>2px 9px</code>, 11px, font-weight 700.</p>
-<h3>Tabellen (<code>.matrix</code>)</h3>
-<ul>
-<li>Header: <code>--dark</code> bg, <code>--white</code> text</li>
-<li>Zellen: border-bottom <code>--border</code>, gerade Zeilen <code>--gray-light</code></li>
-</ul>
-<h3>Steps (nummeriert)</h3>
-<ul>
-<li>Kreis 30×30px, <code>--violet</code> bg, weiße Zahl</li>
-</ul>
-<h3>Quick-Links</h3>
-<ul>
-<li>Hover: <code>--violet-light</code> bg, border <code>--violet</code>, leichter <code>translateY(-1px)</code></li>
-</ul>
-<hr>
-<h2>6. Section Titles</h2>
-<pre><code class="language-css">h2.section-title {
-  font-size: 20px;
-  font-weight: 700;
-  color: var(--dark);
-  border-bottom: 3px solid var(--yellow);
-  scroll-margin-top: calc(var(--topbar-h) + 20px);
-}
-</code></pre>
-<hr>
-<h2>7. Barrierefreiheit (CDD-Vorgabe)</h2>
-<ul>
-<li>Ziel: <strong>WCAG 2.1 AA</strong></li>
-<li>Kontrastverhältnisse bei <code>--violet</code> auf <code>--white</code> und <code>--yellow</code> auf <code>--dark</code> prüfen</li>
-<li>Fokus-States bei interaktiven Elementen nicht weglassen</li>
-<li>Semantische Überschriften-Hierarchie in generiertem HTML</li>
-</ul>
-<hr>
-<h2>8. Komponenten-Bibliothek (Projekt)</h2>
-<table>
-<thead>
-<tr>
-<th>Bereich</th>
-<th>Vorgabe</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>HTML-Output Collab-UX</strong></td>
-<td><code>scripts/build-html.js</code> — bei Token-Änderung Build neu ausführen</td>
-</tr>
-<tr>
-<td><strong>App-Produkte</strong></td>
-<td>je Projekt (z. B. shadcn/ui, Tailwind) — hier nur CDD-Doc-UI</td>
-</tr>
-<tr>
-<td><strong>Präfix</strong></td>
-<td>Dokumentations-UI: keine App-Komponenten-Präfixe; Apps: z. B. <code>AppButton</code></td>
-</tr>
-</tbody></table>
-<hr>
-<h2>9. Was aus Figma ins Repo muss</h2>
-<ol>
-<li>Design-Tokens (Farben, Abstände) → diese <code>design.md</code></li>
-<li>Komponenten-Namen und Zustände → <code>design.md</code> oder Nav-Punkt</li>
-<li>Frame-Links mit Kontext → jeweiliger Feature-/Flow-Eintrag</li>
-<li>BF-Kontrast-Werte → Accessibility-Abschnitt</li>
-</ol>
-<hr>
-<h2>10. Design-System-Kurzreferenz (KI)</h2>
-<pre><code>Primärfarbe:     #9B6FDF (--violet)
-Sekundär/Dunkel: #3E2C59 (--dark)
-Akzent:          #FFFC2E (--yellow)
-Schrift:         Arial, Helvetica, sans-serif · 14px body
-Komponenten:     siehe Abschnitt 5
-</code></pre>
-<p><strong>Session-Start (UX/UI):</strong> „Design-System aus design.md geladen. Was prüfen oder erweitern wir?“</p>
-<hr>
-<h2>11. Changelog Design</h2>
-<table>
-<thead>
-<tr>
-<th>Datum</th>
-<th>Änderung</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>2026-06-12</td>
-<td>Initial-Extraktion aus CDD_Workflow-grosseTeams-KI.html</td>
-</tr>
-</tbody></table>
-<hr>
-<p><em>Stand: 2026-06-12 — Quelle: CDD_Workflow-grosseTeams-KI.html (conet CDD)</em></p>
-</article>
-    </section>
-
     <section class="page" id="page-ai-use-cases" data-page="ai-use-cases" hidden>
       
+    <div class="hero" role="banner">
+      <p class="hero-label">Collab-UX</p>
+      <h2 class="hero-title">KI &amp; UX — gemeinsam weiterdenken</h2>
+      <p class="hero-sub">Use Cases, Prozess-Beratung und News: Inhalte, die du und dein Kollege im CDD-Workflow laufend ergänzt — versioniert im Repo, lesbar als HTML.</p>
+    </div>
       <article class="prose"><h1>AI in Applikationen — Use Cases</h1>
 <p>Sammlung konkreter Einsatzszenarien: Was bringt AI in welcher App-Situation — und was nicht?</p>
 <hr>
@@ -1115,7 +348,63 @@ Komponenten:     siehe Abschnitt 5
 
     <section class="page" id="page-news" data-page="news" hidden>
       
-      <article class="prose"><h1>News zu UX und AI</h1>
+      <article class="prose"><h1>Was ist neu passiert?</h1>
+<p>Laufendes Changelog für die Team-Session. Neueste Einträge <strong>oben</strong>.</p>
+<hr>
+<h2>2026-06-12 — HTML nur noch 3 UX/KI-Themen</h2>
+<ul>
+<li>Navigation reduziert auf Use Cases, Prozess-Beratung, News</li>
+<li><code>was-ist-neu.md</code> erscheint in der HTML unter dem News-Tab</li>
+<li>CDD-Kontext (index, persona, design) bleibt im Repo, nicht in der HTML-Nav</li>
+</ul>
+<hr>
+<h2>2026-06-12 — HTML an design.md &amp; persona.md angepasst</h2>
+<ul>
+<li>CDD-Design-Tokens (Violet, Dark, Yellow) in <code>public/index.html</code></li>
+<li>Topbar, Sidebar mit Nav-Clustern, Hero mit UX-Personas (Samira, Jonas, Marina)</li>
+<li>Typografie Arial 14px, Tabellen-Header dark, Code-Blöcke <code>#1a1a2e</code></li>
+</ul>
+<hr>
+<h2>2026-06-12 — Doku repo-zentriert</h2>
+<ul>
+<li><code>docs/CURSOR-ZUGRIFF.md</code> entfernt → <code>docs/KI-KONTEXT.md</code> (tool-neutral, nur Repo-Pfade)</li>
+<li>Cursor- und rechner-spezifische Hinweise aus README und Kollegen-Doku entfernt</li>
+</ul>
+<hr>
+<h2>2026-06-12 — Persona &amp; Design</h2>
+<ul>
+<li><code>cdd/persona.md</code> — Zielgruppe UXler (Designer, Research, Lead) im CDD-Kontext</li>
+<li><code>cdd/design.md</code> — Design-Tokens und UI-Muster aus <code>CDD_Workflow-grosseTeams-KI.html</code></li>
+<li>Navigation und HTML-Build um beide Seiten erweitert</li>
+</ul>
+<hr>
+<h2>2026-06-12 — Initial-Setup</h2>
+<ul>
+<li>Repo <code>MarinasDeploy/Collab-UX</code> angelegt</li>
+<li>CDD-Struktur mit <code>index.md</code>, drei Navigationspunkten und Build-Skript</li>
+<li>HTML-Ausgabe unter <code>public/index.html</code> (nach <code>git pull</code> und <code>npm run build</code>)</li>
+</ul>
+<h3>Nächste Schritte (Vorschlag)</h3>
+<ul>
+<li><input disabled="" type="checkbox"> Ersten Use Case unter „AI in Applikationen“ eintragen</li>
+<li><input disabled="" type="checkbox"> UX-Prozess-Checkliste für Review-Sessions ergänzen</li>
+<li><input disabled="" type="checkbox"> Erste News-Links sammeln</li>
+<li><input disabled="" type="checkbox"> Kolleg:innen als Collaborators einladen (siehe <code>docs/KOLLEGEN-EINBINDEN.md</code>)</li>
+</ul>
+<hr>
+<h2>Vorlage für neue Einträge</h2>
+<pre><code class="language-markdown">## YYYY-MM-DD — Kurztitel
+
+- Was wurde ergänzt oder geändert?
+- Welcher Navigationspunkt ist betroffen?
+- Gibt es offene Follow-ups?
+
+*Autor:in*
+</code></pre>
+<hr>
+<p><em>Stand: 2026-06-12</em></p>
+<hr>
+<h1>News zu UX und AI</h1>
 <p>Kuratierte Links, Trends und interne Learnings — kein News-Feed-Automatismus, sondern bewusst ausgewählte Einträge.</p>
 <hr>
 <h2>Aktuelle Highlights</h2>
@@ -1180,6 +469,7 @@ Kurze Zusammenfassung (2–4 Sätze): Was ist relevant für uns?
   var buttons=document.querySelectorAll('.nav-btn');
   var pages=document.querySelectorAll('.page');
   var sidebar=document.getElementById('sidebar');
+  var defaultPage='ai-use-cases';
   function show(id){
     pages.forEach(function(p){p.hidden=p.dataset.page!==id;});
     buttons.forEach(function(b){
@@ -1193,9 +483,9 @@ Kurze Zusammenfassung (2–4 Sätze): Was ist relevant für uns?
   }
   buttons.forEach(function(b){b.addEventListener('click',function(){show(b.dataset.target);});});
   window.toggleSidebar=function(){sidebar.classList.toggle('open');};
-  var valid=['start','neu','persona','design','ai-use-cases','ux-prozess','news'];
+  var valid=['ai-use-cases','ux-prozess','news'];
   var hash=location.hash.slice(1);
-  show(valid.indexOf(hash)>=0?hash:'start');
+  show(valid.indexOf(hash)>=0?hash:defaultPage);
 })();
 </script>
 </body>

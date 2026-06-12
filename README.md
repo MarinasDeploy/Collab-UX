@@ -1,6 +1,6 @@
 # Collab-UX
 
-Gemeinsamer **Context Driven Development (CDD)**-Raum für UX-Themen, AI-Use-Cases und Prozess-Beratung — geteilt über GitHub (`MarinasDeploy/Collab-UX`).
+Gemeinsame **KI- & UX-Wissensbasis** — drei Themen, die im CDD-Workflow laufend erweitert werden. Geteilt über GitHub (`MarinasDeploy/Collab-UX`).
 
 Alles läuft **über das Repo**: klonen, Markdown pflegen, optional HTML bauen. Keine tool- oder rechner-spezifischen Pfade nötig.
 
@@ -17,13 +17,15 @@ Die lesbare Seite liegt unter `public/index.html` (nach dem Build im Browser öf
 
 ## Inhalt pflegen
 
-| Pfad | Zweck |
+**HTML-Navigation (3 Themen):**
+
+| Pfad | Thema |
 |------|--------|
-| `cdd/index.md` | Einstieg: Aufbau, Workflow, Rollen |
-| `cdd/persona.md` | Zielgruppe UXler (CDD-Kontext) |
-| `cdd/design.md` | Design-Tokens und UI-Muster |
-| `cdd/was-ist-neu.md` | Session „Was ist neu passiert?“ (Changelog) |
-| `cdd/nav/*.md` | Inhalte je Navigationspunkt |
+| `cdd/nav/01-ai-in-applikationen-use-cases.md` | AI in Applikationen — Use Cases |
+| `cdd/nav/02-ux-prozess-beratung.md` | UX Prozess-Beratung |
+| `cdd/nav/03-news-ux-ai.md` | News zu UX und AI |
+
+**Repo-Kontext (nicht in der HTML-Nav):** `cdd/index.md`, `cdd/persona.md`, `cdd/design.md`, `cdd/was-ist-neu.md` (Changelog erscheint in der HTML unter News)
 
 Nach Änderungen:
 
