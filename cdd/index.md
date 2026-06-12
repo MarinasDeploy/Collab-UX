@@ -4,15 +4,12 @@ Diese Datei ist der **Einstieg für Menschen und KI im Repo**. Die öffentliche 
 
 ---
 
-## HTML-Oberfläche (3 Navigationspunkte)
+## HTML-Oberfläche
 
-| # | Datei | Thema |
-|---|--------|--------|
-| 1 | `cdd/nav/01-ai-in-applikationen-use-cases.md` | AI in Applikationen — Use Cases |
-| 2 | `cdd/nav/02-ux-prozess-beratung.md` | UX Prozess-Beratung |
-| 3 | `cdd/nav/03-news-ux-ai.md` | News zu UX und AI |
-
-Auf der **News**-Seite in der HTML wird zusätzlich `cdd/was-ist-neu.md` eingebunden („Was ist neu passiert?“).
+| Bereich | Datei |
+|---------|--------|
+| **Themen** | `cdd/nav/01-…` · `02-…` · `03-…` |
+| **Anleitung Kolleg:in** | `cdd/nav/00-anleitung-kollegen.md` (klein unter „Übergabe“ in der Nav) |
 
 ---
 

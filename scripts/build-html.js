@@ -12,8 +12,7 @@ const ROOT = path.join(__dirname, '..')
 const CDD = path.join(ROOT, 'cdd')
 const OUT = path.join(ROOT, 'public', 'index.html')
 
-/** Einzige Navigationspunkte in der HTML-Oberfläche */
-const PAGES = [
+const TOPIC_PAGES = [
   {
     id: 'ai-use-cases',
     file: 'nav/01-ai-in-applikationen-use-cases.md',
@@ -30,6 +29,14 @@ const PAGES = [
     label: 'News zu UX und AI',
   },
 ]
+
+const GUIDE_PAGE = {
+  id: 'anleitung',
+  file: 'nav/00-anleitung-kollegen.md',
+  label: 'Anleitung Kolleg:in',
+}
+
+const PAGES = [...TOPIC_PAGES, GUIDE_PAGE]
 
 marked.setOptions({ gfm: true, breaks: false })
 
@@ -60,9 +67,15 @@ function buildSections() {
 }
 
 function buildNav() {
-  return PAGES.map((p, i) =>
+  const topics = TOPIC_PAGES.map((p, i) =>
     `<button type="button" class="nav-btn${i === 0 ? ' active' : ''}" data-target="${p.id}" aria-current="${i === 0 ? 'page' : 'false'}">${p.label}</button>`
   ).join('\n')
+  const guide = `<button type="button" class="nav-btn nav-guide" data-target="${GUIDE_PAGE.id}" aria-current="false">${GUIDE_PAGE.label}</button>`
+  return `
+    <div class="nav-label">Themen</div>
+    <div class="nav-items">${topics}</div>
+    <div class="nav-label nav-label-guide">Übergabe</div>
+    <div class="nav-items">${guide}</div>`
 }
 
 function buildStyles() {
@@ -145,6 +158,9 @@ body{
 .nav-btn:hover{background:var(--violet-light);border-left-color:var(--violet)}
 .nav-btn.active{background:var(--violet-light);border-left-color:var(--violet);font-weight:700}
 .nav-btn:focus-visible{outline:2px solid var(--violet);outline-offset:-2px}
+.nav-label-guide{margin-top:14px;padding-top:14px;border-top:1px solid var(--border);color:var(--gray)}
+.nav-btn.nav-guide{font-size:12px;color:var(--gray);padding-left:24px}
+.nav-btn.nav-guide:hover,.nav-btn.nav-guide.active{color:var(--dark)}
 .footer-meta{
   margin:16px 20px 0;padding-top:12px;
   font-size:11px;color:var(--gray);
@@ -271,10 +287,7 @@ function buildHtml() {
 <div class="shell">
   <aside class="sidebar" id="sidebar">
     <nav aria-label="Hauptnavigation">
-      <div class="nav-label">Themen</div>
-      <div class="nav-items">
-        ${buildNav()}
-      </div>
+      ${buildNav()}
     </nav>
     <div class="footer-meta">
       Generiert: ${built}<br/>
