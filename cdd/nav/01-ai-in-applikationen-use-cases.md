@@ -12,7 +12,15 @@
 
 <details class="accordion">
 <summary>Best Practice Cases am Markt (Bsp. Check24)</summary>
-<p>Best Practice Cases am Markt (Bsp. Check24)</p>
+<p>Best Practice Cases am Markt (Bsp. Check24)
+
+<a href="https://chatopenai.de">chatopenai.de</a>: bietet einen Chat-Zugang auf Basis von OpenAI-Modellen.
+
+<a href="https://innochat.ai">innochat.ai</a>: fokussiert auf DSGVO-konforme KI-Chatbots für Websites und Shops.
+
+<a href="https://retune.so">retune.so</a>: dient dazu, eigene KI-Chatbots zu bauen und auf Websites einzubinden.
+
+<a href="https://chat.qwenlm.ai">chat.qwenlm.ai</a>: ein KI-Chatbot mit Funktionen wie Websuche, Bilderstellung und mehreren Modellantworten.</p>
 </details>
 
 <details class="accordion">
