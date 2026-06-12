@@ -14,6 +14,8 @@ const OUT = path.join(ROOT, 'public', 'index.html')
 const PAGES = [
   { id: 'start', file: 'index.md', label: 'Start', icon: '◉' },
   { id: 'neu', file: 'was-ist-neu.md', label: 'Was ist neu?', icon: '✦' },
+  { id: 'persona', file: 'persona.md', label: 'Persona', icon: '◐' },
+  { id: 'design', file: 'design.md', label: 'Design', icon: '◑' },
   {
     id: 'ai-use-cases',
     file: 'nav/01-ai-in-applikationen-use-cases.md',
@@ -148,7 +150,7 @@ body{font-family:'DM Sans',system-ui,sans-serif;background:var(--bg);color:var(-
   }
   buttons.forEach(function(b){b.addEventListener('click',function(){show(b.dataset.target);});});
   var hash=location.hash.slice(1);
-  var valid=['start','neu','ai-use-cases','ux-prozess','news'];
+  var valid=['start','neu','persona','design','ai-use-cases','ux-prozess','news'];
   show(valid.indexOf(hash)>=0?hash:'start');
 })();
 </script>

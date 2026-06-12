@@ -22,6 +22,8 @@ Collab-UX/
 ├── cdd/
 │   ├── index.md              ← diese Datei (Einstieg)
 │   ├── was-ist-neu.md        ← Session „Was ist neu passiert?“
+│   ├── persona.md            ← Zielgruppe UXler (CDD-Kontext)
+│   ├── design.md             ← Design-Tokens & Muster (aus CDD-Dokument)
 │   └── nav/
 │       ├── 01-ai-in-applikationen-use-cases.md
 │       ├── 02-ux-prozess-beratung.md
@@ -38,6 +40,11 @@ Collab-UX/
 1. **[AI in Applikationen — Use Cases](nav/01-ai-in-applikationen-use-cases.md)** — konkrete Einsatzszenarien, Patterns, Grenzen
 2. **[UX Prozess-Beratung](nav/02-ux-prozess-beratung.md)** — Workshops, Reviews, Checklisten, Entscheidungsvorlagen
 3. **[News zu UX und AI](nav/03-news-ux-ai.md)** — Kuratierte Links, Trends, interne Learnings
+
+**Kontext-Dateien:**
+
+- **[Persona](persona.md)** — Zielgruppe UXler (Designer, Research, Lead)
+- **[Design](design.md)** — Farben, Typo, Komponenten aus dem CDD-Dokument
 
 Zusätzlich: **[Was ist neu passiert?](was-ist-neu.md)** — laufendes Changelog für die Team-Session.
 

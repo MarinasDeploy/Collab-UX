@@ -4,6 +4,14 @@ Laufendes Changelog für die Team-Session. Neueste Einträge **oben**.
 
 ---
 
+## 2026-06-12 — Persona & Design
+
+- `cdd/persona.md` — Zielgruppe UXler (Designer, Research, Lead) im CDD-Kontext
+- `cdd/design.md` — Design-Tokens und UI-Muster aus `CDD_Workflow-grosseTeams-KI.html`
+- Navigation und HTML-Build um beide Seiten erweitert
+
+---
+
 ## 2026-06-12 — Initial-Setup
 
 - Repo `MarinasDeploy/Collab-UX` angelegt
