@@ -4,6 +4,14 @@ Laufendes Changelog für die Team-Session. Neueste Einträge **oben**.
 
 ---
 
+## 2026-06-12 — HTML an design.md & persona.md angepasst
+
+- CDD-Design-Tokens (Violet, Dark, Yellow) in `public/index.html`
+- Topbar, Sidebar mit Nav-Clustern, Hero mit UX-Personas (Samira, Jonas, Marina)
+- Typografie Arial 14px, Tabellen-Header dark, Code-Blöcke `#1a1a2e`
+
+---
+
 ## 2026-06-12 — Doku repo-zentriert
 
 - `docs/CURSOR-ZUGRIFF.md` entfernt → `docs/KI-KONTEXT.md` (tool-neutral, nur Repo-Pfade)
