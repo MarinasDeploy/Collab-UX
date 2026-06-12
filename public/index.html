@@ -182,7 +182,7 @@ body{
       </div>
     </nav>
     <div class="footer-meta">
-      Generiert: 2026-06-12 10:25<br/>
+      Generiert: 2026-06-12 10:26<br/>
       Updates: <code>git pull</code> + <code>npm run build</code>
     </div>
   </aside>
@@ -196,153 +196,352 @@ body{
       <p class="hero-sub">Use Cases, Prozess-Beratung und News: Inhalte, die du und dein Kollege im CDD-Workflow laufend ergänzt — versioniert im Repo, lesbar als HTML.</p>
     </div>
       <article class="prose"><h1>AI in Applikationen — Use Cases</h1>
-<p>Sammlung konkreter Einsatzszenarien: Was bringt AI in welcher App-Situation — und was nicht?</p>
+<p>Sammlung aus Gesprächen und Kundenkontext: <strong>Schwerpunkt Use Case statt Technologie</strong> — zuerst Pain und Nutzen, dann Lösung skizzieren.</p>
 <hr>
-<h2>Struktur je Use Case</h2>
-<p>Jeder Use Case folgt dieser Vorlage (kopieren und ausfüllen):</p>
-<pre><code class="language-markdown">### [Kurztitel des Use Cases]
-
-**Kontext:** Wo in der App / welcher User-Flow?
-**Problem:** Was ist heute mühsam oder unklar?
-**AI-Lösung:** Was soll die KI tun (Input → Output)?
-**Risiken:** Halluzination, Datenschutz, UX-Fallen
-**Status:** Idee | In Prüfung | Umgesetzt | Verworfen
-
-*Stand: YYYY-MM-DD*
-</code></pre>
-<hr>
-<h2>Use Cases (Sammlung)</h2>
-<h3>Beispiel: Eltern-Dashboard — Challenge-Vorschläge</h3>
-<p><strong>Kontext:</strong> Eltern legen neue Challenges an (<code>/parent/dashboard</code>).
-<strong>Problem:</strong> Leere Seite, unklar welche Challenges sinnvoll sind.
-<strong>AI-Lösung:</strong> Vorschläge basierend auf Paket, Alter des Kindes und bisherigen Kategorien — als editierbare Liste, nie auto-publish.
-<strong>Risiken:</strong> Zu generische Vorschläge; DSGVO bei Kindesdaten.
-<strong>Status:</strong> Idee</p>
-<p><em>Stand: 2026-06-12 — Platzhalter</em></p>
-<hr>
-<h3>[Nächster Use Case hier]</h3>
-<p><em>(Eintrag löschen und ersetzen)</em></p>
-<hr>
-<h2>Querschnittsthemen</h2>
+<h2>Leitgedanke</h2>
 <table>
 <thead>
 <tr>
-<th>Thema</th>
+<th>Prinzip</th>
+<th>Bedeutung</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Use Case vor Tech</strong></td>
+<td>Nicht mit Modell oder Stack starten, sondern mit Kundenproblem</td>
+</tr>
+<tr>
+<td><strong>Pain → Lösung</strong></td>
+<td>Welchen Pain haben unsere Kunden? Dann Lösungen skizzieren</td>
+</tr>
+<tr>
+<td><strong>Referenzen als Inspiration</strong></td>
+<td>Marktbeispiele (z. B. Check24) dienen der Einordnung, nicht der 1:1-Kopie</td>
+</tr>
+<tr>
+<td><strong>Weitergabe</strong></td>
+<td>Reife Ideen gezielt an Vertrieb oder Umsetzung übergeben</td>
+</tr>
+</tbody></table>
+<hr>
+<h2>Typische Use Cases von Kunden</h2>
+<table>
+<thead>
+<tr>
+<th>Bereich</th>
+<th>Beispiel</th>
 <th>Notiz</th>
 </tr>
 </thead>
 <tbody><tr>
-<td><strong>Human-in-the-loop</strong></td>
-<td>AI schlägt vor, Mensch bestätigt</td>
+<td><strong>Chatbots</strong></td>
+<td>Support, FAQ, Produktberatung</td>
+<td>Häufigster Einstieg — siehe UC unten</td>
 </tr>
 <tr>
-<td><strong>Transparenz</strong></td>
-<td>Nutzer:in sieht, dass AI involviert ist</td>
-</tr>
-<tr>
-<td><strong>Fallback</strong></td>
-<td>App funktioniert ohne AI gleichwertig</td>
+<td><strong>DX / UX-Prozesse</strong></td>
+<td>KI in Design- und Entwicklungsabläufen</td>
+<td>Verknüpfung mit <a href="02-ux-prozess-beratung.md">UX Prozess-Beratung</a></td>
 </tr>
 </tbody></table>
 <hr>
-<h2>Offen</h2>
+<h2>Best Practice am Markt</h2>
+<h3>Check24 — Recherche &amp; Orientierung</h3>
+<p><strong>Beobachtung:</strong> Such- und Beratungserlebnis mit KI-Elementen — Referenz für „Mit der Suchfunktion chatten“.</p>
+<p><strong>Relevanz für uns:</strong></p>
 <ul>
-<li>Priorisierung: welcher Use Case zuerst für RookieLaunch?</li>
-<li>Technische Basis: API direkt vs. Agent-Workflow über Repo-Kontext?</li>
+<li>Wie wird Recherche in Conversational UI übersetzt?</li>
+<li>Was können wir für Kunden-UCs ableiten (nicht kopieren)?</li>
+</ul>
+<p><strong>Status:</strong> Recherche | <strong>Nächster Schritt:</strong> Konkrete Screens/Flows dokumentieren, Pain vs. Lösung gegen unsere Kunden ableiten</p>
+<p><em>Stand: 2026-06-12 — Gespräch &amp; Impuls MZ</em></p>
+<hr>
+<h2>Use Cases (Sammlung)</h2>
+<h3>UC-01: Chatbot mit KI — Kundenberatung</h3>
+<p><strong>Kontext:</strong> Kunde möchte Nutzer:innen bei Produkt- oder Servicefragen unterstützen.<br><strong>Problem (Pain):</strong> Statische FAQ reicht nicht; Support skaliert schlecht.<br><strong>AI-Lösung:</strong> Conversational Bot auf Basis von Wissensbestand — Antworten, Nachfragen, ggf. Übergabe an Mensch.<br><strong>Variante:</strong> Mit der <strong>Suchfunktion chatten</strong> statt klassischer Suche.<br><strong>Nächste Schritte:</strong> Recherche vertiefen (Check24 u. a.) · Idee an <strong>Vertrieb</strong> zur Kundenansprache<br><strong>Status:</strong> Idee</p>
+<p><em>Stand: 2026-06-12</em></p>
+<hr>
+<h3>UC-02: Beispielbots konzipieren und bauen</h3>
+<p><strong>Kontext:</strong> Interne oder Demo-Anwendung zum Testen von UC-Hypothesen.<br><strong>Problem:</strong> Use Cases bleiben abstrakt, ohne erlebbaren Prototyp.<br><strong>AI-Lösung:</strong> Schlanke Beispielbots bauen, um UX, Tonality und Grenzen zu verproben.<br><strong>Status:</strong> Idee — <strong>technische Möglichkeiten explorieren</strong></p>
+<p><em>Stand: 2026-06-12</em></p>
+<hr>
+<h3>UC-03: Mobile AI als Support für Desktop-Anwendung</h3>
+<p><strong>Kontext:</strong> Nutzer:in arbeitet primär am Desktop, braucht unterwegs Ergänzung.<br><strong>Problem:</strong> Desktop-Workflow bricht auf Mobile ab; kein nahtloser Zugriff auf Kontext.<br><strong>AI-Lösung:</strong> Mobile AI-Begleiter — z. B. Status, Kurzabfragen, Spracheingabe für Aufgaben aus der Desktop-App.<br><strong>Status:</strong> Idee</p>
+<p><em>Stand: 2026-06-12</em></p>
+<hr>
+<h3>UC-04: Sprache + visuelle Interaktion über Endgeräte hinweg</h3>
+<p><strong>Kontext:</strong> Wechsel zwischen Desktop, Tablet, Smartphone im selben Flow.<br><strong>Problem:</strong> Unterschiedliche Eingabearten (Tippen vs. Sprechen) und Displaygrößen werden nicht konsistent bedacht.<br><strong>AI-Lösung:</strong> Kombination aus <strong>Sprach-</strong> und <strong>visueller</strong> Interaktion — kontextabhängig je Endgerät, ein gemeinsamer Nutzer-Flow.<br><strong>Status:</strong> Idee — explorieren</p>
+<p><em>Stand: 2026-06-12</em></p>
+<hr>
+<h2>Exploration &amp; Umsetzungspfad</h2>
+<pre><code class="language-mermaid">flowchart LR
+  A[Pain / Kunden-UC] --&gt; B[Markt &amp; Best Practice]
+  B --&gt; C[Technische Möglichkeiten explorieren]
+  C --&gt; D[Beispielbot / Prototyp]
+  D --&gt; E[Test &amp; Learn]
+  E --&gt; F[Leistung / Angebot]
+</code></pre>
+<table>
+<thead>
+<tr>
+<th>Phase</th>
+<th>Aktivität</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Verstehen</strong></td>
+<td>Pain der Kunden, typische UCs (Chatbot, DX/UX)</td>
+</tr>
+<tr>
+<td><strong>Einordnen</strong></td>
+<td>Best Practice (z. B. Check24)</td>
+</tr>
+<tr>
+<td><strong>Explorieren</strong></td>
+<td>Technische Möglichkeiten, Tools, Grenzen</td>
+</tr>
+<tr>
+<td><strong>Testen</strong></td>
+<td>Beispielbots konzipieren und bauen</td>
+</tr>
+<tr>
+<td><strong>Skalieren</strong></td>
+<td>Leistungen entwickeln (siehe Prozess-Beratung)</td>
+</tr>
+</tbody></table>
+<hr>
+<h2>Leistungen rund um Use Cases</h2>
+<p>Diese Themen hängen eng mit <a href="02-ux-prozess-beratung.md">UX Prozess-Beratung</a> zusammen:</p>
+<ul>
+<li>Workshops</li>
+<li>Checklisten</li>
+<li>Konzeption</li>
+<li>Flow Design</li>
+<li>Beratung zu Chatbots und KI in Applikationen</li>
 </ul>
 <hr>
-<p><em>Stand: 2026-06-12</em></p>
+<h2>Vorlage für neue Use Cases</h2>
+<pre><code class="language-markdown">### UC-XX: [Kurztitel]
+
+**Kontext:** …
+**Problem (Pain):** …
+**AI-Lösung:** …
+**Nächste Schritte:** …
+**Status:** Idee | In Prüfung | An Vertrieb | Umgesetzt
+
+*Stand: YYYY-MM-DD — Initialen*
+</code></pre>
+<hr>
+<h2>Offen</h2>
+<ul>
+<li><input disabled="" type="checkbox"> Check24-Recherche dokumentieren (Screens, Flow, Learnings)</li>
+<li><input disabled="" type="checkbox"> Ersten Beispielbot definieren (Scope, Zielgruppe)</li>
+<li><input disabled="" type="checkbox"> UC-01 für Vertriebsgespräch aufbereiten</li>
+<li><input disabled="" type="checkbox"> Mobile + Multi-Device-UC mit konkretem Kundenpain verknüpfen</li>
+</ul>
+<hr>
+<p><em>Stand: 2026-06-12 — aus Team-Gespräch &amp; Impuls MZ</em></p>
 </article>
     </section>
 
     <section class="page" id="page-ux-prozess" data-page="ux-prozess" hidden>
       
       <article class="prose"><h1>UX Prozess-Beratung</h1>
-<p>Methoden, Checklisten und Entscheidungsvorlagen für UX-Arbeit im Team — von der Idee bis zum Review.</p>
+<p>Methoden, Workshops und Beratungsangebote — wie Teams und Kunden <strong>collaborativ mit KI</strong> arbeiten und UX-Prozesse schärfen.</p>
 <hr>
-<h2>Prozess-Überblick</h2>
-<pre><code class="language-mermaid">flowchart LR
-  A[Problem klären] --&gt; B[Research / Kontext]
-  B --&gt; C[Skizze / Prototyp]
-  C --&gt; D[Review mit Team]
-  D --&gt; E[Umsetzung im Code]
-  E --&gt; F[Validierung / Beta]
-</code></pre>
+<h2>Schwerpunkte aus dem Gespräch</h2>
+<table>
+<thead>
+<tr>
+<th>Thema</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Kundenberatung</strong></td>
+<td>Wie arbeitet der Kunde intern collaborativ mit KI und seinem Team?</td>
+</tr>
+<tr>
+<td><strong>Team-Workshops</strong></td>
+<td>Praktische Nutzung von AI-Tools im eigenen Team</td>
+</tr>
+<tr>
+<td><strong>Ideensammlung</strong></td>
+<td>Laufende Sammlung zu KI, Use Cases und Prozessen fürs Team</td>
+</tr>
+<tr>
+<td><strong>Leistungen</strong></td>
+<td>Workshops, Checklisten, Konzeption, Flow Design rund um KI-Themen</td>
+</tr>
+</tbody></table>
+<p>Verknüpfung zu Use Cases: <a href="01-ai-in-applikationen-use-cases.md">AI in Applikationen</a></p>
 <hr>
-<h2>Review-Checkliste (kurz)</h2>
-<p>Vor jedem größeren UI-Release:</p>
+<h2>Beratung am Kunden: KI &amp; Team collaboration</h2>
+<p><strong>Ziel:</strong> Kunde befähigen, KI nicht als Einzel-Tool, sondern im Team-Prozess zu nutzen.</p>
+<h3>Typische Beratungsfragen</h3>
 <ul>
-<li><input disabled="" type="checkbox"> <strong>Zielgruppe klar?</strong> (Eltern vs. Rookie vs. beide)</li>
-<li><input disabled="" type="checkbox"> <strong>Happy Path</strong> in unter 3 Klicks erreichbar?</li>
-<li><input disabled="" type="checkbox"> <strong>Fehlerzustände</strong> beschriftet (nicht nur „Error“)?</li>
-<li><input disabled="" type="checkbox"> <strong>Mobile</strong> getestet (375px Breite)?</li>
-<li><input disabled="" type="checkbox"> <strong>Barrierefreiheit:</strong> Kontrast, Fokus, Tastatur?</li>
-<li><input disabled="" type="checkbox"> <strong>Copy</strong> auf Deutsch konsistent (Du/Sie-Regel)?</li>
-<li><input disabled="" type="checkbox"> <strong>Leerzustände</strong> mit Handlungsaufforderung?</li>
+<li>Wo lohnt sich KI im bestehenden Workflow — und wo nicht?</li>
+<li>Wie bleiben Entscheidungen nachvollziehbar (Human-in-the-loop)?</li>
+<li>Wie dokumentiert das Team Erkenntnisse (nicht nur in Chats)?</li>
+<li>Wie passt KI zu DX/UX-Prozessen (Research, Design, Review)?</li>
+</ul>
+<h3>Anknüpfung CDD</h3>
+<p>Collab-UX selbst ist ein Beispiel: Inhalte versionieren im Repo, für Mensch und KI lesbar — ähnliches Prinzip kann mit Kunden erörtert werden.</p>
+<p><em>Stand: 2026-06-12</em></p>
+<hr>
+<h2>Workshop-Idee: AI Tools praktisch im Team</h2>
+<p><strong>Format:</strong> Kleiner Workshop im Team zur <strong>praktischen Nutzung von AI-Tools</strong>.</p>
+<table>
+<thead>
+<tr>
+<th>Block</th>
+<th>Dauer (Vorschlag)</th>
+<th>Inhalt</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Warm-up</td>
+<td>15 Min</td>
+<td>Welche Tools nutzt ihr schon? Erwartungen klären</td>
+</tr>
+<tr>
+<td>Demo &amp; Übung</td>
+<td>45 Min</td>
+<td>1–2 konkrete Aufgaben aus eurem Alltag mit KI lösen</td>
+</tr>
+<tr>
+<td>Reflexion</td>
+<td>20 Min</td>
+<td>Was funktioniert? Grenzen? Was dokumentieren wir?</td>
+</tr>
+<tr>
+<td>Next Steps</td>
+<td>10 Min</td>
+<td>3 Ideen in Collab-UX oder Team-Backlog übernehmen</td>
+</tr>
+</tbody></table>
+<p><strong>Status:</strong> Idee — Termin und Teilnehmer:innen festlegen</p>
+<p><em>Stand: 2026-06-12</em></p>
+<hr>
+<h2>Leistungsbausteine (Angebot)</h2>
+<p>Aus dem Gespräch — Bausteine, die wir um KI-/Chatbot-Themen herum anbieten können:</p>
+<table>
+<thead>
+<tr>
+<th>Leistung</th>
+<th>Kurzbeschreibung</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Workshop</strong></td>
+<td>Team oder Kunde — praktische AI-Nutzung</td>
+<td>Idee</td>
+</tr>
+<tr>
+<td><strong>Checkliste</strong></td>
+<td>KI in Applikationen / UX-Review mit KI</td>
+<td>offen</td>
+</tr>
+<tr>
+<td><strong>Konzeption</strong></td>
+<td>Use Case, Pain, Lösungsskizze</td>
+<td>Idee</td>
+</tr>
+<tr>
+<td><strong>Flow Design</strong></td>
+<td>User Flows inkl. KI-Touchpoints</td>
+<td>Idee</td>
+</tr>
+<tr>
+<td><strong>Chatbot-Beratung</strong></td>
+<td>Von Idee bis Übergabe an Umsetzung/Vertrieb</td>
+<td>Idee</td>
+</tr>
+</tbody></table>
+<hr>
+<h2>Ideensammlung fürs Team</h2>
+<p>Laufende Sammlung — ergänzen bei jedem Gespräch oder Workshop.</p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Idee</th>
+<th>Thema</th>
+<th>Eingetragen</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>Use Cases statt Technologie-Referenzen</td>
+<td>AI in Apps</td>
+<td>2026-06-12</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Chatbot-Idee an Vertrieb</td>
+<td>AI in Apps</td>
+<td>2026-06-12</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Workshop AI Tools im Team</td>
+<td>Prozess</td>
+<td>2026-06-12</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Kundenberatung: collaborativ mit KI arbeiten</td>
+<td>Prozess</td>
+<td>2026-06-12</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Beispielbots zum Testen von UCs</td>
+<td>AI in Apps</td>
+<td>2026-06-12</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Mobile AI als Desktop-Begleiter</td>
+<td>AI in Apps</td>
+<td>2026-06-12</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Sprache + visuell über Endgeräte</td>
+<td>AI in Apps</td>
+<td>2026-06-12</td>
+</tr>
+</tbody></table>
+<hr>
+<h2>Review-Checkliste (UX + KI)</h2>
+<p>Vor Release oder Kundenpräsentation:</p>
+<ul>
+<li><input disabled="" type="checkbox"> <strong>Pain klar?</strong> — Use Case beschreibt Kundenproblem, nicht nur Technik</li>
+<li><input disabled="" type="checkbox"> <strong>Human-in-the-loop</strong> — Wo bestätigt ein Mensch KI-Output?</li>
+<li><input disabled="" type="checkbox"> <strong>Transparenz</strong> — Nutzer:in erkennt KI-Beteiligung</li>
+<li><input disabled="" type="checkbox"> <strong>Fehler &amp; Leerzustände</strong> — Loading, Error, Empty, Success</li>
+<li><input disabled="" type="checkbox"> <strong>Multi-Device</strong> — Flow auf Desktop und Mobile durchdacht?</li>
+<li><input disabled="" type="checkbox"> <strong>Dokumentation</strong> — Entscheidung im Repo/Confluence, nicht nur im Chat</li>
 </ul>
 <hr>
-<h2>Workshop-Formate</h2>
-<h3>15-Minuten UX-Flash</h3>
-<ol>
-<li>Screenshot / Link zeigen (2 Min)</li>
-<li>„Was funktioniert / was stört?“ — jede:r 1 Punkt (8 Min)</li>
-<li>Eine konkrete nächste Aktion (5 Min)</li>
-</ol>
-<h3>CDD-Session (30 Min)</h3>
+<h2>CDD-Session im Team (30 Min)</h2>
 <ol>
 <li><code>was-ist-neu.md</code> durchgehen (5 Min)</li>
 <li>Einen Navigationspunkt vertiefen (20 Min)</li>
 <li>Changelog + Commit (5 Min)</li>
 </ol>
 <hr>
-<h2>Entscheidungsvorlage</h2>
-<table>
-<thead>
-<tr>
-<th>Frage</th>
-<th>Option A</th>
-<th>Option B</th>
-<th>Entscheidung</th>
-<th>Datum</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><em>Beispiel: Onboarding-Schritte</em></td>
-<td>6 Schritte beibehalten</td>
-<td>auf 4 reduzieren</td>
-<td>offen</td>
-<td>—</td>
-</tr>
-</tbody></table>
-<hr>
-<h2>Beratungs-Anfragen (Backlog)</h2>
-<table>
-<thead>
-<tr>
-<th>Thema</th>
-<th>Anfragende:r</th>
-<th>Status</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Eltern-Dashboard Informationsdichte</td>
-<td>—</td>
-<td>offen</td>
-</tr>
-<tr>
-<td>Rookie-Challenge-Flow Vereinfachung</td>
-<td>—</td>
-<td>offen</td>
-</tr>
-</tbody></table>
-<hr>
-<h2>Offen</h2>
+<h2>Offen / Nächste Schritte</h2>
 <ul>
-<li>Feste Review-Termine (z. B. monatlich)?</li>
-<li>Figma als Design-Source-of-Truth verlinken?</li>
+<li><input disabled="" type="checkbox"> Workshop-Termin und Agenda finalisieren</li>
+<li><input disabled="" type="checkbox"> Checkliste „KI in Applikationen“ als erstes Leistungsartefakt skizzieren</li>
+<li><input disabled="" type="checkbox"> Beratungs-One-Pager für Kunden (collaborative KI-Arbeit) — Grobstruktur</li>
+<li><input disabled="" type="checkbox"> … <em>(vom Team ergänzen)</em></li>
 </ul>
 <hr>
-<p><em>Stand: 2026-06-12</em></p>
+<p><em>Stand: 2026-06-12 — aus Team-Gespräch</em></p>
 </article>
     </section>
 
@@ -351,46 +550,23 @@ body{
       <article class="prose"><h1>Was ist neu passiert?</h1>
 <p>Laufendes Changelog für die Team-Session. Neueste Einträge <strong>oben</strong>.</p>
 <hr>
-<h2>2026-06-12 — HTML nur noch 3 UX/KI-Themen</h2>
+<h2>2026-06-12 — Erste Inhalte aus Team-Gespräch</h2>
 <ul>
-<li>Navigation reduziert auf Use Cases, Prozess-Beratung, News</li>
-<li><code>was-ist-neu.md</code> erscheint in der HTML unter dem News-Tab</li>
-<li>CDD-Kontext (index, persona, design) bleibt im Repo, nicht in der HTML-Nav</li>
+<li><strong>Use Cases:</strong> Chatbot/KI-Suche (Check24-Recherche), Beispielbots, Mobile AI, Multi-Device Sprache+visuell</li>
+<li><strong>Prozess:</strong> Kundenberatung collaborative KI, Workshop-Idee AI Tools, Leistungsbausteine, Ideensammlung</li>
+<li><strong>News/Impulse MZ:</strong> Future Skills Convention, Anthropic Fable 5 (testen bis 22.07.), CDD Governance Team</li>
 </ul>
-<hr>
-<h2>2026-06-12 — HTML an design.md &amp; persona.md angepasst</h2>
+<h3>Nächste Schritte</h3>
 <ul>
-<li>CDD-Design-Tokens (Violet, Dark, Yellow) in <code>public/index.html</code></li>
-<li>Topbar, Sidebar mit Nav-Clustern, Hero mit UX-Personas (Samira, Jonas, Marina)</li>
-<li>Typografie Arial 14px, Tabellen-Header dark, Code-Blöcke <code>#1a1a2e</code></li>
+<li><input disabled="" type="checkbox"> Check24-Recherche vertiefen und in UC-01 eintragen</li>
+<li><input disabled="" type="checkbox"> Chatbot-Idee für Vertrieb aufbereiten</li>
+<li><input disabled="" type="checkbox"> Workshop-Termin AI Tools im Team klären</li>
+<li><input disabled="" type="checkbox"> Fable 5 testen (Deadline 22.07.2026)</li>
+<li><input disabled="" type="checkbox"> Learnings Future Skills Convention dokumentieren</li>
+<li><input disabled="" type="checkbox"> Feedback CDD-Verprobung Governance Team aufnehmen</li>
+<li><input disabled="" type="checkbox"> … <em>(vom Team ergänzen)</em></li>
 </ul>
-<hr>
-<h2>2026-06-12 — Doku repo-zentriert</h2>
-<ul>
-<li><code>docs/CURSOR-ZUGRIFF.md</code> entfernt → <code>docs/KI-KONTEXT.md</code> (tool-neutral, nur Repo-Pfade)</li>
-<li>Cursor- und rechner-spezifische Hinweise aus README und Kollegen-Doku entfernt</li>
-</ul>
-<hr>
-<h2>2026-06-12 — Persona &amp; Design</h2>
-<ul>
-<li><code>cdd/persona.md</code> — Zielgruppe UXler (Designer, Research, Lead) im CDD-Kontext</li>
-<li><code>cdd/design.md</code> — Design-Tokens und UI-Muster aus <code>CDD_Workflow-grosseTeams-KI.html</code></li>
-<li>Navigation und HTML-Build um beide Seiten erweitert</li>
-</ul>
-<hr>
-<h2>2026-06-12 — Initial-Setup</h2>
-<ul>
-<li>Repo <code>MarinasDeploy/Collab-UX</code> angelegt</li>
-<li>CDD-Struktur mit <code>index.md</code>, drei Navigationspunkten und Build-Skript</li>
-<li>HTML-Ausgabe unter <code>public/index.html</code> (nach <code>git pull</code> und <code>npm run build</code>)</li>
-</ul>
-<h3>Nächste Schritte (Vorschlag)</h3>
-<ul>
-<li><input disabled="" type="checkbox"> Ersten Use Case unter „AI in Applikationen“ eintragen</li>
-<li><input disabled="" type="checkbox"> UX-Prozess-Checkliste für Review-Sessions ergänzen</li>
-<li><input disabled="" type="checkbox"> Erste News-Links sammeln</li>
-<li><input disabled="" type="checkbox"> Kolleg:innen als Collaborators einladen (siehe <code>docs/KOLLEGEN-EINBINDEN.md</code>)</li>
-</ul>
+<p><em>MZ / Team</em></p>
 <hr>
 <h2>Vorlage für neue Einträge</h2>
 <pre><code class="language-markdown">## YYYY-MM-DD — Kurztitel
@@ -399,64 +575,143 @@ body{
 - Welcher Navigationspunkt ist betroffen?
 - Gibt es offene Follow-ups?
 
-*Autor:in*
+### Nächste Schritte
+- [ ] …
+
+*Initialen*
 </code></pre>
 <hr>
 <p><em>Stand: 2026-06-12</em></p>
 <hr>
 <h1>News zu UX und AI</h1>
-<p>Kuratierte Links, Trends und interne Learnings — kein News-Feed-Automatismus, sondern bewusst ausgewählte Einträge.</p>
+<p>Kuratierte Impulse, Sichtungen und interne Learnings — bewusst ausgewählt, nicht als automatischer Feed.</p>
 <hr>
-<h2>Aktuelle Highlights</h2>
-<h3>2026-06 — Setup Collab-UX</h3>
-<p>Internes Repo für UX-Kollaboration im CDD-Workflow gestartet. Inhalte werden hier gesammelt und als HTML gebaut.</p>
-<p><em>Quelle: intern</em></p>
-<hr>
-<h2>Vorlage für News-Einträge</h2>
-<pre><code class="language-markdown">### YYYY-MM — Titel
-
-Kurze Zusammenfassung (2–4 Sätze): Was ist relevant für uns?
-
-- **Link:** https://…
-- **Relevanz:** RookieLaunch | allgemein UX | AI-Tools
-- **Action:** lesen | testen | im Team besprechen
-
-*Eingetragen: YYYY-MM-DD — Name*
-</code></pre>
-<hr>
-<h2>Themen-Sammlung (noch zu füllen)</h2>
+<h2>Impulse 12.06.2026 — MZ</h2>
+<p>Kurznotizen aus der Session:</p>
 <table>
 <thead>
 <tr>
-<th>Bereich</th>
-<th>Idee für Quelle</th>
+<th>Impuls</th>
+<th>Einordnung</th>
 </tr>
 </thead>
 <tbody><tr>
-<td>AI in Produkt-UI</td>
-<td>NN/g, Baymard, eigene Tests</td>
+<td><strong>Future Skills Convention</strong> (11.06.)</td>
+<td>Veranstaltung gestern — Learnings noch ausarbeiten</td>
 </tr>
 <tr>
-<td>Design Systems</td>
-<td>shadcn, Radix, Material</td>
+<td><strong>Anthropic Fable 5</strong></td>
+<td>Neues Modell mit besserer Grafik — <strong>bis 22. Juli 2026</strong> zum Testen</td>
 </tr>
 <tr>
-<td>Accessibility</td>
-<td>WCAG-Updates, axe-Reports</td>
+<td><strong>CDD Verprobung</strong></td>
+<td>3. Anwendung / Erprobung durch das Governance Team</td>
 </tr>
 <tr>
-<td>KI / Agent-Workflows</td>
-<td>Tool-Docs, interne Learnings aus <code>cdd/</code></td>
+<td><strong>Use Cases statt Referenzen</strong></td>
+<td>Fokus Pain der Kunden → Lösung skizzieren → <a href="01-ai-in-applikationen-use-cases.md">Use Cases</a></td>
+</tr>
+<tr>
+<td><strong>Chatbot-Idee</strong></td>
+<td>Weitergabe an Vertrieb · „Mit der Suchfunktion chatten“ · Recherche Check24</td>
+</tr>
+</tbody></table>
+<p><em>Eingetragen: 2026-06-12 — MZ</em></p>
+<hr>
+<h3>Future Skills Convention</h3>
+<p><strong>Was:</strong> Convention zu Future Skills (Termin: 11.06.2026).<br><strong>Offen:</strong> Welche Impulse sind für unsere KI/UX-Themen relevant? Kurzfassung nachreichen.</p>
+<ul>
+<li><strong>Action:</strong> im Team besprechen</li>
+<li><strong>Status:</strong> ⬜ Learnings dokumentieren</li>
+</ul>
+<hr>
+<h3>Anthropic — Fable 5</h3>
+<p><strong>Was:</strong> Neues Modell mit verbesserter Grafik-Fähigkeit.<br><strong>Zeitfenster:</strong> Bis <strong>22. Juli 2026</strong> testbar.<br><strong>Relevanz:</strong> Use Cases mit visuellem Output, Prototypen, UI-Generierung.</p>
+<ul>
+<li><strong>Action:</strong> testen</li>
+<li><strong>Status:</strong> ⬜ Erste Tests &amp; Notizen</li>
+</ul>
+<hr>
+<h3>CDD — Governance Team (3. Verprobung)</h3>
+<p><strong>Was:</strong> Dritte Anwendung / Verprobung von Context Driven Development im Governance Team.<br><strong>Relevanz:</strong> Rückkopplung für unseren Collab-UX-Workflow und Kundenberatung (collaborative KI-Arbeit).</p>
+<ul>
+<li><strong>Action:</strong> Erkenntnisse in Prozess-Beratung aufnehmen</li>
+<li><strong>Status:</strong> ⬜ Feedback abwarten / dokumentieren</li>
+</ul>
+<hr>
+<h2>Erste Ideen aus dem Gespräch (Querschnitt)</h2>
+<p>Themen, die mehrere Nav-Bereiche betreffen — hier als Index:</p>
+<table>
+<thead>
+<tr>
+<th>Idee</th>
+<th>Navigationspunkt</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>AI integrieren — UC statt Technologie</td>
+<td><a href="01-ai-in-applikationen-use-cases.md">Use Cases</a></td>
+</tr>
+<tr>
+<td>Typische Kunden-UCs (Chatbots, DX/UX)</td>
+<td><a href="01-ai-in-applikationen-use-cases.md">Use Cases</a></td>
+</tr>
+<tr>
+<td>Best Practice Check24</td>
+<td><a href="01-ai-in-applikationen-use-cases.md">Use Cases</a></td>
+</tr>
+<tr>
+<td>Technische Möglichkeiten explorieren</td>
+<td><a href="01-ai-in-applikationen-use-cases.md">Use Cases</a></td>
+</tr>
+<tr>
+<td>Beispielbots bauen</td>
+<td><a href="01-ai-in-applikationen-use-cases.md">Use Cases</a></td>
+</tr>
+<tr>
+<td>Leistungen (Workshop, Checkliste, …)</td>
+<td><a href="02-ux-prozess-beratung.md">Prozess-Beratung</a></td>
+</tr>
+<tr>
+<td>Mobile AI + Multi-Device</td>
+<td><a href="01-ai-in-applikationen-use-cases.md">Use Cases</a></td>
+</tr>
+<tr>
+<td>Kundenberatung collaborative KI</td>
+<td><a href="02-ux-prozess-beratung.md">Prozess-Beratung</a></td>
+</tr>
+<tr>
+<td>Workshop AI Tools im Team</td>
+<td><a href="02-ux-prozess-beratung.md">Prozess-Beratung</a></td>
+</tr>
+<tr>
+<td>Ideensammlung Team</td>
+<td><a href="02-ux-prozess-beratung.md">Prozess-Beratung</a></td>
 </tr>
 </tbody></table>
 <hr>
+<h2>Vorlage für News-Einträge</h2>
+<pre><code class="language-markdown">### YYYY-MM-DD — Titel
+
+Kurze Zusammenfassung (2–4 Sätze).
+
+- **Link:** https://…
+- **Relevanz:** Use Cases | Prozess | Tool | Markt
+- **Action:** lesen | testen | im Team besprechen
+
+*Eingetragen: YYYY-MM-DD — Initialen*
+</code></pre>
+<hr>
 <h2>Archiv</h2>
-<p><em>(Ältere Einträge hierher verschieben, wenn die Liste zu lang wird)</em></p>
+<h3>2026-06 — Collab-UX gestartet</h3>
+<p>Internes Repo für KI- &amp; UX-Themen im CDD-Workflow. HTML mit drei Navigationspunkten.</p>
+<p><em>Quelle: intern</em></p>
 <hr>
 <h2>Offen</h2>
 <ul>
-<li>Newsletter oder nur manuelle Sammlung?</li>
-<li>Filter-Tags einführen (<code>#ai</code>, <code>#a11y</code>, <code>#rookie</code>)?</li>
+<li><input disabled="" type="checkbox"> Learnings Future Skills Convention nachliefern</li>
+<li><input disabled="" type="checkbox"> Fable-5-Testnotizen bis 22.07. eintragen</li>
+<li><input disabled="" type="checkbox"> Feedback Governance Team / CDD-Verprobung dokumentieren</li>
 </ul>
 <hr>
 <p><em>Stand: 2026-06-12</em></p>
