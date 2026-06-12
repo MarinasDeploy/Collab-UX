@@ -19,7 +19,8 @@ Danach: Projektordner in deiner KI-App öffnen (wie einen Arbeitsordner — welc
 
 · <strong>AI in Applikationen — Use Cases</strong> — Ideen und Beispiele zu KI in Produkten
 · <strong>UX Prozess-Beratung</strong> — Workshops, Beratung, Team-Abläufe
-· <strong>News zu UX und AI</strong> — Impulse, Links, „was ist neu“
+· <strong>News zu UX und AI</strong> — eure manuellen Impulse
+· <strong>KI-Recherche (auto)</strong> — läuft von selbst (wöchentlich Links aus UX/KI-Quellen)
 
 Die HTML-Seite baut die KI automatisch neu — du musst sie nicht selbst anfassen.</p>
 </details>
@@ -66,6 +67,11 @@ Aktualisiere die HTML-Seite und lade alles zurück auf GitHub. Sag mir kurz Besc
 [dein Text]
 
 Wie die bestehenden Einträge. Danach HTML aktualisieren und auf GitHub hochladen.“</p>
+</details>
+
+<details class="accordion accordion-small">
+<summary>KI-Recherche (auto) — ohne Zutun</summary>
+<p>Die Kategorie <strong>KI-Recherche (auto)</strong> füllt sich jeden Montag von selbst: GitHub holt Links aus UX- und KI-Blogs (z. B. NN/g, UX Collective) und baut die HTML neu. Ihr müsst dafür nichts tun — nur ab und zu reinschauen.</p>
 </details>
 
 <details class="accordion">

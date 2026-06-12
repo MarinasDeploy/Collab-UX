@@ -8,7 +8,7 @@ Diese Datei ist der **Einstieg für Menschen und KI im Repo**. Die öffentliche 
 
 | Bereich | Datei |
 |---------|--------|
-| **Themen** | `cdd/nav/01-…` · `02-…` · `03-…` |
+| **Themen** | `cdd/nav/01-…` · `02-…` · `03-…` · `04-ki-recherche-auto.md` (automatisch) |
 | **Anleitung Kolleg:in** | `cdd/nav/00-anleitung-kollegen.md` (klein unter „Übergabe“ in der Nav) |
 
 ---

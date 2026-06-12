@@ -4,7 +4,8 @@
   "description": "CDD-Wissensbasis UX & AI — Markdown → HTML",
   "scripts": {
     "build": "node scripts/build-html.js",
-    "watch": "node scripts/build-html.js --watch"
+    "watch": "node scripts/build-html.js --watch",
+    "research": "node scripts/fetch-ux-ai-research.js"
   },
   "devDependencies": {
     "marked": "^15.0.0"

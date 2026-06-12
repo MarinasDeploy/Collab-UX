@@ -28,6 +28,11 @@ const TOPIC_PAGES = [
     file: 'nav/03-news-ux-ai.md',
     label: 'News zu UX und AI',
   },
+  {
+    id: 'recherche',
+    file: 'nav/04-ki-recherche-auto.md',
+    label: 'KI-Recherche (auto)',
+  },
 ]
 
 const GUIDE_PAGE = {

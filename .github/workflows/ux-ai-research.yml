@@ -1,0 +1,40 @@
+name: UX-AI Recherche (auto)
+
+on:
+  schedule:
+    # Montag 07:00 UTC
+    - cron: '0 7 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - run: npm install
+
+      - name: Feeds abrufen
+        run: npm run research
+
+      - name: HTML bauen
+        run: npm run build
+
+      - name: Commit & push
+        run: |
+          git config user.name "collab-ux-bot"
+          git config user.email "collab-ux-bot@users.noreply.github.com"
+          git add cdd/nav/04-ki-recherche-auto.md public/index.html
+          if git diff --staged --quiet; then
+            echo "Keine neuen Recherche-Einträge."
+            exit 0
+          fi
+          git commit -m "CDD: Auto-Recherche UX & AI aktualisiert"
+          git push
