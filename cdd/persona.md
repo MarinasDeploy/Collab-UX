@@ -13,7 +13,7 @@ UXler, die UX-Wissen, AI-Use-Cases und Prozess-Beratung **gemeinsam versionieren
 | Merkmal | Beschreibung |
 |---------|----------------|
 | **Rollen** | UX/UI Designer, UX Researcher, ggf. UX Lead / Service Designer |
-| **Kontext** | Produktteams mit KI-gestützter Entwicklung (Cursor, Figma AI, Claude/ChatGPT) |
+| **Kontext** | Produktteams mit KI-gestützter Entwicklung (Figma AI, Chat-KIs, IDE-Assistenten) |
 | **Bedarf** | Ein Ort für Personas, Design-Entscheidungen, Flows und UX-News — lesbar für Mensch und Agent |
 | **Sprache** | Deutsch (Fachtexte, Checklisten, Entscheidungen) |
 
@@ -111,7 +111,7 @@ UXler, die UX-Wissen, AI-Use-Cases und Prozess-Beratung **gemeinsam versionieren
 |-------|--------|
 | **Frontend Dev** | `design.md` als Implementierungsgrundlage |
 | **PO / PM** | Personas, Prioritäten aus UX-Prozess |
-| **KI-Agent (Cursor)** | Vollständiger CDD-Kontext ohne mündliche Übergabe |
+| **KI (beliebiges Tool)** | Vollständiger CDD-Kontext aus `cdd/*.md` ohne mündliche Übergabe |
 
 ---
 

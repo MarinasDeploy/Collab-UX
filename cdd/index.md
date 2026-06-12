@@ -10,7 +10,7 @@ Willkommen in der gemeinsamen Wissensbasis für **UX**, **AI in Applikationen** 
 |------|----------------|
 | **Bündeln** | UX-Inputs, Use Cases und News an einem Ort statt in verstreuten Chats |
 | **Versionieren** | Git als Historie — wer hat wann was ergänzt? |
-| **CDD** | Kontext für Menschen *und* KI-Agenten (Cursor) strukturiert bereitstellen |
+| **CDD** | Kontext für Menschen *und* KI strukturiert im Repo bereitstellen |
 | **Lesbar** | `npm run build` → `public/index.html` zum Ansehen und Teilen |
 
 ---
@@ -30,7 +30,7 @@ Collab-UX/
 │       └── 03-news-ux-ai.md
 ├── scripts/build-html.js     ← Markdown → HTML
 ├── public/index.html         ← generiert (nicht von Hand editieren)
-└── docs/                     ← Zusammenarbeit & Cursor-Hilfen
+└── docs/                     ← Zusammenarbeit & KI-Kontext (repo-basiert)
 ```
 
 ---
@@ -56,7 +56,7 @@ Zusätzlich: **[Was ist neu passiert?](was-ist-neu.md)** — laufendes Changelog
 2. **Ergänzen** — Abschnitt hinzufügen, Datum und Autor:in notieren
 3. **Changelog** — in `cdd/was-ist-neu.md` kurz vermerken, was neu ist
 4. **Bauen & pushen** — `npm run build`, commit, push
-5. **Abholen** — Kolleg:innen `git pull`, `public/index.html` öffnen
+5. **Abholen** — Kolleg:innen `git pull`, bei Bedarf `npm run build`, `public/index.html` öffnen
 
 ### Konventionen für neue Inhalte
 
@@ -67,9 +67,9 @@ Zusätzlich: **[Was ist neu passiert?](was-ist-neu.md)** — laufendes Changelog
 
 ---
 
-## Bezug zu RookieLaunch / skillschatz
+## Bezug zu App-Repos
 
-Dieses Repo ist **unabhängig** vom App-Code (`MarinasDeploy/RookieLaunch`). UX-Erkenntnisse können dort in Issues oder `docs/` übernommen werden — hier bleibt der **kollaborative UX-Kontext** zentral.
+Collab-UX ist **unabhängig** vom App-Code (z. B. `MarinasDeploy/RookieLaunch`). UX-Erkenntnisse können in App-Repos per Issue oder `docs/` übernommen werden — hier bleibt der **kollaborative UX-Kontext** zentral. Verknüpfung immer über **Repo-URLs und Pfade**, nicht über private Rechnerordner.
 
 ---
 

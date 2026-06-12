@@ -37,7 +37,7 @@ Kurze Zusammenfassung (2–4 Sätze): Was ist relevant für uns?
 | AI in Produkt-UI | NN/g, Baymard, eigene Tests |
 | Design Systems | shadcn, Radix, Material |
 | Accessibility | WCAG-Updates, axe-Reports |
-| Cursor / Agent-Workflows | Cursor-Docs, interne Learnings |
+| KI / Agent-Workflows | Tool-Docs, interne Learnings aus `cdd/` |
 
 ---
 

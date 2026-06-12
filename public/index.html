@@ -84,7 +84,7 @@ body{font-family:'DM Sans',system-ui,sans-serif;background:var(--bg);color:var(-
       </button>
     </nav>
     <div class="footer-meta">
-      Generiert: 2026-06-12 10:13<br/>
+      Generiert: 2026-06-12 10:16<br/>
       Quelle: <code>cdd/*.md</code> — Updates via <code>git pull</code> + <code>npm run build</code>
     </div>
   </aside>
@@ -112,7 +112,7 @@ body{font-family:'DM Sans',system-ui,sans-serif;background:var(--bg);color:var(-
 </tr>
 <tr>
 <td><strong>CDD</strong></td>
-<td>Kontext für Menschen <em>und</em> KI-Agenten (Cursor) strukturiert bereitstellen</td>
+<td>Kontext für Menschen <em>und</em> KI strukturiert im Repo bereitstellen</td>
 </tr>
 <tr>
 <td><strong>Lesbar</strong></td>
@@ -133,7 +133,7 @@ body{font-family:'DM Sans',system-ui,sans-serif;background:var(--bg);color:var(-
 │       └── 03-news-ux-ai.md
 ├── scripts/build-html.js     ← Markdown → HTML
 ├── public/index.html         ← generiert (nicht von Hand editieren)
-└── docs/                     ← Zusammenarbeit &amp; Cursor-Hilfen
+└── docs/                     ← Zusammenarbeit &amp; KI-Kontext (repo-basiert)
 </code></pre>
 <hr>
 <h2>Navigationspunkte</h2>
@@ -155,7 +155,7 @@ body{font-family:'DM Sans',system-ui,sans-serif;background:var(--bg);color:var(-
 <li><strong>Ergänzen</strong> — Abschnitt hinzufügen, Datum und Autor:in notieren</li>
 <li><strong>Changelog</strong> — in <code>cdd/was-ist-neu.md</code> kurz vermerken, was neu ist</li>
 <li><strong>Bauen &amp; pushen</strong> — <code>npm run build</code>, commit, push</li>
-<li><strong>Abholen</strong> — Kolleg:innen <code>git pull</code>, <code>public/index.html</code> öffnen</li>
+<li><strong>Abholen</strong> — Kolleg:innen <code>git pull</code>, bei Bedarf <code>npm run build</code>, <code>public/index.html</code> öffnen</li>
 </ol>
 <h3>Konventionen für neue Inhalte</h3>
 <ul>
@@ -165,8 +165,8 @@ body{font-family:'DM Sans',system-ui,sans-serif;background:var(--bg);color:var(-
 <li>Große Entscheidungen unter <code>### Entscheidung</code> mit Kurzbegründung</li>
 </ul>
 <hr>
-<h2>Bezug zu RookieLaunch / skillschatz</h2>
-<p>Dieses Repo ist <strong>unabhängig</strong> vom App-Code (<code>MarinasDeploy/RookieLaunch</code>). UX-Erkenntnisse können dort in Issues oder <code>docs/</code> übernommen werden — hier bleibt der <strong>kollaborative UX-Kontext</strong> zentral.</p>
+<h2>Bezug zu App-Repos</h2>
+<p>Collab-UX ist <strong>unabhängig</strong> vom App-Code (z. B. <code>MarinasDeploy/RookieLaunch</code>). UX-Erkenntnisse können in App-Repos per Issue oder <code>docs/</code> übernommen werden — hier bleibt der <strong>kollaborative UX-Kontext</strong> zentral. Verknüpfung immer über <strong>Repo-URLs und Pfade</strong>, nicht über private Rechnerordner.</p>
 <hr>
 <p><em>Stand: 2026-06-12 — Initial-Setup</em></p>
 </article>
@@ -175,6 +175,12 @@ body{font-family:'DM Sans',system-ui,sans-serif;background:var(--bg);color:var(-
     <section class="page" id="page-neu" data-page="neu" hidden>
       <article class="prose"><h1>Was ist neu passiert?</h1>
 <p>Laufendes Changelog für die Team-Session. Neueste Einträge <strong>oben</strong>.</p>
+<hr>
+<h2>2026-06-12 — Doku repo-zentriert</h2>
+<ul>
+<li><code>docs/CURSOR-ZUGRIFF.md</code> entfernt → <code>docs/KI-KONTEXT.md</code> (tool-neutral, nur Repo-Pfade)</li>
+<li>Cursor- und rechner-spezifische Hinweise aus README und Kollegen-Doku entfernt</li>
+</ul>
 <hr>
 <h2>2026-06-12 — Persona &amp; Design</h2>
 <ul>
@@ -187,7 +193,7 @@ body{font-family:'DM Sans',system-ui,sans-serif;background:var(--bg);color:var(-
 <ul>
 <li>Repo <code>MarinasDeploy/Collab-UX</code> angelegt</li>
 <li>CDD-Struktur mit <code>index.md</code>, drei Navigationspunkten und Build-Skript</li>
-<li>HTML-Ausgabe unter <code>public/index.html</code> (über <code>git pull</code> + lokal öffnen)</li>
+<li>HTML-Ausgabe unter <code>public/index.html</code> (nach <code>git pull</code> und <code>npm run build</code>)</li>
 </ul>
 <h3>Nächste Schritte (Vorschlag)</h3>
 <ul>
@@ -231,7 +237,7 @@ body{font-family:'DM Sans',system-ui,sans-serif;background:var(--bg);color:var(-
 </tr>
 <tr>
 <td><strong>Kontext</strong></td>
-<td>Produktteams mit KI-gestützter Entwicklung (Cursor, Figma AI, Claude/ChatGPT)</td>
+<td>Produktteams mit KI-gestützter Entwicklung (Figma AI, Chat-KIs, IDE-Assistenten)</td>
 </tr>
 <tr>
 <td><strong>Bedarf</strong></td>
@@ -328,8 +334,8 @@ body{font-family:'DM Sans',system-ui,sans-serif;background:var(--bg);color:var(-
 <td>Personas, Prioritäten aus UX-Prozess</td>
 </tr>
 <tr>
-<td><strong>KI-Agent (Cursor)</strong></td>
-<td>Vollständiger CDD-Kontext ohne mündliche Übergabe</td>
+<td><strong>KI (beliebiges Tool)</strong></td>
+<td>Vollständiger CDD-Kontext aus <code>cdd/*.md</code> ohne mündliche Übergabe</td>
 </tr>
 </tbody></table>
 <hr>
@@ -851,7 +857,7 @@ Komponenten:     siehe Abschnitt 5
 <h2>Offen</h2>
 <ul>
 <li>Priorisierung: welcher Use Case zuerst für RookieLaunch?</li>
-<li>Technische Basis: API direkt vs. Agent-Workflow in Cursor?</li>
+<li>Technische Basis: API direkt vs. Agent-Workflow über Repo-Kontext?</li>
 </ul>
 <hr>
 <p><em>Stand: 2026-06-12</em></p>
@@ -990,8 +996,8 @@ Kurze Zusammenfassung (2–4 Sätze): Was ist relevant für uns?
 <td>WCAG-Updates, axe-Reports</td>
 </tr>
 <tr>
-<td>Cursor / Agent-Workflows</td>
-<td>Cursor-Docs, interne Learnings</td>
+<td>KI / Agent-Workflows</td>
+<td>Tool-Docs, interne Learnings aus <code>cdd/</code></td>
 </tr>
 </tbody></table>
 <hr>

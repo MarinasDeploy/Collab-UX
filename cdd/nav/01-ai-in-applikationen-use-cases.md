@@ -55,7 +55,7 @@ Jeder Use Case folgt dieser Vorlage (kopieren und ausfüllen):
 ## Offen
 
 - Priorisierung: welcher Use Case zuerst für RookieLaunch?
-- Technische Basis: API direkt vs. Agent-Workflow in Cursor?
+- Technische Basis: API direkt vs. Agent-Workflow über Repo-Kontext?
 
 ---
 

@@ -1,6 +1,6 @@
 # Kolleg:innen an Collab-UX verknüpfen
 
-Kurzanleitung, damit das Team Inhalte lesen und im CDD-Workflow mitarbeiten kann.
+Kurzanleitung, damit das Team Inhalte lesen und im CDD-Workflow mitarbeiten kann — **nur über GitHub und das Repo**, ohne spezielle lokale Setups.
 
 ---
 
@@ -28,7 +28,7 @@ Falls Kolleg:innen noch **kein** GitHub-Konto haben:
 
 ---
 
-## 2. Repo lokal einrichten
+## 2. Repo einrichten
 
 An die Kolleg:innen weitergeben:
 
@@ -39,7 +39,7 @@ npm install
 npm run build
 ```
 
-HTML ansehen: `public/index.html` im Browser öffnen (Doppelklick oder „Open with Live Server“ in VS Code/Cursor).
+HTML ansehen: `public/index.html` im geklonten Repo im Browser öffnen.
 
 ---
 
@@ -48,7 +48,7 @@ HTML ansehen: `public/index.html` im Browser öffnen (Doppelklick oder „Open w
 | Schritt | Aktion |
 |---------|--------|
 | 1 | `git pull` — neuesten Stand holen |
-| 2 | Passende `.md` in `cdd/nav/` oder `cdd/was-ist-neu.md` bearbeiten |
+| 2 | Passende `.md` in `cdd/` bearbeiten |
 | 3 | `npm run build` |
 | 4 | `git add cdd/ public/index.html` |
 | 5 | `git commit -m "CDD: Kurzbeschreibung"` |
@@ -58,34 +58,34 @@ HTML ansehen: `public/index.html` im Browser öffnen (Doppelklick oder „Open w
 
 ---
 
-## 4. Ohne Git — nur lesen
+## 4. Ohne Git auf dem Rechner — nur lesen
 
-Alternativen, wenn jemand nicht committen soll:
-
-- **GitHub Web:** Dateien unter `cdd/` direkt im Browser lesen (weniger komfortabel)
-- **HTML-Export:** Verantwortliche baut regelmäßig und teilt `public/index.html` per Teams/Slack (nicht ideal, aber möglich)
-- **GitHub Pages** (später): statische Seite unter `https://marinasdeploy.github.io/Collab-UX/` — einmal einrichten, dann reicht Link + `git pull` für Maintainer
+- **GitHub Web:** Dateien unter `cdd/` direkt im Browser lesen (mit Write-Recht auch bearbeiten)
+- **Raw-Links:** für Chat-KIs z. B. `https://raw.githubusercontent.com/MarinasDeploy/Collab-UX/main/cdd/index.md`
+- **GitHub Pages** (optional): statische Seite unter `https://marinasdeploy.github.io/Collab-UX/`
 
 ---
 
-## 5. Cursor für Kolleg:innen
+## 5. KI für Kolleg:innen (beliebiges Tool)
 
 Wer mit KI-Unterstützung schreiben will:
 
-1. [Cursor](https://cursor.com) installieren
-2. Repo öffnen (siehe `docs/CURSOR-ZUGRIFF.md`)
-3. Regel optional: „Antworte auf Deutsch; halte CDD-Konventionen aus `cdd/index.md` ein“
+1. Repo klonen oder Inhalte von GitHub laden
+2. KI mit **Repo-Pfaden** initialisieren (siehe `docs/KI-KONTEXT.md`)
+3. Beispiel: „Lies `cdd/index.md` und ergänze …“
+
+Kein bestimmtes Tool vorausgesetzt — entscheidend ist, dass Kontext aus `cdd/*.md` kommt.
 
 ---
 
-## 6. Verknüpfung mit RookieLaunch (App-Code)
+## 6. Verknüpfung mit App-Repos (z. B. RookieLaunch)
 
-| Collab-UX | RookieLaunch (`skillschatz`) |
-|-----------|------------------------------|
-| UX-Kontext, Use Cases, News | Implementierung in Next.js |
-| `cdd/nav/*.md` | `app/`, `components/`, `docs/` |
+| Collab-UX | App-Repo |
+|-----------|----------|
+| UX-Kontext, Use Cases, News | Implementierung im Code |
+| `cdd/nav/*.md`, `cdd/design.md` | `app/`, `components/`, `docs/` |
 
-Übernahme einer UX-Entscheidung in die App: Issue in RookieLaunch anlegen und auf den relevanten Abschnitt in Collab-UX verlinken (Commit-URL oder Pfad).
+Übernahme einer UX-Entscheidung in die App: Issue im App-Repo anlegen und auf den relevanten Abschnitt in Collab-UX verlinken (Commit-URL oder Pfad im Repo).
 
 ---
 

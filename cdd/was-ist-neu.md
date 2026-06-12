@@ -4,6 +4,13 @@ Laufendes Changelog für die Team-Session. Neueste Einträge **oben**.
 
 ---
 
+## 2026-06-12 — Doku repo-zentriert
+
+- `docs/CURSOR-ZUGRIFF.md` entfernt → `docs/KI-KONTEXT.md` (tool-neutral, nur Repo-Pfade)
+- Cursor- und rechner-spezifische Hinweise aus README und Kollegen-Doku entfernt
+
+---
+
 ## 2026-06-12 — Persona & Design
 
 - `cdd/persona.md` — Zielgruppe UXler (Designer, Research, Lead) im CDD-Kontext
@@ -16,7 +23,7 @@ Laufendes Changelog für die Team-Session. Neueste Einträge **oben**.
 
 - Repo `MarinasDeploy/Collab-UX` angelegt
 - CDD-Struktur mit `index.md`, drei Navigationspunkten und Build-Skript
-- HTML-Ausgabe unter `public/index.html` (über `git pull` + lokal öffnen)
+- HTML-Ausgabe unter `public/index.html` (nach `git pull` und `npm run build`)
 
 ### Nächste Schritte (Vorschlag)
 
