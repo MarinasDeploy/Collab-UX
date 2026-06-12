@@ -1,89 +1,74 @@
-# Anleitung für Kolleg:innen
+# Anleitung für Kolleg:innen (UX)
 
-Kurzüberblick: GitHub verbinden, Notizen **nur über KI** pflegen (beliebiges Tool).
+Für **UXler ohne Technik-Fokus**: Du schreibst deiner KI in normaler Sprache — wie an eine Kolleg:in. Sie erledigt Speichern und Hochladen auf GitHub.
 
 <details class="accordion">
-<summary>1. GitHub — Einladung &amp; Klonen</summary>
-<p>1. Einladung zu <strong>MarinasDeploy/Collab-UX</strong> per E-Mail annehmen (Rolle: Write).
-2. Repo klonen und einmal einrichten:
+<summary>1. Einmalig: Zugang zu GitHub</summary>
+<p>Du bekommst von [Name] eine <strong>Einladung per E-Mail</strong> zum Projekt Collab-UX — bitte annehmen.
 
-git clone https://github.com/MarinasDeploy/Collab-UX.git
-cd Collab-UX
-npm install
-npm run build
+Dann sag deiner KI z. B.:
 
-3. HTML ansehen: public/index.html im Browser öffnen.
-4. Repo-Ordner in deiner KI-Umgebung öffnen (IDE, Agent, o. Ä.).</p>
+„Ich habe Zugriff auf das GitHub-Projekt MarinasDeploy/Collab-UX. Richte es bei mir ein, damit ich unsere HTML-Seite im Browser öffnen kann. Erkläre mir jeden Schritt in einfachen Worten.“
+
+Danach: Projektordner in deiner KI-App öffnen (wie einen Arbeitsordner — welches Tool du nutzt, ist egal).</p>
 </details>
 
 <details class="accordion">
-<summary>2. Welche .md-Dateien die KI bearbeitet</summary>
-<p><strong>In der HTML sichtbar (Notizbuch):</strong>
-· cdd/nav/01-ai-in-applikationen-use-cases.md
-· cdd/nav/02-ux-prozess-beratung.md
-· cdd/nav/03-news-ux-ai.md
+<summary>2. Wo welche Notiz hingehört</summary>
+<p>Unser Notizbuch hat <strong>drei Themen</strong> (links in der Navigation):
 
-<strong>Optional im Repo (nicht in der HTML-Nav):</strong>
-· cdd/was-ist-neu.md · cdd/index.md
+· <strong>AI in Applikationen — Use Cases</strong> — Ideen und Beispiele zu KI in Produkten
+· <strong>UX Prozess-Beratung</strong> — Workshops, Beratung, Team-Abläufe
+· <strong>News zu UX und AI</strong> — Impulse, Links, „was ist neu“
 
-<strong>Nicht von Hand editieren:</strong> public/index.html — die KI führt npm run build aus.</p>
+Die HTML-Seite baut die KI automatisch neu — du musst sie nicht selbst anfassen.</p>
 </details>
 
 <details class="accordion">
-<summary>3. Push — über die KI (Standard)</summary>
-<p><strong>Für GitHub macht es keinen Unterschied</strong>, ob die KI oder du pushst — es landet derselbe Commit im Repo. Empfohlen: die KI führt pull, build, commit und push aus (Prompts 5–7).
+<summary>3. Speichern — über die KI (so machen wir es)</summary>
+<p>Ob die KI speichert oder du es selbst tust: <strong>auf GitHub landet dasselbe</strong>. Wir nutzen die KI — du formulierst, sie erledigt.
 
-Die KI hat <strong>kein eigenes GitHub-Konto</strong> — beim Push gilt immer <strong>deine Anmeldung</strong> auf dem Rechner (einmalig einrichten). Vor dem Push kurz prüfen: richtige .md-Datei, public/index.html mitgebaut, sinnvolle Commit-Message.
+Wichtig: Die KI hat <strong>kein eigenes GitHub-Konto</strong>. Hochladen läuft über <strong>deinen</strong> Zugang (wird beim ersten Mal einmal eingerichtet).
 
-Kurz vorher: Repo-Ordner in der KI öffnen, Schreibrecht (Write) auf dem Repo, git pull nicht vergessen.</p>
+Vor dem Absenden kurz lesen, ob dein Text stimmt. Mehr musst du nicht technisch können — die Prompts unten kannst du copy &amp; paste anpassen.</p>
 </details>
 
 <details class="accordion accordion-small">
-<summary>Optional: Push per Terminal</summary>
-<p>Kleinere Alternative, wenn keine KI mit Terminal-Zugriff verfügbar ist — gleiches Ergebnis:
-
-git pull
-npm run build
-git add cdd/nav/ public/index.html
-git commit -m "CDD: Kurzbeschreibung"
-git push</p>
+<summary>Optional: Selbst im Terminal speichern</summary>
+<p>Nur falls du keine KI mit Zugriff auf den Projektordner hast — sonst nicht nötig. Dann bitte jemanden mit Technik-Know-how oder nutze die KI mit dem Prompt aus Punkt 5.</p>
 </details>
 
 <details class="accordion">
-<summary>4. KI-Prompt — Einstieg (tool-neutral)</summary>
-<p>Lies im geklonten Repo MarinasDeploy/Collab-UX die Datei cdd/index.md und cdd/nav/00-anleitung-kollegen.md.
-Ich arbeite an Collab-UX. Antworte auf Deutsch.
-Welche Datei unter cdd/nav/ ist für [Thema] zuständig?</p>
+<summary>4. So redest du mit der KI — Einstieg</summary>
+<p>„Wir pflegen das UX-Notizbuch Collab-UX auf GitHub. Lies die Anleitung im Projekt. Antworte auf Deutsch und in einfachen Worten: Wo trage ich etwas ein, wenn es um [dein Thema] geht — Use Cases, Prozess oder News?“</p>
 </details>
 
 <details class="accordion">
-<summary>5. KI-Prompt — Notiz hinzufügen (komplett)</summary>
-<p>Im Repo Collab-UX:
-1. git pull
-2. In [cdd/nav/01-… | 02-… | 03-…] einen neuen Accordion-Eintrag ergänzen (details/summary/p) — Format wie die bestehenden Einträge.
-   Überschrift: […]
-   Inhalt: […]
-   Nur meinen Text verwenden, nichts erfinden.
-3. npm run build
-4. git add cdd/nav/ public/index.html
-5. git commit -m "CDD: [Kurzbeschreibung]"
-6. git push
+<summary>5. So redest du mit der KI — Neue Notiz</summary>
+<p>„Im Projekt Collab-UX:
 
-Führe die Schritte aus oder gib mir die genauen Befehle.</p>
+Hol zuerst den neuesten Stand von GitHub.
+
+Trage unter <strong>[Use Cases / Prozess-Beratung / News]</strong> eine neue Notiz ein — gleiches Format wie die anderen Zeilen mit Plus zum Aufklappen.
+
+Überschrift: [dein Text]
+Inhalt: [dein Text]
+
+Nur meinen Text verwenden, nichts dazuerfinden.
+
+Aktualisiere die HTML-Seite und lade alles zurück auf GitHub. Sag mir kurz Bescheid, wenn du fertig bist.“</p>
 </details>
 
 <details class="accordion">
-<summary>6. KI-Prompt — News / Impulse</summary>
-<p>Im Repo Collab-UX:
-1. git pull
-2. cdd/nav/03-news-ux-ai.md öffnen — neuen Accordion-Eintrag mit Datum und Initialen, Format wie bestehende Einträge.
-   Inhalt: […]
-3. npm run build, commit, push wie in der Anleitung.
+<summary>6. So redest du mit der KI — News oder Impuls</summary>
+<p>„Collab-UX: Trage unter <strong>News zu UX und AI</strong> einen neuen Impuls ein — mit Datum und meinen Initialen [z. B. AB]. Inhalt:
 
-Führe alles aus.</p>
+[dein Text]
+
+Wie die bestehenden Einträge. Danach HTML aktualisieren und auf GitHub hochladen.“</p>
 </details>
 
 <details class="accordion">
-<summary>7. KI-Prompt — Stand holen</summary>
-<p>git pull im Repo Collab-UX, npm run build, sag mir was sich in cdd/nav/ seit dem letzten Mal geändert hat.</p>
+<summary>7. So redest du mit der KI — Was hat sich geändert?</summary>
+<p>„Hol den neuesten Stand von Collab-UX von GitHub. Sag mir in einfachen Worten, was sich bei unseren Notizen geändert hat — ohne Technik-Sprech.“</p>
 </details>
