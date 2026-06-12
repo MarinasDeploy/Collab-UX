@@ -1,0 +1,12 @@
+{
+  "name": "collab-ux",
+  "private": true,
+  "description": "CDD-Wissensbasis UX & AI — Markdown → HTML",
+  "scripts": {
+    "build": "node scripts/build-html.js",
+    "watch": "node scripts/build-html.js --watch"
+  },
+  "devDependencies": {
+    "marked": "^15.0.0"
+  }
+}

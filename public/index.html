@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Collab-UX — Context Driven Development</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=swap" rel="stylesheet"/>
+<style>
+:root{
+  --bg:#f4f2ed;--surface:#fff;--text:#1c1917;--muted:#57534e;
+  --accent:#2563eb;--accent-soft:#dbeafe;--border:#e7e5e4;
+  --radius:12px;--shadow:0 1px 3px rgba(0,0,0,.06);
+  --sidebar:260px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'DM Sans',system-ui,sans-serif;background:var(--bg);color:var(--text);line-height:1.6;min-height:100vh}
+.shell{display:grid;grid-template-columns:var(--sidebar) 1fr;min-height:100vh}
+@media(max-width:768px){.shell{grid-template-columns:1fr}.sidebar{position:sticky;top:0;z-index:10;border-bottom:1px solid var(--border)}.nav{flex-direction:row!important;overflow-x:auto;padding:.5rem!important}.nav-btn{white-space:nowrap;flex-shrink:0}}
+.sidebar{background:var(--surface);border-right:1px solid var(--border);padding:1.25rem 1rem;display:flex;flex-direction:column;gap:1rem}
+.brand{padding:.25rem .5rem}
+.brand h1{font-size:1.1rem;font-weight:700;letter-spacing:-.02em}
+.brand p{font-size:.75rem;color:var(--muted);margin-top:.15rem}
+.nav{display:flex;flex-direction:column;gap:4px}
+.nav-btn{display:flex;align-items:center;gap:.5rem;width:100%;text-align:left;padding:.55rem .75rem;border:none;border-radius:8px;background:none;color:var(--muted);font:inherit;font-size:.875rem;cursor:pointer;transition:background .15s,color .15s}
+.nav-btn:hover{background:var(--bg);color:var(--text)}
+.nav-btn.active{background:var(--accent-soft);color:var(--accent);font-weight:600}
+.nav-icon{font-size:.85rem;opacity:.8;width:1.1rem;text-align:center}
+.footer-meta{margin-top:auto;padding:.5rem;font-size:.7rem;color:var(--muted);border-top:1px solid var(--border);line-height:1.45}
+.main{padding:2rem 2.5rem;max-width:52rem}
+.page[hidden]{display:none!important}
+.prose h1{font-size:1.75rem;font-weight:700;margin-bottom:1rem;letter-spacing:-.02em}
+.prose h2{font-size:1.2rem;font-weight:600;margin:1.75rem 0 .6rem;padding-bottom:.35rem;border-bottom:1px solid var(--border)}
+.prose h3{font-size:1rem;font-weight:600;margin:1.25rem 0 .4rem}
+.prose p,.prose ul,.prose ol{margin:.65rem 0}
+.prose ul,.prose ol{padding-left:1.35rem}
+.prose li{margin:.25rem 0}
+.prose table{width:100%;border-collapse:collapse;font-size:.875rem;margin:1rem 0}
+.prose th,.prose td{border:1px solid var(--border);padding:.45rem .65rem;text-align:left}
+.prose th{background:var(--bg);font-weight:600}
+.prose code{background:var(--bg);padding:.12rem .35rem;border-radius:4px;font-size:.85em}
+.prose pre{background:#1c1917;color:#f5f5f4;padding:1rem;border-radius:var(--radius);overflow-x:auto;margin:1rem 0;font-size:.8rem}
+.prose pre code{background:none;padding:0;color:inherit}
+.prose a{color:var(--accent)}
+.prose hr{border:none;border-top:1px solid var(--border);margin:1.5rem 0}
+.prose blockquote{border-left:3px solid var(--accent);padding-left:1rem;color:var(--muted);margin:1rem 0}
+.prose input[type=checkbox]{margin-right:.35rem;accent-color:var(--accent)}
+</style>
+</head>
+<body>
+<div class="shell">
+  <aside class="sidebar">
+    <div class="brand">
+      <h1>Collab-UX</h1>
+      <p>Context Driven Development</p>
+    </div>
+    <nav class="nav" aria-label="Hauptnavigation">
+      <button type="button" class="nav-btn active" data-target="start" aria-current="page">
+        <span class="nav-icon" aria-hidden="true">◉</span>
+        <span class="nav-label">Start</span>
+      </button>
+<button type="button" class="nav-btn" data-target="neu" aria-current="false">
+        <span class="nav-icon" aria-hidden="true">✦</span>
+        <span class="nav-label">Was ist neu?</span>
+      </button>
+<button type="button" class="nav-btn" data-target="ai-use-cases" aria-current="false">
+        <span class="nav-icon" aria-hidden="true">◇</span>
+        <span class="nav-label">AI Use Cases</span>
+      </button>
+<button type="button" class="nav-btn" data-target="ux-prozess" aria-current="false">
+        <span class="nav-icon" aria-hidden="true">◎</span>
+        <span class="nav-label">UX Prozess</span>
+      </button>
+<button type="button" class="nav-btn" data-target="news" aria-current="false">
+        <span class="nav-icon" aria-hidden="true">◈</span>
+        <span class="nav-label">News UX & AI</span>
+      </button>
+    </nav>
+    <div class="footer-meta">
+      Generiert: 2026-06-12 10:04<br/>
+      Quelle: <code>cdd/*.md</code> — Updates via <code>git pull</code> + <code>npm run build</code>
+    </div>
+  </aside>
+  <main class="main">
+    
+    <section class="page" id="page-start" data-page="start" hidden>
+      <article class="prose"><h1>Collab-UX — Context Driven Development</h1>
+<p>Willkommen in der gemeinsamen Wissensbasis für <strong>UX</strong>, <strong>AI in Applikationen</strong> und <strong>Prozess-Beratung</strong>. Dieses Repo ist bewusst schlank: Inhalte leben in Markdown, die lesbare Oberfläche wird daraus gebaut.</p>
+<hr>
+<h2>Worum es geht</h2>
+<table>
+<thead>
+<tr>
+<th>Ziel</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Bündeln</strong></td>
+<td>UX-Inputs, Use Cases und News an einem Ort statt in verstreuten Chats</td>
+</tr>
+<tr>
+<td><strong>Versionieren</strong></td>
+<td>Git als Historie — wer hat wann was ergänzt?</td>
+</tr>
+<tr>
+<td><strong>CDD</strong></td>
+<td>Kontext für Menschen <em>und</em> KI-Agenten (Cursor) strukturiert bereitstellen</td>
+</tr>
+<tr>
+<td><strong>Lesbar</strong></td>
+<td><code>npm run build</code> → <code>public/index.html</code> zum Ansehen und Teilen</td>
+</tr>
+</tbody></table>
+<hr>
+<h2>Aufbau</h2>
+<pre><code>Collab-UX/
+├── cdd/
+│   ├── index.md              ← diese Datei (Einstieg)
+│   ├── was-ist-neu.md        ← Session „Was ist neu passiert?“
+│   └── nav/
+│       ├── 01-ai-in-applikationen-use-cases.md
+│       ├── 02-ux-prozess-beratung.md
+│       └── 03-news-ux-ai.md
+├── scripts/build-html.js     ← Markdown → HTML
+├── public/index.html         ← generiert (nicht von Hand editieren)
+└── docs/                     ← Zusammenarbeit &amp; Cursor-Hilfen
+</code></pre>
+<hr>
+<h2>Navigationspunkte</h2>
+<ol>
+<li><strong><a href="nav/01-ai-in-applikationen-use-cases.md">AI in Applikationen — Use Cases</a></strong> — konkrete Einsatzszenarien, Patterns, Grenzen</li>
+<li><strong><a href="nav/02-ux-prozess-beratung.md">UX Prozess-Beratung</a></strong> — Workshops, Reviews, Checklisten, Entscheidungsvorlagen</li>
+<li><strong><a href="nav/03-news-ux-ai.md">News zu UX und AI</a></strong> — Kuratierte Links, Trends, interne Learnings</li>
+</ol>
+<p>Zusätzlich: <strong><a href="was-ist-neu.md">Was ist neu passiert?</a></strong> — laufendes Changelog für die Team-Session.</p>
+<hr>
+<h2>CDD-Workflow (kurz)</h2>
+<ol>
+<li><strong>Thema wählen</strong> — passenden Navigationspunkt in <code>cdd/nav/</code> öffnen oder anlegen</li>
+<li><strong>Ergänzen</strong> — Abschnitt hinzufügen, Datum und Autor:in notieren</li>
+<li><strong>Changelog</strong> — in <code>cdd/was-ist-neu.md</code> kurz vermerken, was neu ist</li>
+<li><strong>Bauen &amp; pushen</strong> — <code>npm run build</code>, commit, push</li>
+<li><strong>Abholen</strong> — Kolleg:innen <code>git pull</code>, <code>public/index.html</code> öffnen</li>
+</ol>
+<h3>Konventionen für neue Inhalte</h3>
+<ul>
+<li>Überschrift <code>##</code> pro thematischem Block</li>
+<li>Am Blockende: <code>*Stand: YYYY-MM-DD — Name/Kürzel*</code></li>
+<li>Offene Fragen unter <code>### Offen</code> sammeln</li>
+<li>Große Entscheidungen unter <code>### Entscheidung</code> mit Kurzbegründung</li>
+</ul>
+<hr>
+<h2>Bezug zu RookieLaunch / skillschatz</h2>
+<p>Dieses Repo ist <strong>unabhängig</strong> vom App-Code (<code>MarinasDeploy/RookieLaunch</code>). UX-Erkenntnisse können dort in Issues oder <code>docs/</code> übernommen werden — hier bleibt der <strong>kollaborative UX-Kontext</strong> zentral.</p>
+<hr>
+<p><em>Stand: 2026-06-12 — Initial-Setup</em></p>
+</article>
+    </section>
+
+    <section class="page" id="page-neu" data-page="neu" hidden>
+      <article class="prose"><h1>Was ist neu passiert?</h1>
+<p>Laufendes Changelog für die Team-Session. Neueste Einträge <strong>oben</strong>.</p>
+<hr>
+<h2>2026-06-12 — Initial-Setup</h2>
+<ul>
+<li>Repo <code>MarinasDeploy/Collab-UX</code> angelegt</li>
+<li>CDD-Struktur mit <code>index.md</code>, drei Navigationspunkten und Build-Skript</li>
+<li>HTML-Ausgabe unter <code>public/index.html</code> (über <code>git pull</code> + lokal öffnen)</li>
+</ul>
+<h3>Nächste Schritte (Vorschlag)</h3>
+<ul>
+<li><input disabled="" type="checkbox"> Ersten Use Case unter „AI in Applikationen“ eintragen</li>
+<li><input disabled="" type="checkbox"> UX-Prozess-Checkliste für Review-Sessions ergänzen</li>
+<li><input disabled="" type="checkbox"> Erste News-Links sammeln</li>
+<li><input disabled="" type="checkbox"> Kolleg:innen als Collaborators einladen (siehe <code>docs/KOLLEGEN-EINBINDEN.md</code>)</li>
+</ul>
+<hr>
+<h2>Vorlage für neue Einträge</h2>
+<pre><code class="language-markdown">## YYYY-MM-DD — Kurztitel
+
+- Was wurde ergänzt oder geändert?
+- Welcher Navigationspunkt ist betroffen?
+- Gibt es offene Follow-ups?
+
+*Autor:in*
+</code></pre>
+<hr>
+<p><em>Stand: 2026-06-12</em></p>
+</article>
+    </section>
+
+    <section class="page" id="page-ai-use-cases" data-page="ai-use-cases" hidden>
+      <article class="prose"><h1>AI in Applikationen — Use Cases</h1>
+<p>Sammlung konkreter Einsatzszenarien: Was bringt AI in welcher App-Situation — und was nicht?</p>
+<hr>
+<h2>Struktur je Use Case</h2>
+<p>Jeder Use Case folgt dieser Vorlage (kopieren und ausfüllen):</p>
+<pre><code class="language-markdown">### [Kurztitel des Use Cases]
+
+**Kontext:** Wo in der App / welcher User-Flow?
+**Problem:** Was ist heute mühsam oder unklar?
+**AI-Lösung:** Was soll die KI tun (Input → Output)?
+**Risiken:** Halluzination, Datenschutz, UX-Fallen
+**Status:** Idee | In Prüfung | Umgesetzt | Verworfen
+
+*Stand: YYYY-MM-DD*
+</code></pre>
+<hr>
+<h2>Use Cases (Sammlung)</h2>
+<h3>Beispiel: Eltern-Dashboard — Challenge-Vorschläge</h3>
+<p><strong>Kontext:</strong> Eltern legen neue Challenges an (<code>/parent/dashboard</code>).
+<strong>Problem:</strong> Leere Seite, unklar welche Challenges sinnvoll sind.
+<strong>AI-Lösung:</strong> Vorschläge basierend auf Paket, Alter des Kindes und bisherigen Kategorien — als editierbare Liste, nie auto-publish.
+<strong>Risiken:</strong> Zu generische Vorschläge; DSGVO bei Kindesdaten.
+<strong>Status:</strong> Idee</p>
+<p><em>Stand: 2026-06-12 — Platzhalter</em></p>
+<hr>
+<h3>[Nächster Use Case hier]</h3>
+<p><em>(Eintrag löschen und ersetzen)</em></p>
+<hr>
+<h2>Querschnittsthemen</h2>
+<table>
+<thead>
+<tr>
+<th>Thema</th>
+<th>Notiz</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Human-in-the-loop</strong></td>
+<td>AI schlägt vor, Mensch bestätigt</td>
+</tr>
+<tr>
+<td><strong>Transparenz</strong></td>
+<td>Nutzer:in sieht, dass AI involviert ist</td>
+</tr>
+<tr>
+<td><strong>Fallback</strong></td>
+<td>App funktioniert ohne AI gleichwertig</td>
+</tr>
+</tbody></table>
+<hr>
+<h2>Offen</h2>
+<ul>
+<li>Priorisierung: welcher Use Case zuerst für RookieLaunch?</li>
+<li>Technische Basis: API direkt vs. Agent-Workflow in Cursor?</li>
+</ul>
+<hr>
+<p><em>Stand: 2026-06-12</em></p>
+</article>
+    </section>
+
+    <section class="page" id="page-ux-prozess" data-page="ux-prozess" hidden>
+      <article class="prose"><h1>UX Prozess-Beratung</h1>
+<p>Methoden, Checklisten und Entscheidungsvorlagen für UX-Arbeit im Team — von der Idee bis zum Review.</p>
+<hr>
+<h2>Prozess-Überblick</h2>
+<pre><code class="language-mermaid">flowchart LR
+  A[Problem klären] --&gt; B[Research / Kontext]
+  B --&gt; C[Skizze / Prototyp]
+  C --&gt; D[Review mit Team]
+  D --&gt; E[Umsetzung im Code]
+  E --&gt; F[Validierung / Beta]
+</code></pre>
+<hr>
+<h2>Review-Checkliste (kurz)</h2>
+<p>Vor jedem größeren UI-Release:</p>
+<ul>
+<li><input disabled="" type="checkbox"> <strong>Zielgruppe klar?</strong> (Eltern vs. Rookie vs. beide)</li>
+<li><input disabled="" type="checkbox"> <strong>Happy Path</strong> in unter 3 Klicks erreichbar?</li>
+<li><input disabled="" type="checkbox"> <strong>Fehlerzustände</strong> beschriftet (nicht nur „Error“)?</li>
+<li><input disabled="" type="checkbox"> <strong>Mobile</strong> getestet (375px Breite)?</li>
+<li><input disabled="" type="checkbox"> <strong>Barrierefreiheit:</strong> Kontrast, Fokus, Tastatur?</li>
+<li><input disabled="" type="checkbox"> <strong>Copy</strong> auf Deutsch konsistent (Du/Sie-Regel)?</li>
+<li><input disabled="" type="checkbox"> <strong>Leerzustände</strong> mit Handlungsaufforderung?</li>
+</ul>
+<hr>
+<h2>Workshop-Formate</h2>
+<h3>15-Minuten UX-Flash</h3>
+<ol>
+<li>Screenshot / Link zeigen (2 Min)</li>
+<li>„Was funktioniert / was stört?“ — jede:r 1 Punkt (8 Min)</li>
+<li>Eine konkrete nächste Aktion (5 Min)</li>
+</ol>
+<h3>CDD-Session (30 Min)</h3>
+<ol>
+<li><code>was-ist-neu.md</code> durchgehen (5 Min)</li>
+<li>Einen Navigationspunkt vertiefen (20 Min)</li>
+<li>Changelog + Commit (5 Min)</li>
+</ol>
+<hr>
+<h2>Entscheidungsvorlage</h2>
+<table>
+<thead>
+<tr>
+<th>Frage</th>
+<th>Option A</th>
+<th>Option B</th>
+<th>Entscheidung</th>
+<th>Datum</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><em>Beispiel: Onboarding-Schritte</em></td>
+<td>6 Schritte beibehalten</td>
+<td>auf 4 reduzieren</td>
+<td>offen</td>
+<td>—</td>
+</tr>
+</tbody></table>
+<hr>
+<h2>Beratungs-Anfragen (Backlog)</h2>
+<table>
+<thead>
+<tr>
+<th>Thema</th>
+<th>Anfragende:r</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Eltern-Dashboard Informationsdichte</td>
+<td>—</td>
+<td>offen</td>
+</tr>
+<tr>
+<td>Rookie-Challenge-Flow Vereinfachung</td>
+<td>—</td>
+<td>offen</td>
+</tr>
+</tbody></table>
+<hr>
+<h2>Offen</h2>
+<ul>
+<li>Feste Review-Termine (z. B. monatlich)?</li>
+<li>Figma als Design-Source-of-Truth verlinken?</li>
+</ul>
+<hr>
+<p><em>Stand: 2026-06-12</em></p>
+</article>
+    </section>
+
+    <section class="page" id="page-news" data-page="news" hidden>
+      <article class="prose"><h1>News zu UX und AI</h1>
+<p>Kuratierte Links, Trends und interne Learnings — kein News-Feed-Automatismus, sondern bewusst ausgewählte Einträge.</p>
+<hr>
+<h2>Aktuelle Highlights</h2>
+<h3>2026-06 — Setup Collab-UX</h3>
+<p>Internes Repo für UX-Kollaboration im CDD-Workflow gestartet. Inhalte werden hier gesammelt und als HTML gebaut.</p>
+<p><em>Quelle: intern</em></p>
+<hr>
+<h2>Vorlage für News-Einträge</h2>
+<pre><code class="language-markdown">### YYYY-MM — Titel
+
+Kurze Zusammenfassung (2–4 Sätze): Was ist relevant für uns?
+
+- **Link:** https://…
+- **Relevanz:** RookieLaunch | allgemein UX | AI-Tools
+- **Action:** lesen | testen | im Team besprechen
+
+*Eingetragen: YYYY-MM-DD — Name*
+</code></pre>
+<hr>
+<h2>Themen-Sammlung (noch zu füllen)</h2>
+<table>
+<thead>
+<tr>
+<th>Bereich</th>
+<th>Idee für Quelle</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>AI in Produkt-UI</td>
+<td>NN/g, Baymard, eigene Tests</td>
+</tr>
+<tr>
+<td>Design Systems</td>
+<td>shadcn, Radix, Material</td>
+</tr>
+<tr>
+<td>Accessibility</td>
+<td>WCAG-Updates, axe-Reports</td>
+</tr>
+<tr>
+<td>Cursor / Agent-Workflows</td>
+<td>Cursor-Docs, interne Learnings</td>
+</tr>
+</tbody></table>
+<hr>
+<h2>Archiv</h2>
+<p><em>(Ältere Einträge hierher verschieben, wenn die Liste zu lang wird)</em></p>
+<hr>
+<h2>Offen</h2>
+<ul>
+<li>Newsletter oder nur manuelle Sammlung?</li>
+<li>Filter-Tags einführen (<code>#ai</code>, <code>#a11y</code>, <code>#rookie</code>)?</li>
+</ul>
+<hr>
+<p><em>Stand: 2026-06-12</em></p>
+</article>
+    </section>
+  </main>
+</div>
+<script>
+(function(){
+  var buttons=document.querySelectorAll('.nav-btn');
+  var pages=document.querySelectorAll('.page');
+  function show(id){
+    pages.forEach(function(p){p.hidden=p.dataset.page!==id;});
+    buttons.forEach(function(b){
+      var on=b.dataset.target===id;
+      b.classList.toggle('active',on);
+      b.setAttribute('aria-current',on?'page':'false');
+    });
+    history.replaceState(null,'','#'+id);
+  }
+  buttons.forEach(function(b){b.addEventListener('click',function(){show(b.dataset.target);});});
+  var hash=location.hash.slice(1);
+  var valid=['start','neu','ai-use-cases','ux-prozess','news'];
+  show(valid.indexOf(hash)>=0?hash:'start');
+})();
+</script>
+</body>
+</html>
