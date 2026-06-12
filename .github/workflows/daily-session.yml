@@ -1,0 +1,38 @@
+name: Tägliche Session
+
+on:
+  schedule:
+    # Täglich 19:00 UTC ≈ 20:00 Uhr Deutschland (CET) / 21:00 (CEST)
+    - cron: '0 19 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  session:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 50
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Session für heute schreiben (Europe/Berlin)
+        run: npm run session
+
+      - name: Commit & push
+        run: |
+          git config user.name "collab-ux-bot"
+          git config user.email "collab-ux-bot@users.noreply.github.com"
+          DATE=$(TZ=Europe/Berlin date +%Y-%m-%d)
+          git add "cdd/sessions/${DATE}.md"
+          if git diff --staged --quiet; then
+            echo "Session-Datei unverändert."
+            exit 0
+          fi
+          git commit -m "CDD: Session ${DATE}"
+          git push

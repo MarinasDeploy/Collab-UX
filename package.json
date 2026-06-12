@@ -5,7 +5,8 @@
   "scripts": {
     "build": "node scripts/build-html.js",
     "watch": "node scripts/build-html.js --watch",
-    "research": "node scripts/fetch-ux-ai-research.js"
+    "research": "node scripts/fetch-ux-ai-research.js",
+    "session": "node scripts/write-daily-session.js"
   },
   "devDependencies": {
     "marked": "^15.0.0"

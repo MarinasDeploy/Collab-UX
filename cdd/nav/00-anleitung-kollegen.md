@@ -70,6 +70,11 @@ Wie die bestehenden Einträge. Danach HTML aktualisieren und auf GitHub hochlade
 </details>
 
 <details class="accordion accordion-small">
+<summary>Tägliche Session — automatisch abends</summary>
+<p>Jeden Abend schreibt GitHub eine Datei <strong>cdd/sessions/YYYY-MM-DD.md</strong> mit allen Änderungen des Tages (Commits, geänderte Notizen). Nur im Repo — nicht in der HTML-Navigation. Ihr müsst nichts tun.</p>
+</details>
+
+<details class="accordion accordion-small">
 <summary>KI-Recherche (auto) — ohne Zutun</summary>
 <p>Die Kategorie <strong>KI-Recherche (auto)</strong> füllt sich jeden Montag von selbst: GitHub holt Links aus UX- und KI-Blogs (z. B. NN/g, UX Collective) und baut die HTML neu. Ihr müsst dafür nichts tun — nur ab und zu reinschauen.</p>
 </details>
