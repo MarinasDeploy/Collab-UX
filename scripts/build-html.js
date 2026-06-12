@@ -28,7 +28,6 @@ const PAGES = [
     id: 'news',
     file: 'nav/03-news-ux-ai.md',
     label: 'News zu UX und AI',
-    prependFiles: ['was-ist-neu.md'],
   },
 ]
 
@@ -44,19 +43,11 @@ function readMdRaw(relativePath) {
 }
 
 function readPageMarkdown(page) {
-  const parts = []
-  if (page.prependFiles) {
-    for (const f of page.prependFiles) {
-      const chunk = readMdRaw(f)
-      if (chunk) parts.push(chunk)
-    }
-  }
   const main = readMdRaw(page.file)
-  if (!main && parts.length === 0) {
+  if (!main) {
     return `<p><em>Datei fehlt: ${page.file}</em></p>`
   }
-  parts.push(main)
-  return marked.parse(parts.filter(Boolean).join('\n\n---\n\n'))
+  return marked.parse(main)
 }
 
 function buildHero() {
@@ -231,6 +222,42 @@ body{
 }
 .prose input[type=checkbox]{margin-right:6px;accent-color:var(--violet);width:auto}
 .prose em{color:var(--gray)}
+.prose details.accordion{
+  border:1px solid var(--border);
+  margin:0 0 8px;
+  background:var(--white);
+}
+.prose details.accordion summary{
+  display:flex;align-items:center;gap:10px;
+  padding:12px 16px;
+  font-size:14px;font-weight:700;color:var(--dark);
+  cursor:pointer;list-style:none;
+  user-select:none;
+}
+.prose details.accordion summary::-webkit-details-marker{display:none}
+.prose details.accordion summary::before{
+  content:'+';
+  flex-shrink:0;
+  width:22px;height:22px;
+  display:flex;align-items:center;justify-content:center;
+  font-size:16px;font-weight:700;line-height:1;
+  color:var(--dark);
+  border:1px solid var(--violet);
+  background:var(--violet-light);
+}
+.prose details.accordion[open] summary::before{content:'−'}
+.prose details.accordion summary:hover{background:var(--violet-light)}
+.prose details.accordion .accordion-body,
+.prose details.accordion>p{
+  padding:0 16px 14px 48px;
+  margin:0;
+  font-size:14px;color:var(--black);
+  white-space:pre-wrap;
+}
+.prose details.accordion[open] summary{
+  border-bottom:1px solid var(--border);
+  margin-bottom:0;
+}
 @media(max-width:768px){
   .topbar{padding:0 16px}
   .burger{display:flex}
