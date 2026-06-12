@@ -30,14 +30,34 @@ npm run build
 </details>
 
 <details class="accordion">
-<summary>3. KI-Prompt — Einstieg (tool-neutral)</summary>
+<summary>3. Push — über die KI (Standard)</summary>
+<p><strong>Für GitHub macht es keinen Unterschied</strong>, ob die KI oder du pushst — es landet derselbe Commit im Repo. Empfohlen: die KI führt pull, build, commit und push aus (Prompts 5–7).
+
+Die KI hat <strong>kein eigenes GitHub-Konto</strong> — beim Push gilt immer <strong>deine Anmeldung</strong> auf dem Rechner (einmalig einrichten). Vor dem Push kurz prüfen: richtige .md-Datei, public/index.html mitgebaut, sinnvolle Commit-Message.
+
+Kurz vorher: Repo-Ordner in der KI öffnen, Schreibrecht (Write) auf dem Repo, git pull nicht vergessen.</p>
+</details>
+
+<details class="accordion accordion-small">
+<summary>Optional: Push per Terminal</summary>
+<p>Kleinere Alternative, wenn keine KI mit Terminal-Zugriff verfügbar ist — gleiches Ergebnis:
+
+git pull
+npm run build
+git add cdd/nav/ public/index.html
+git commit -m "CDD: Kurzbeschreibung"
+git push</p>
+</details>
+
+<details class="accordion">
+<summary>4. KI-Prompt — Einstieg (tool-neutral)</summary>
 <p>Lies im geklonten Repo MarinasDeploy/Collab-UX die Datei cdd/index.md und cdd/nav/00-anleitung-kollegen.md.
 Ich arbeite an Collab-UX. Antworte auf Deutsch.
 Welche Datei unter cdd/nav/ ist für [Thema] zuständig?</p>
 </details>
 
 <details class="accordion">
-<summary>4. KI-Prompt — Notiz hinzufügen (komplett)</summary>
+<summary>5. KI-Prompt — Notiz hinzufügen (komplett)</summary>
 <p>Im Repo Collab-UX:
 1. git pull
 2. In [cdd/nav/01-… | 02-… | 03-…] einen neuen Accordion-Eintrag ergänzen (details/summary/p) — Format wie die bestehenden Einträge.
@@ -53,7 +73,7 @@ Führe die Schritte aus oder gib mir die genauen Befehle.</p>
 </details>
 
 <details class="accordion">
-<summary>5. KI-Prompt — News / Impulse</summary>
+<summary>6. KI-Prompt — News / Impulse</summary>
 <p>Im Repo Collab-UX:
 1. git pull
 2. cdd/nav/03-news-ux-ai.md öffnen — neuen Accordion-Eintrag mit Datum und Initialen, Format wie bestehende Einträge.
@@ -64,6 +84,6 @@ Führe alles aus.</p>
 </details>
 
 <details class="accordion">
-<summary>6. KI-Prompt — Stand holen</summary>
+<summary>7. KI-Prompt — Stand holen</summary>
 <p>git pull im Repo Collab-UX, npm run build, sag mir was sich in cdd/nav/ seit dem letzten Mal geändert hat.</p>
 </details>

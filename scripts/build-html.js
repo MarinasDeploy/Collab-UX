@@ -249,6 +249,24 @@ body{
   border-bottom:1px solid var(--border);
   margin-bottom:0;
 }
+.prose details.accordion-small{
+  border-style:dashed;
+  margin-top:4px;
+}
+.prose details.accordion-small summary{
+  font-size:12px;font-weight:600;color:var(--gray);
+  padding:8px 16px;
+}
+.prose details.accordion-small summary::before{
+  width:18px;height:18px;font-size:13px;
+  border-color:var(--gray-mid);
+  background:var(--gray-light);
+  color:var(--gray);
+}
+.prose details.accordion-small>p{
+  font-size:12px;color:var(--gray);
+  padding:0 16px 12px 42px;
+}
 @media(max-width:768px){
   .topbar{padding:0 16px}
   .burger{display:flex}
