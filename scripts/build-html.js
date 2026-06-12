@@ -50,24 +50,13 @@ function readPageMarkdown(page) {
   return marked.parse(main)
 }
 
-function buildHero() {
-  return `
-    <div class="hero" role="banner">
-      <p class="hero-label">Collab-UX</p>
-      <h2 class="hero-title">KI &amp; UX — gemeinsam weiterdenken</h2>
-      <p class="hero-sub">Use Cases, Prozess-Beratung und News: Inhalte, die du und dein Kollege im CDD-Workflow laufend ergänzt — versioniert im Repo, lesbar als HTML.</p>
-    </div>`
-}
-
 function buildSections() {
-  return PAGES.map((p, i) => {
-    const hero = i === 0 ? buildHero() : ''
-    return `
+  return PAGES.map(
+    (p) => `
     <section class="page" id="page-${p.id}" data-page="${p.id}" hidden>
-      ${hero}
       <article class="prose">${readPageMarkdown(p)}</article>
     </section>`
-  }).join('\n')
+  ).join('\n')
 }
 
 function buildNav() {
@@ -169,20 +158,6 @@ body{
   background:var(--white);
 }
 .page[hidden]{display:none!important}
-.hero{
-  background:var(--dark);
-  border-radius:12px;
-  padding:36px 40px;
-  margin-bottom:36px;
-  border-left:6px solid var(--yellow);
-}
-.hero-label{
-  font-size:11px;font-weight:700;
-  text-transform:uppercase;letter-spacing:.1em;
-  color:var(--yellow);margin-bottom:8px;
-}
-.hero-title{font-size:26px;font-weight:700;color:var(--white);margin-bottom:10px;line-height:1.25}
-.hero-sub{font-size:14px;color:#C8BFEF;margin:0;max-width:42em}
 .prose h1{font-size:20px;font-weight:700;color:var(--dark);margin-bottom:14px;line-height:1.3}
 .prose h2{
   font-size:20px;font-weight:700;color:var(--dark);
