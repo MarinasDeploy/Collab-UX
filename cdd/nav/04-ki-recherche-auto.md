@@ -4,6 +4,20 @@ Automatisch gesammelte Links aus UX- und KI-Quellen. Wird **wöchentlich** per G
 
 <!-- AUTO-RESEARCH:START -->
 <details class="accordion">
+<summary>2026-06-12 — The Core Skill of Design in the AI Era: Critique (Nielsen Norman Group)</summary>
+<p>To build useful and usable AI-powered systems, our understanding of users’ needs and our design judgement must be encoded into well-defined evaluation criteria.
+
+Link: https://www.nngroup.com/articles/ai-era-critique/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+</details>
+
+<details class="accordion">
+<summary>2026-06-12 — Context Architecture (Nielsen Norman Group)</summary>
+<p>Context architecture applies information architecture principles to AI systems, helping agents interpret information and produce better, user aligned responses.
+
+Link: https://www.nngroup.com/articles/context-architecture/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+</details>
+
+<details class="accordion">
 <summary>2026-06-11 — Our new community investments in Virginia support local jobs and expand energy affordability. (Google AI Blog)</summary>
 <p>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp"&gt;We’re helping build the state’s next-generation workforce and investing in energy programs.
 
@@ -71,19 +85,5 @@ Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/ge
 <p>To influence the roadmap: join planning early, learn constraints, tie research to PM metrics, and give clear recommendations at the right time.
 
 Link: https://www.nngroup.com/articles/research-recommendations-roadmap/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
-</details>
-
-<details class="accordion">
-<summary>2026-05-29 — Using RAS to Guide UX Research Resource Allocation and Strategy (Nielsen Norman Group)</summary>
-<p>RAS helps managers allocate resources based on actual impact, shifting focus from outputs to outcomes and enabling data-driven UX strategies.
-
-Link: https://www.nngroup.com/articles/ras-research-resource-allocation/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
-</details>
-
-<details class="accordion">
-<summary>2026-05-29 — Check out real-life AI prototypes from the Futures Lab. (Google AI Blog)</summary>
-<p>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp"&gt;University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.
-
-Link: https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/</p>
 </details>
 <!-- AUTO-RESEARCH:END -->
