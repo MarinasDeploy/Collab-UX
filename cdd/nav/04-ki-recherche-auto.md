@@ -4,17 +4,17 @@ Automatisch gesammelte Links aus UX- und KI-Quellen. Wird **wöchentlich** per G
 
 <!-- AUTO-RESEARCH:START -->
 <details class="accordion">
-<summary>2026-06-12 — The Core Skill of Design in the AI Era: Critique (Nielsen Norman Group)</summary>
-<p>To build useful and usable AI-powered systems, our understanding of users’ needs and our design judgement must be encoded into well-defined evaluation criteria.
+<summary>2026-06-17 — New research shows how AMIE, our medical AI, could help manage health conditions. (Google AI Blog)</summary>
+<p>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp"&gt;Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.
 
-Link: https://www.nngroup.com/articles/ai-era-critique/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-06-12 — Context Architecture (Nielsen Norman Group)</summary>
-<p>Context architecture applies information architecture principles to AI systems, helping agents interpret information and produce better, user aligned responses.
+<summary>2026-06-15 — We’re strengthening our presence in Alabama through new investments and community support. (Google AI Blog)</summary>
+<p>Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…
 
-Link: https://www.nngroup.com/articles/context-architecture/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/</p>
 </details>
 
 <details class="accordion">
@@ -22,20 +22,6 @@ Link: https://www.nngroup.com/articles/context-architecture/?utm_source=rss&utm_
 <p>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp"&gt;We’re helping build the state’s next-generation workforce and investing in energy programs.
 
 Link: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/</p>
-</details>
-
-<details class="accordion">
-<summary>2026-06-05 — The Hidden Why: Behavioral Economics for UX (Nielsen Norman Group)</summary>
-<p>Use behavioral-economics frameworks to uncover hidden friction in your experience and design UX solutions that better support user action.
-
-Link: https://www.nngroup.com/articles/behavioral-economics-for-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
-</details>
-
-<details class="accordion">
-<summary>2026-06-05 — The Four Design Jobs AI Created (So Far) (Nielsen Norman Group)</summary>
-<p>"AI design" is one label but has forked into four different types of work.
-
-Link: https://www.nngroup.com/articles/design-jobs-ai-created/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 
 <details class="accordion">
@@ -53,37 +39,9 @@ Link: https://blog.google/products-and-platforms/products/search/thrifting-tips/
 </details>
 
 <details class="accordion">
-<summary>2026-06-03 — UX Conference September Announced (Sep 14 - Sep 25) (Nielsen Norman Group)</summary>
-<p>Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX professionals. September 14 - September 25, 2026.
-
-Link: https://www.nngroup.com/training/september/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
-</details>
-
-<details class="accordion">
 <summary>2026-06-01 — How we used Gemini to build Google I/O 2026 (Google AI Blog)</summary>
 <p>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp"&gt;Learn how Googlers used AI to produce Google I/O 2026.
 
 Link: https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/</p>
-</details>
-
-<details class="accordion">
-<summary>2026-05-29 — Take our I/O 2026 quiz, vibe coded in Google AI Studio. (Google AI Blog)</summary>
-<p>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp"&gt;We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.
-
-Link: https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/</p>
-</details>
-
-<details class="accordion">
-<summary>2026-05-29 — 9 demos of Gemini Omni and Gemini 3.5 in action (Google AI Blog)</summary>
-<p>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp"&gt;Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.
-
-Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/</p>
-</details>
-
-<details class="accordion">
-<summary>2026-05-29 — How to Get Research Recommendations on the Roadmap (Nielsen Norman Group)</summary>
-<p>To influence the roadmap: join planning early, learn constraints, tie research to PM metrics, and give clear recommendations at the right time.
-
-Link: https://www.nngroup.com/articles/research-recommendations-roadmap/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 <!-- AUTO-RESEARCH:END -->
