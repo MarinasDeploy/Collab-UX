@@ -1,18 +1,42 @@
 [
   {
-    "name": "Nielsen Norman Group",
-    "url": "https://www.nngroup.com/feed/rss/"
+    "name": "heise online",
+    "url": "https://www.heise.de/newsticker/heise-atom.xml",
+    "lang": "de",
+    "keywordFilter": true
   },
   {
-    "name": "UX Collective",
-    "url": "https://uxdesign.cc/feed"
+    "name": "t3n",
+    "url": "https://t3n.de/news/feed/",
+    "lang": "de",
+    "keywordFilter": true
+  },
+  {
+    "name": "Golem.de",
+    "url": "https://rss.golem.de/rss.php?feed=RSS2.0",
+    "lang": "de",
+    "keywordFilter": true
+  },
+  {
+    "name": "Netzpolitik.org",
+    "url": "https://netzpolitik.org/feed/",
+    "lang": "de",
+    "keywordFilter": true
+  },
+  {
+    "name": "Basic Thinking",
+    "url": "https://basicthinking.de/feed/",
+    "lang": "de",
+    "keywordFilter": true
+  },
+  {
+    "name": "Nielsen Norman Group",
+    "url": "https://www.nngroup.com/feed/rss/",
+    "lang": "en"
   },
   {
     "name": "Google AI Blog",
-    "url": "https://blog.google/technology/ai/rss/"
-  },
-  {
-    "name": "OpenAI Blog",
-    "url": "https://openai.com/blog/rss.xml"
+    "url": "https://blog.google/technology/ai/rss/",
+    "lang": "en"
   }
 ]
