@@ -4,86 +4,86 @@ Automatisch gesammelte Links — **Schwerpunkt Deutsch** (heise, t3n, Golem, Net
 
 <!-- AUTO-RESEARCH:START -->
 <details class="accordion">
-<summary>2026-06-29 — Vor der Nasdaq-100-Aufnahme: Neuer Schub für SpaceX (Golem.de · DE)</summary>
-<p>Anleger reagieren auf hohe KI-Investitionen allergisch, das bekommt auch SpaceX zu spüren. Die Aufnahme in die Nasdaq 100 wird Musks Firma Schwung geben, aber der KI-lastige Index ist hochvolatil. Eine Analyse von Erich Moechel (&lt;a href="https://www.golem.de/specials/spacex/"&gt;SpaceX&lt;/a&gt;, &lt;a href="https://www.golem.de/s
+<summary>2026-07-06 — Vibe Coding: Schüler hackt Streaminganbieter mit ChatGPT-Programm (Golem.de · DE)</summary>
+<p>Ein 15-Jähriger ist in Japan verhaftet worden, da er sich in den Anime-Streamingdienst von Bandai eingehackt hat - mithilfe von ChatGPT. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/namco-bandai/"&gt;Bandai Namco&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=21
 
-Link: https://www.golem.de/news/vor-der-nasdaq-100-aufnahme-neuer-schub-fuer-spacex-2606-210284.html</p>
+Link: https://www.golem.de/news/vibe-coding-schueler-hackt-streaminganbieter-mit-chatgpt-programm-2607-210541.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-06-29 — KI-Tippspiel zur WM 2026: ChatGPT, Claude und Gemini haben die Gruppenphase getippt – wer war am besten? (t3n · DE)</summary>
-<p>Wir haben Claude, Gemini und ChatGPT zur WM 2026 antreten lassen. Die Chatbots haben die Gruppenphase des Turniers getippt. Welche KI hat die meisten richtigen Ergebnisse vorhergesagt? Egal, ob im Familienkreis oder an der Arbeit: Die Weltmeisterschaft im Fußball dürfte auch dieses Mal wieder zahlreiche Tippspiele mit 
+<summary>2026-07-06 — Verbraucherschutz: Tripadvisor-KI beschönigt negative Hotelbewertungen (Golem.de · DE)</summary>
+<p>Lebensmittelvergiftungen bei Hunderten Gästen und schwere Hygienemängel werden von der KI bei Tripadvisor beschönigt oder ignoriert. (&lt;a href="https://www.golem.de/specials/verbraucherschutz/"&gt;Verbraucherschutz&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;
 
-Link: https://t3n.de/news/fussball-wm-2026-ki-tippspiel-chatgpt-gemini-claude-1745234/</p>
+Link: https://www.golem.de/news/verbraucherschutz-tripadvisor-ki-beschoenigt-negative-hotelbewertungen-2607-210538.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-06-29 — Anzeige: Samsung Galaxy Tab mit S-Pen stark reduziert bei Amazon (Golem.de · DE)</summary>
-<p>Das Samsung Galaxy Tab S10 FE mit 10,9'' großem WUXGA-Display, 8.000-mAh-Akku und KI gibt es inklusive S-Pen zum Aktionspreis bei Amazon. (&lt;a href="https://www.golem.de/specials/galaxy-tab/"&gt;Galaxy Tab&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/samsung/"&gt;Samsung&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp
+<summary>2026-07-06 — Ein KI-Betriebssystem für Selbstständige: Dank Claude mit weniger Ressourcen produktiver arbeiten (t3n · DE)</summary>
+<p>Adrian Rohnfelder, der Unternehmen beim Einsatz von KI berät, hat sich mit Anthropics Claude ein persönliches KI-Betriebssystem aufgebaut. Warum er dadurch häufiger Aufträge ablehnt, höhere Honorare verlangt und mehr Freude an der Arbeit hat. Die Akademie akzeptiert meinen Workshop-Vorschlag, mit einer Bedingung: Statt
 
-Link: https://www.golem.de/news/anzeige-samsung-galaxy-tab-mit-s-pen-stark-reduziert-bei-amazon-2606-210285.html</p>
+Link: https://t3n.de/news/claude-ki-betriebssystem-produkt-arbeiten-1750353/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-06-29 — Wegen US-Einflussnahme: Österreichischer Staatssekretär will Anthropic in EU holen (Golem.de · DE)</summary>
-<p>Die restriktive Freigabe von Anthropics KI-Modellen Mythos und Fable führt der EU ihre technologische Abhängigkeit vor Augen. (&lt;a href="https://www.golem.de/specials/anthropic/"&gt;Anthropic&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=210279&amp;page=1&a
+<summary>2026-07-06 — AfD-Parteitag in Erfurt: Die Angst vor dem faschistischen Überwachungsstaat (Netzpolitik.org · DE)</summary>
+<p>Die Thüringer Polizei erhielt Unterstützung aus dem ganzen Bundesgebiet. Hubschrauber und Wasserwerfer sind mit Kameras bestückt. – Alle Rechte vorbehalten: Timothy Froh Bei den Protesten gegen den AfD-Parteitag in Erfurt ging es auch um drohende KI-Überwachung. Viele Protestierende fürchten sich davor, dass Videoanaly
 
-Link: https://www.golem.de/news/wegen-us-einflussnahme-oesterreichischer-staatssekretaer-will-anthropic-in-eu-holen-2606-210279.html</p>
+Link: https://netzpolitik.org/2026/afd-parteitag-in-erfurt-die-angst-vor-dem-faschistischen-ueberwachungsstaat/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-06-29 — KI-Forschung: Chatbots können Wahnvorstellungen verstärken (Golem.de · DE)</summary>
-<p>Eine Übersichtsarbeit warnt vor einer Verstärkung von Wahnvorstellungen durch drei typische Verhaltensweisen von KI-Chatbots. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/google/"&gt;Google&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=210275&amp;page=1&amp;ts=
+<summary>2026-07-06 — Sie sieht die Menschheit in Gefahr: Britische Außenministerin warnt vor &#8222;KI-Version von Hiroshima&#8220; (t3n · DE)</summary>
+<p>Der beispiellose Boom Künstlicher Intelligenz bedarf schleuniger Regulierung, meint die britische Außenministerin. Sie sieht die Menschheit in Gefahr – und fühlt sich an die erste Atombombe erinnert. Großbritanniens Außenministerin Yvette Cooper sieht die Menschheit in akuter Gefahr, wenn die unkalkulierbaren Risiken d
 
-Link: https://www.golem.de/news/psychologische-risiken-bei-sprachmodelle-ki-chatbots-koennen-wahnvorstellungen-verstaerken-2606-210275.html</p>
+Link: https://t3n.de/news/yvette-cooper-ki-version-hiroshima-1751333/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-06-29 — Anzeige: Kollaboration ohne Datenschutzrisiko - geht das? (Golem.de · DE)</summary>
-<p>Ja - wenn die Infrastruktur stimmt. Nextcloud Workspace vereint Kollaboration, KI-Unterstützung und E-Mail in einer souveränen Cloud-Plattform, betrieben von IONOS Cloud in deutschen Rechenzentren. (&lt;a href="https://www.golem.de/specials/cloud/"&gt;Cloud&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/software/"&gt;Software&lt;/a&gt;)
+<summary>2026-07-06 — Alternative Schulmodelle in den USA: US Privatschulen setzen auf KI statt Lehrer (Golem.de · DE)</summary>
+<p>Neue Privatschulen in den USA ersetzen traditionellen Unterricht durch KI-Lernsoftware und Projektarbeit. Das zeigt das Beispiel Alpha. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/studium/"&gt;Studium&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=210524&amp;pa
 
-Link: https://www.golem.de/news/anzeige-kollaboration-ohne-datenschutzrisiko-geht-das-2606-210223.html</p>
+Link: https://www.golem.de/news/alternative-schulmodelle-in-den-usa-us-privatschulen-setzen-auf-ki-statt-lehrer-2607-210524.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-06-29 — 5 Dinge, die du diese Woche wissen musst: Kann Europa im KI-Zeitalter bestehen? (t3n · DE)</summary>
-<p>Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um ein düsteres Zukunftsszenario, die Technik von ASML, Kaffeeautomaten, Chronoworking und ein praktisches Open-Source-Tool. Nachdem bereits Anthropic von der US-Regierung verboten wurde, ihr neuestes KI-Modell außerhalb
+<summary>2026-07-06 — 5 Dinge, die du diese Woche wissen musst: Was passiert, wenn wir mehr als 8 Stunden arbeiten (t3n · DE)</summary>
+<p>Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es ums Arbeitsrecht, neue Chips von IBM, CEOs, die KI verbieten, das Ende von Discs und Whatsapp Plus. Im gerade vorgestellten Reformpaket ist eine mögliche Auflockerung des 8-Stunden-Tages noch nicht enthalten. Das bedeute
 
-Link: https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-kann-europa-im-ki-zeitalter-bestehen-1749702/</p>
+Link: https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-was-passiert-wenn-wir-mehr-als-8-stunden-arbeiten-1751027/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-06-29 — Engpässe bei Rechenkapazitäten: Google begrenzt Metas Zugriff auf Gemini (Golem.de · DE)</summary>
-<p>Meta will Gemini eigentlich viel stärker einsetzen, aber Google kann die nötige Rechenleistung für den KI-Einsatz nicht liefern. (&lt;a href="https://www.golem.de/specials/gemini/"&gt;Gemini&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/google/"&gt;Google&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=210272&amp;pag
+<summary>2026-07-06 — Anzeige: KI-Agenten im Unternehmen: Workshop mit Praxisdemos (Golem.de · DE)</summary>
+<p>KI-Agenten versprechen mehr Autonomie als Chatbots. Für Unternehmen zählt, ob Sicherheit, Kosten und Nutzen belastbar sind. Ein Workshop ordnet die Praxis ein. (&lt;a href="https://www.golem.de/specials/golemakademie/"&gt;Golem Karrierewelt&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/programmiersprache/"&gt;Programmiersprachen&lt;
 
-Link: https://www.golem.de/news/engpaesse-bei-rechenkapazitaeten-google-begrenzt-metas-zugriff-auf-gemini-2606-210272.html</p>
+Link: https://www.golem.de/news/anzeige-ki-agenten-im-unternehmen-workshop-mit-praxisdemos-2607-209735.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-06-28 — Trotz KI: Jobs in der IT-Branche haben laut Arbeitsagentur eine Zukunft (Golem.de · DE)</summary>
-<p>Der Einsatz von KI verändert zwar den Arbeitsmarkt. Der Chef der Regionaldirektion der Bundesarbeitsagentur warnt allerdings vor Panikmache. (&lt;a href="https://www.golem.de/specials/it-jobs/"&gt;Arbeit&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=210262&am
+<summary>2026-07-06 — Google Gemini löscht 30.000 Zeilen Code – und versucht es zu vertuschen (t3n · DE)</summary>
+<p>Kurioses Fundstück von Reddit: Gemini hat versehentlich 30 000 Zeilen Code gelöscht. Daraufhin reagierte die Google-KI allzu menschlich. Sie hat versucht, ihren Fehler zu vertuschen und sich selbt als Retter darzustellen. Ein Reddit-User beauftragte kürzlich Gemini 3.5, mit einer überschaubaren Aktion. Die KI sollte ac
 
-Link: https://www.golem.de/news/trotz-ki-jobs-in-der-it-branche-haben-laut-arbeitsagentur-eine-zukunft-2606-210262.html</p>
+Link: https://t3n.de/news/google-gemini-loescht-code-fehler-vertuschung-1743891/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-06-28 — (g+) Lokales Sprachmodell: Vom Ollama-Demo zur produktiven Open-LLM-App (Golem.de · DE)</summary>
-<p>Ein lokales Sprachmodell läuft in Minuten. Wie daraus eine Anwendung wird, entscheidet der Code drumherum. Eine Anleitung von Bastian Gruber (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/spracherkennung/"&gt;Spracherkennung&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&
+<summary>2026-07-05 — Claude schickt Nutzer um 8:30 Uhr morgens ins Bett – und niemand weiß warum (t3n · DE)</summary>
+<p>Nutzer:innen berichten, dass der Chatbot während der Sitzung immer wieder „Gute Nacht“ sagt – teilweise mitten am Tag. Expert:innen finden unterschiedliche Erklärungsansätze für dieses seltsame Verhalten. Anthropics Chatbot Claude zeigt ein seltsames Verhalten: Wie Fortune berichtet, soll er Nutzer:innen offenbar immer
 
-Link: https://www.golem.de/news/lokales-sprachmodell-vom-ollama-demo-zur-produktiven-open-llm-app-2606-210241.html</p>
+Link: https://t3n.de/news/claude-chatbot-schickt-nutzer-schlafen-anthropic-raetselt-1750103/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-06-26 — Kick the Bots Out of Your Survey Data (Nielsen Norman Group · EN)</summary>
-<p>Learn to spot and filter out survey bots’ responses before analysis so fake data doesn’t distort your findings.
+<summary>2026-07-03 — Stop Reporting UX Activity and Report Business Outcomes (Nielsen Norman Group · EN)</summary>
+<p>UX teams should report business outcomes — not activity or UX metrics — to show impact on revenue, cost, risk, speed, retention, and to secure resources.
 
-Link: https://www.nngroup.com/articles/survey-bots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.nngroup.com/articles/reporting-ux-business-outcomes/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 
 <details class="accordion">
-<summary>2026-06-26 — Your New UX Habit: Establishing Baselines for Impact (Nielsen Norman Group · EN)</summary>
-<p>Gather baseline metrics before starting a project so your team can demonstrate its impact.
+<summary>2026-07-03 — Crafting AI Explanations for Every Role in Your Enterprise (Nielsen Norman Group · EN)</summary>
+<p>Different enterprise roles need different types of explanations for AI outputs.
 
-Link: https://www.nngroup.com/articles/establishing-baselines/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.nngroup.com/articles/crafting-ai-explanations/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 <!-- AUTO-RESEARCH:END -->
