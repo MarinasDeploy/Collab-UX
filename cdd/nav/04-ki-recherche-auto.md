@@ -4,86 +4,86 @@ Automatisch gesammelte Links — **Schwerpunkt Deutsch** (heise, t3n, Golem, Net
 
 <!-- AUTO-RESEARCH:START -->
 <details class="accordion">
-<summary>2026-07-06 — Vibe Coding: Schüler hackt Streaminganbieter mit ChatGPT-Programm (Golem.de · DE)</summary>
-<p>Ein 15-Jähriger ist in Japan verhaftet worden, da er sich in den Anime-Streamingdienst von Bandai eingehackt hat - mithilfe von ChatGPT. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/namco-bandai/"&gt;Bandai Namco&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=21
+<summary>2026-07-13 — (g+) Artificial Intelligence: Who cleans up after the vibe-coding party? (Golem.de · DE)</summary>
+<p>Our obsession with AI code-writing tools is overwhelming the web's unsung human caretakers. Von Sam Learner (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/softwareentwicklung/"&gt;Softwareentwicklung&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=210787&amp;page=1
 
-Link: https://www.golem.de/news/vibe-coding-schueler-hackt-streaminganbieter-mit-chatgpt-programm-2607-210541.html</p>
+Link: https://www.golem.de/news/artificial-intelligence-who-cleans-up-after-the-vibe-coding-party-2607-210787.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-07-06 — Verbraucherschutz: Tripadvisor-KI beschönigt negative Hotelbewertungen (Golem.de · DE)</summary>
-<p>Lebensmittelvergiftungen bei Hunderten Gästen und schwere Hygienemängel werden von der KI bei Tripadvisor beschönigt oder ignoriert. (&lt;a href="https://www.golem.de/specials/verbraucherschutz/"&gt;Verbraucherschutz&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;
+<summary>2026-07-13 — Googles KI-Suche: Die Antwortmaschine wird zur Slop-Maschine (Golem.de · DE)</summary>
+<p>Googles KI-Zusammenfassungen und der neue KI-Modus nehmen Content-Machern die Butter vom Brot. Das muss aufhören, sonst gibt es Italian Brainrot - aber in echt. Ein IMHO von Christian Rentrop (&lt;a href="https://www.golem.de/specials/google/"&gt;Google&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https
 
-Link: https://www.golem.de/news/verbraucherschutz-tripadvisor-ki-beschoenigt-negative-hotelbewertungen-2607-210538.html</p>
+Link: https://www.golem.de/news/googles-ki-suche-die-antwortmaschine-wird-zur-slop-maschine-2607-210514.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-07-06 — Ein KI-Betriebssystem für Selbstständige: Dank Claude mit weniger Ressourcen produktiver arbeiten (t3n · DE)</summary>
-<p>Adrian Rohnfelder, der Unternehmen beim Einsatz von KI berät, hat sich mit Anthropics Claude ein persönliches KI-Betriebssystem aufgebaut. Warum er dadurch häufiger Aufträge ablehnt, höhere Honorare verlangt und mehr Freude an der Arbeit hat. Die Akademie akzeptiert meinen Workshop-Vorschlag, mit einer Bedingung: Statt
+<summary>2026-07-13 — Samsung Health: Zwang zur Freigabe für KI-Training (Golem.de · DE)</summary>
+<p>Samsung-Health-Nutzer müssen dem KI-Training zustimmen. Wer widerspricht, verliert die Synchronisation mit dem Samsung-Konto. (&lt;a href="https://www.golem.de/specials/samsung/"&gt;Samsung&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=210786&amp;page=1&amp;t
 
-Link: https://t3n.de/news/claude-ki-betriebssystem-produkt-arbeiten-1750353/</p>
+Link: https://www.golem.de/news/samsung-health-zwang-zur-freigabe-fuer-ki-training-2607-210786.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-07-06 — AfD-Parteitag in Erfurt: Die Angst vor dem faschistischen Überwachungsstaat (Netzpolitik.org · DE)</summary>
-<p>Die Thüringer Polizei erhielt Unterstützung aus dem ganzen Bundesgebiet. Hubschrauber und Wasserwerfer sind mit Kameras bestückt. – Alle Rechte vorbehalten: Timothy Froh Bei den Protesten gegen den AfD-Parteitag in Erfurt ging es auch um drohende KI-Überwachung. Viele Protestierende fürchten sich davor, dass Videoanaly
+<summary>2026-07-13 — 5 Dinge, die du diese Woche wissen musst: Das Ende einer Ära (t3n · DE)</summary>
+<p>Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um das Ende physischer Medien, Vibe-Working, Claude, Fusionsreaktoren und lokale KI-Modelle. Sony hat mit der Ankündigung, ab 2028 keine Playstation-Spiele auf Discs zu verkaufen, viel Kritik einstecken müssen. Fakt ist 
 
-Link: https://netzpolitik.org/2026/afd-parteitag-in-erfurt-die-angst-vor-dem-faschistischen-ueberwachungsstaat/</p>
+Link: https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-das-ende-einer-aera-1752220/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-07-06 — Sie sieht die Menschheit in Gefahr: Britische Außenministerin warnt vor &#8222;KI-Version von Hiroshima&#8220; (t3n · DE)</summary>
-<p>Der beispiellose Boom Künstlicher Intelligenz bedarf schleuniger Regulierung, meint die britische Außenministerin. Sie sieht die Menschheit in Gefahr – und fühlt sich an die erste Atombombe erinnert. Großbritanniens Außenministerin Yvette Cooper sieht die Menschheit in akuter Gefahr, wenn die unkalkulierbaren Risiken d
+<summary>2026-07-13 — Large Tabular Models: Neue KI-Modelle machen Schluss mit dem Excel-Handicap (t3n · DE)</summary>
+<p>KI-Tools wie ChatGPT oder Claude lassen sich in Office-Programme einklinken, wirklich zuverlässig funktioniert das gerade bei der Verarbeitung von komplexen Datensätzen aber nicht. Eine neue Modellklasse will Abhilfe schaffen. Excel ist überall. Im Controlling, in der Berichtserstellung, in der Projektplanung. Auch der
 
-Link: https://t3n.de/news/yvette-cooper-ki-version-hiroshima-1751333/</p>
+Link: https://t3n.de/news/large-tabular-models-neue-ki-modelle-machen-schluss-mit-dem-excel-handicap-1752212/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-07-06 — Alternative Schulmodelle in den USA: US Privatschulen setzen auf KI statt Lehrer (Golem.de · DE)</summary>
-<p>Neue Privatschulen in den USA ersetzen traditionellen Unterricht durch KI-Lernsoftware und Projektarbeit. Das zeigt das Beispiel Alpha. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/studium/"&gt;Studium&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=210524&amp;pa
+<summary>2026-07-12 — Maschinenträume 3: KI = Künstliche Ignoranz? (Golem.de · DE)</summary>
+<p>Skalierung wird alle Probleme lösen, sagen KI-Fans. Aber: Theoretische Grenzen haben praktische Konsequenzen. Und praktische Grenzen haben reale Konsequenzen. Und am Ende hat die Realität sowieso immer Recht. Ein Deep Dive von P. R. Rhesia (&lt;a href="https://www.golem.de/specials/maschinentraeume/"&gt;Maschinenträume&lt;/a&gt;, 
 
-Link: https://www.golem.de/news/alternative-schulmodelle-in-den-usa-us-privatschulen-setzen-auf-ki-statt-lehrer-2607-210524.html</p>
+Link: https://www.golem.de/news/maschinentraeume-3-ki-kuenstliche-ignoranz-2607-210677.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-07-06 — 5 Dinge, die du diese Woche wissen musst: Was passiert, wenn wir mehr als 8 Stunden arbeiten (t3n · DE)</summary>
-<p>Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es ums Arbeitsrecht, neue Chips von IBM, CEOs, die KI verbieten, das Ende von Discs und Whatsapp Plus. Im gerade vorgestellten Reformpaket ist eine mögliche Auflockerung des 8-Stunden-Tages noch nicht enthalten. Das bedeute
+<summary>2026-07-12 — Anzeige: IT-Jobs in Architektur, Engineering und Cloud (Golem.de · DE)</summary>
+<p>Ob Softwarearchitektur, Cloud-Plattformen für KI oder Data Governance - diese Positionen bieten spannende Aufgaben und Technologien. (&lt;a href="https://www.golem.de/specials/golemakademie/"&gt;Golem Karrierewelt&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/unternehmenssoftware/"&gt;Unternehmenssoftware&lt;/a&gt;) &lt;img src="https://c
 
-Link: https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-was-passiert-wenn-wir-mehr-als-8-stunden-arbeiten-1751027/</p>
+Link: https://www.golem.de/news/anzeige-it-jobs-in-architektur-engineering-und-cloud-2607-210739.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-07-06 — Anzeige: KI-Agenten im Unternehmen: Workshop mit Praxisdemos (Golem.de · DE)</summary>
-<p>KI-Agenten versprechen mehr Autonomie als Chatbots. Für Unternehmen zählt, ob Sicherheit, Kosten und Nutzen belastbar sind. Ein Workshop ordnet die Praxis ein. (&lt;a href="https://www.golem.de/specials/golemakademie/"&gt;Golem Karrierewelt&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/programmiersprache/"&gt;Programmiersprachen&lt;
+<summary>2026-07-11 — Künstliche Intelligenz: Anthropic spendiert Claude Code einen eingebauten Browser (Golem.de · DE)</summary>
+<p>Claude Code kann ab sofort direkt aus der Desktop-App heraus im Web surfen. Anthropic betont die Sicherheit dieses Ansatzes. (&lt;a href="https://www.golem.de/specials/claude/"&gt;Claude&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/browser/"&gt;Browser&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=210775&amp;page=
 
-Link: https://www.golem.de/news/anzeige-ki-agenten-im-unternehmen-workshop-mit-praxisdemos-2607-209735.html</p>
+Link: https://www.golem.de/news/kuenstliche-intelligenz-anthropic-spendiert-claude-code-einen-eingebauten-browser-2607-210775.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-07-06 — Google Gemini löscht 30.000 Zeilen Code – und versucht es zu vertuschen (t3n · DE)</summary>
-<p>Kurioses Fundstück von Reddit: Gemini hat versehentlich 30 000 Zeilen Code gelöscht. Daraufhin reagierte die Google-KI allzu menschlich. Sie hat versucht, ihren Fehler zu vertuschen und sich selbt als Retter darzustellen. Ein Reddit-User beauftragte kürzlich Gemini 3.5, mit einer überschaubaren Aktion. Die KI sollte ac
+<summary>2026-07-11 — Apple verklagt OpenAI: Diebstahl von geistigem Eigentum und Geschäftsgeheimnissen (Golem.de · DE)</summary>
+<p>In der Klageschrift unterstellt Apple OpenAI ein methodisches Vorgehen, das auf allen Ebenen geplant worden sei. (&lt;a href="https://www.golem.de/specials/apple/"&gt;Apple&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/wirtschaft/"&gt;Wirtschaft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=210770&amp;page=1&amp;ts
 
-Link: https://t3n.de/news/google-gemini-loescht-code-fehler-vertuschung-1743891/</p>
+Link: https://www.golem.de/news/apple-verklagt-openai-diebstahl-von-geistigem-eigentum-und-geschaeftsgeheimnissen-2607-210770.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-07-05 — Claude schickt Nutzer um 8:30 Uhr morgens ins Bett – und niemand weiß warum (t3n · DE)</summary>
-<p>Nutzer:innen berichten, dass der Chatbot während der Sitzung immer wieder „Gute Nacht“ sagt – teilweise mitten am Tag. Expert:innen finden unterschiedliche Erklärungsansätze für dieses seltsame Verhalten. Anthropics Chatbot Claude zeigt ein seltsames Verhalten: Wie Fortune berichtet, soll er Nutzer:innen offenbar immer
+<summary>2026-07-10 — The 5 Qualities of Site-Specific AI Chatbots (Nielsen Norman Group · EN)</summary>
+<p>Handoff willingness, flexibility, proactivity, emotional responsiveness, and transparency help you build trustworthy AI chatbots that guide users well.
 
-Link: https://t3n.de/news/claude-chatbot-schickt-nutzer-schlafen-anthropic-raetselt-1750103/</p>
+Link: https://www.nngroup.com/articles/dimensions-of-ai-chatbots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 
 <details class="accordion">
-<summary>2026-07-03 — Stop Reporting UX Activity and Report Business Outcomes (Nielsen Norman Group · EN)</summary>
-<p>UX teams should report business outcomes — not activity or UX metrics — to show impact on revenue, cost, risk, speed, retention, and to secure resources.
+<summary>2026-07-10 — Design-System Maturity: A 6-Dimension Framework (Nielsen Norman Group · EN)</summary>
+<p>Use this maturity model to assess your design system’s health and identify where to focus next.
 
-Link: https://www.nngroup.com/articles/reporting-ux-business-outcomes/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.nngroup.com/articles/design-system-maturity/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 
 <details class="accordion">
-<summary>2026-07-03 — Crafting AI Explanations for Every Role in Your Enterprise (Nielsen Norman Group · EN)</summary>
-<p>Different enterprise roles need different types of explanations for AI outputs.
+<summary>2026-07-08 — Videoanalyse für die Bundespolizei: Bahnhofs-Kameras sollen Menschen und ihr Verhalten erkennen (Netzpolitik.org · DE)</summary>
+<p>Software soll auf Bahnhofs-Kameras Menschen identifizieren, ihr Verhalten einordnen und sie über mehrere Kameras hinweg verfolgen. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Preston Foster, Montage netzpolitik.org Exzess bei KI-Befugnissen: Nun soll die Bundespolizei auch noch Videobilder in Echtzeit analysie
 
-Link: https://www.nngroup.com/articles/crafting-ai-explanations/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://netzpolitik.org/2026/videoanalyse-fuer-die-bundespolizei-bahnhofs-kameras-sollen-menschen-und-ihr-verhalten-erkennen/</p>
 </details>
 <!-- AUTO-RESEARCH:END -->
