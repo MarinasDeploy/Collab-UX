@@ -4,86 +4,86 @@ Automatisch gesammelte Links — **Schwerpunkt Deutsch** (heise, t3n, Golem, Net
 
 <!-- AUTO-RESEARCH:START -->
 <details class="accordion">
-<summary>2026-08-03 — Aus dem Verlag: KI-Assistent verwaltet Gameserver per Sprachchat (Golem.de · DE)</summary>
-<p>4Netplayers integriert mit Lisa einen KI-Assistenten. Damit können Nutzer ihre Gameserver per natürlicher Sprache konfigurieren und verwalten. (&lt;a href="https://www.golem.de/specials/computec-media/"&gt;CMG&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/server/"&gt;Server&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp
+<summary>2026-08-10 — Nach KI-Hacks: Chinesisches KI-Modell trickst Forscher bei Cybertests aus (Golem.de · DE)</summary>
+<p>Das KI-Modell Kimi K3 hat bei Cybertests seine Sandbox-Umgebung verlassen und sich die gesuchten Lösungen einfach bei Github beschafft. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/security/"&gt;Security&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=211748&amp;
 
-Link: https://www.golem.de/news/aus-dem-verlag-ki-assistent-verwaltet-gameserver-per-sprachchat-2608-211537.html</p>
+Link: https://www.golem.de/news/nach-ki-hacks-chinesisches-ki-modell-trickst-forscher-bei-cybertests-aus-2608-211748.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-03 — Betriebssysteme: Linux hat auf einmal 10 Prozent Marktanteil (Golem.de · DE)</summary>
-<p>Auf Reddit macht ein Screenshot die Runde, der einen enorm hohen Marktanteil von Linux zeigt. Der Grund: Bots und KI-Agenten. (&lt;a href="https://www.golem.de/specials/betriebssystem/"&gt;Betriebssysteme&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=211533&a
+<summary>2026-08-10 — KI-Forscher Jürgen Schmidhuber: Genie oder Krawallschachtel? (Golem.de · DE)</summary>
+<p>Jürgen Schmidhuber ist einer der einflussreichsten KI-Forscher, macht aber regelmäßig mit Vorwürfen gegen andere auf sich aufmerksam. Ein Faktencheck - unter Schmidhubers Beteiligung. Ein Bericht von Tim Elsner (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/wissenschaft/"&gt;Wi
 
-Link: https://www.golem.de/news/betriebssysteme-linux-hat-auf-einmal-10-prozent-marktanteil-2608-211533.html</p>
+Link: https://www.golem.de/news/ki-forscher-juergen-schmidhuber-genie-oder-krawallschachtel-2608-210364.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-03 — Künstliche Intelligenz: Amazon berichtet von "katastrophal teurer" KI-Nutzung (Golem.de · DE)</summary>
-<p>Amazon verwendet wie viele Unternehmen intern KI, um Prozesse zu optimieren. Das hat in einigen Fällen zu absurd hohen, ungeplanten Kosten geführt. (&lt;a href="https://www.golem.de/specials/amazon/"&gt;Amazon&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=211
+<summary>2026-08-10 — 5 Dinge, die du diese Woche wissen musst: KI und der Arbeitsmarkt (t3n · DE)</summary>
+<p>Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um den Arbeitsmarkt im KI-Zeitalter, Android Auto, chinesische KI-Modelle für Coder und Linux. In immer mehr Stellenanzeigen werden explizit KI-Kenntnisse gefordert. Das zeigt eine von der FAZ veröffentlichte Studie der 
 
-Link: https://www.golem.de/news/kuenstliche-intelligenz-amazon-berichtet-von-katastrophal-teurer-ki-nutzung-2608-211528.html</p>
+Link: https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-ki-und-der-arbeitsmarkt-1756978/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-03 — KI-Compliance im Unternehmen: So gelingt der rechtssichere Einsatz von GenAI (t3n · DE)</summary>
-<p>75 Prozent der Knowledge Worker nutzen bereits KI, doch meist ohne offizielle Freigabe. Erfahre, wie du aus der Compliance-Lücke eine rechtssichere KI-Governance machst. Generative KI ist im Arbeitsalltag längst angekommen. Doch während Mitarbeitende KI bereits aktiv für Recherchen, Texte und Analysen einsetzen, hinkt 
+<summary>2026-08-10 — (g+) Opinion: Asia's AI boom runs into a power wall (Golem.de · DE)</summary>
+<p>Data centers drive $5tn energy investment supercycle across region Von Mayank Maheshwari (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/wirtschaft/"&gt;Wirtschaft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=211720&amp;page=1&amp;ts=1786341602" alt="" width="1" 
 
-Link: https://t3n.de/news/ki-governance-compliance-check-rechtssichere-ki-nutzung-1755591/</p>
+Link: https://www.golem.de/news/opinion-asia-s-ai-boom-runs-into-a-power-wall-2608-211720.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-03 — Es muss nicht immer Claude Code sein: Warum dieser Entwickler auf chinesische KI-Modelle schwört (t3n · DE)</summary>
-<p>Der Entwickler Roland Golla setzt beim Coding nicht mehr auf Anthropic oder OpenAI. Bei ihm kommen nur noch chinesische KI-Modelle zum Einsatz. Im Interview erklärt er, was ihn zum Wechsel bewegt hat und wie sich die Modelle in der Praxis schlagen. Aktuelle Benchmarks sprechen eine deutliche Sprache: Chinesische KI-Mod
+<summary>2026-08-09 — Fast vollständig autonom: Wie Anthropics KI einen Verschlüsselungsstandard knackte (t3n · DE)</summary>
+<p>Die Anthropic-KI Claude Mythos Preview soll Schwachstellen in einer &#8211; allerdings abgeschwächten &#8211; Version des verbreiteten Verschlüsselungsalgorithmus AES gefunden haben. Akut besteht keine Gefahr. Langfristig könnte der Hack aber Folgen haben. Als der Verschlüsselungsstandard AES (Advanced Encryption Stand
 
-Link: https://t3n.de/news/chinesische-ki-modelle-coder-1756018/</p>
+Link: https://t3n.de/news/anthropic-claude-mythos-verschluesselungsstandard-aes-1755434/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-03 — Produktbilder im E-Commerce: Hinweis „KI-generiert&#8220; schadet laut Studie selbst echten Fotos (t3n · DE)</summary>
-<p>Seit dem 2. August gelten neue Transparenzpflichten für KI-generierte Inhalte. Eine experimentelle Studie zeigt: Das KI-Label verschlechtert die Wahrnehmung des Produkts – und zwar selbst dann, wenn das Foto in Wirklichkeit von einem Menschen stammt. Generative KI eröffnet dem Onlinehandel neue Möglichkeiten in der Pro
+<summary>2026-08-09 — Einkommen um 40 Prozent eingebrochen: Wie KI in China Menschen die Jobs kostet (t3n · DE)</summary>
+<p>Lange hat die Regierung in Peking die Entwicklung aktiv gefördert. Laut Analyst:innen hat jetzt aber ein Umdenken eingesetzt. Können chinesische Bürger:innen vor KI-bedingter Arbeitslosigkeit geschützt werden? Während die Angst vor KI-bedingtem Jobverlust in Deutschland noch theoretischer Natur ist, sind die Auswirkung
 
-Link: https://t3n.de/news/produktbilder-im-e-commerce-hinweis-ki-generiert-schadet-laut-studie-selbst-echten-fotos-1755536/</p>
+Link: https://t3n.de/news/ki-china-jobverlust-einkommen-eingebrochen-1755938/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-03 — 5 Dinge, die du diese Woche wissen musst: Ab sofort gilt die KI-Kennzeichnungspflicht (t3n · DE)</summary>
-<p>Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um die KI-Kennzeichnungspflicht, ChatGPT-Müdigkeit, einen offenen Brief aus der Tech-Branche und Open-Source-Alternativen zum Google Authenticator. Seit diesem Wochenende ist die nächste Stufe der europäischen KI-Verordn
+<summary>2026-08-09 — Trotz Fachkräftemangel: Warum plötzlich weniger IT-Experten gesucht werden (t3n · DE)</summary>
+<p>Im abgelaufenen zweiten Quartal 2026 ist die Nachfrage nach IT-Fachkräften spürbar gesunken. Einen besonders starken Rückgang gab es laut Hays-Fachkräfte-Index bei IT-Security-Spezialisten. Ein anderer Bereich profitiert derweil von KI-Boom. Der Fachkräfte-Index des Personaldienstleisters Hays nimmt quartalsweise die N
 
-Link: https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-ab-sofort-gilt-die-ki-kennzeichnungspflicht-1755842/</p>
+Link: https://t3n.de/news/fachkraeftemangel-it-experten-nachfrage-rueckgang-1756380/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-03 — KI-Boom: Macbooks werden wegen Speicherkrise Mangelware (Golem.de · DE)</summary>
-<p>Wer aktuell ein Macbook Air bestellt, braucht Geduld. Schuld ist der durch den KI-Boom ausgelöste globale Speichermangel. (&lt;a href="https://www.golem.de/specials/macbook-air/"&gt;Macbook Air&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/apple/"&gt;Apple&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=211524&amp;pa
+<summary>2026-08-09 — Mobilfunk am KI-Limit: Warum das Netz beim Upload lahm wird (Golem.de · DE)</summary>
+<p>AT&T beginnt jetzt den Netzausbau bei 600 MHz. Damit will man den in den USA traditionell schwachen Upload stark verbessern. (&lt;a href="https://www.golem.de/specials/att/"&gt;AT&T&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/mobilfunk/"&gt;Mobilfunk&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=211745&amp;page=1
 
-Link: https://www.golem.de/news/ki-boom-macbooks-werden-wegen-speicherkrise-mangelware-2608-211524.html</p>
+Link: https://www.golem.de/news/mobilfunk-am-ki-limit-warum-das-netz-beim-upload-lahm-wird-2608-211745.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-02 — Neue Kennzeichnungspflicht für KI-Inhalte: Was ab jetzt in der EU gilt (t3n · DE)</summary>
-<p>Seit Sonntag müssen KI-generierte Bilder, Videos und Texte in der EU gekennzeichnet werden. Private Profile sind von den neuen Regeln nicht betroffen, es gibt allerdings Ausnahmen, die beachtet werden sollten. Bilder und Videos, die mithilfe von KI-Tools erstellt werden, sehen inzwischen so täuschend echt aus, dass sel
+<summary>2026-08-08 — Cloudflare: "Menschen werden im Internet nur ein Rundungsfehler sein" (Golem.de · DE)</summary>
+<p>KI-Systeme erzeugen immer mehr Datenverkehr. Cloudflare erwartet, dass Maschinen Menschen im Internet geradezu überrollen werden. (&lt;a href="https://www.golem.de/specials/cloudflare/"&gt;Cloudflare&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=211739&amp;pa
 
-Link: https://t3n.de/news/neue-kennzeichnungspflicht-fuer-ki-inhalte-was-ab-jetzt-in-der-eu-gilt-1756011/</p>
+Link: https://www.golem.de/news/cloudflare-menschen-werden-im-internet-nur-ein-rundungsfehler-sein-2608-211739.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-02 — KI-Verordnung der EU: KI-generierte Inhalte müssen teilweise gekennzeichnet werden (Golem.de · DE)</summary>
-<p>Die neue KI-Behörde der EU startet mit der Durchsetzung von Transparenzpflichten. Die meisten Medien sind davon jedoch nicht betroffen. (&lt;a href="https://www.golem.de/specials/aiact/"&gt;AI Act&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=211518&amp;page=
+<summary>2026-08-08 — Astra: OpenAI will neues KI-Modell vorerst nicht veröffentlichen (Golem.de · DE)</summary>
+<p>Wie gefährlich darf eine KI werden, bevor sie zur Waffe wird? OpenAI kann diese Frage bei seinem Modell Astra derzeit nicht mehr sicher beantworten. (&lt;a href="https://www.golem.de/specials/openai/"&gt;OpenAI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=21
 
-Link: https://www.golem.de/news/ki-verordnung-der-eu-ki-generierte-inhalte-muessen-teilweise-gekennzeichnet-werden-2608-211518.html</p>
+Link: https://www.golem.de/news/astra-openai-will-neues-ki-modell-vorerst-nicht-veroeffentlichen-2608-211738.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-07-31 — Why You Need Mentorship and How to Get It Right (Nielsen Norman Group · EN)</summary>
-<p>Mentorship is an essential growth tool that offers substantial personal and career benefits, but only if you engage in it properly.
+<summary>2026-08-07 — Dogfooding vs. QA vs. User Research (Nielsen Norman Group · EN)</summary>
+<p>Dogfooding, or using your own products internally, helps catch bugs, but it can't replace user research: your team knows too much to represent real users.
 
-Link: https://www.nngroup.com/articles/mentorship/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.nngroup.com/articles/dogfooding/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 
 <details class="accordion">
-<summary>2026-07-31 — No New Name Has Replaced “UX” (Nielsen Norman Group · EN)</summary>
-<p>A survey of 604 tech and design professionals found that “UX” remains the default name for our field, while alternative names remain fragmented.
+<summary>2026-08-07 — How to Decide When an AI Tool Is Worth Keeping (Nielsen Norman Group · EN)</summary>
+<p>Pressure to adopt AI isn't evidence that a tool helps. The PROVE framework tests one tool against one task and produces a provisional decision you can defend.
 
-Link: https://www.nngroup.com/articles/no-new-name-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.nngroup.com/articles/prove-framework/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 <!-- AUTO-RESEARCH:END -->
