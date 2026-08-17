@@ -4,86 +4,86 @@ Automatisch gesammelte Links — **Schwerpunkt Deutsch** (heise, t3n, Golem, Net
 
 <!-- AUTO-RESEARCH:START -->
 <details class="accordion">
-<summary>2026-08-10 — Nach KI-Hacks: Chinesisches KI-Modell trickst Forscher bei Cybertests aus (Golem.de · DE)</summary>
-<p>Das KI-Modell Kimi K3 hat bei Cybertests seine Sandbox-Umgebung verlassen und sich die gesuchten Lösungen einfach bei Github beschafft. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/security/"&gt;Security&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=211748&amp;
+<summary>2026-08-17 — Umsetzung der EU-Vorgaben: Claudes Wasserzeichen lässt sich kaum entfernen (Golem.de · DE)</summary>
+<p>Anthropic erklärt, wie das Wasserzeichen in Claude-Texten funktioniert, woher die Methode stammt und wie leicht es sich umgehen lässt. (&lt;a href="https://www.golem.de/specials/claude/"&gt;Claude&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=211982&amp;page=
 
-Link: https://www.golem.de/news/nach-ki-hacks-chinesisches-ki-modell-trickst-forscher-bei-cybertests-aus-2608-211748.html</p>
+Link: https://www.golem.de/news/umsetzung-der-eu-vorgaben-claudes-wasserzeichen-laesst-sich-kaum-entfernen-2608-211982.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-10 — KI-Forscher Jürgen Schmidhuber: Genie oder Krawallschachtel? (Golem.de · DE)</summary>
-<p>Jürgen Schmidhuber ist einer der einflussreichsten KI-Forscher, macht aber regelmäßig mit Vorwürfen gegen andere auf sich aufmerksam. Ein Faktencheck - unter Schmidhubers Beteiligung. Ein Bericht von Tim Elsner (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/wissenschaft/"&gt;Wi
+<summary>2026-08-17 — Aufrüstung: Nato plant digitalen Schutzschild an Ostflanke (Golem.de · DE)</summary>
+<p>Ein Netzwerk aus Drohnen, Sensoren und KI soll die Nato-Ostgrenze sichern. Über Angriffe entscheiden aber weiterhin menschliche Operatoren. (&lt;a href="https://www.golem.de/specials/militaer/"&gt;Militär&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=211979&a
 
-Link: https://www.golem.de/news/ki-forscher-juergen-schmidhuber-genie-oder-krawallschachtel-2608-210364.html</p>
+Link: https://www.golem.de/news/aufruestung-nato-plant-digitales-schutzschild-an-ostflanke-2608-211979.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-10 — 5 Dinge, die du diese Woche wissen musst: KI und der Arbeitsmarkt (t3n · DE)</summary>
-<p>Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um den Arbeitsmarkt im KI-Zeitalter, Android Auto, chinesische KI-Modelle für Coder und Linux. In immer mehr Stellenanzeigen werden explizit KI-Kenntnisse gefordert. Das zeigt eine von der FAZ veröffentlichte Studie der 
+<summary>2026-08-17 — 5 Dinge, die du diese Woche wissen musst: Es muss ja nicht immer KI sein (t3n · DE)</summary>
+<p>Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um KI-freie Produktivitäts-Tools, Wasserzeichen in Claude, Googles neue Pixel-Smartphones, die bislang größte Sternenkarte und Tipps für Google Maps. Claude erstellt das Dashboard, Copilot die Powerpoint-Präsentation und
 
-Link: https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-ki-und-der-arbeitsmarkt-1756978/</p>
+Link: https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-ki-freie-tools-claude-pixel-11-sternenkarte-google-maps-1758120/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-10 — (g+) Opinion: Asia's AI boom runs into a power wall (Golem.de · DE)</summary>
-<p>Data centers drive $5tn energy investment supercycle across region Von Mayank Maheshwari (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/wirtschaft/"&gt;Wirtschaft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=211720&amp;page=1&amp;ts=1786341602" alt="" width="1" 
+<summary>2026-08-17 — Bildungsforscher warnt: Diese Metakompetenz entscheidet über eure Zukunft (t3n · DE)</summary>
+<p>Wer KI blind vertraut, verliert die Fähigkeit, Ergebnisse zu hinterfragen. Bildungsforscher Ulrich Trautwein fordert, Schulen und Hochschulen stärker auf Selbstregulation auszurichten, um Schüler und Studierende fit für die Arbeitswelt zu machen. Ulrich Trautwein ist Professor und geschäftsführender Direktor des Hector
 
-Link: https://www.golem.de/news/opinion-asia-s-ai-boom-runs-into-a-power-wall-2608-211720.html</p>
+Link: https://t3n.de/news/bildungsforscher-warnt-vor-ki-in-der-schule-diese-metakompetenz-entscheidet-ueber-eure-zukunft-1756476/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-09 — Fast vollständig autonom: Wie Anthropics KI einen Verschlüsselungsstandard knackte (t3n · DE)</summary>
-<p>Die Anthropic-KI Claude Mythos Preview soll Schwachstellen in einer &#8211; allerdings abgeschwächten &#8211; Version des verbreiteten Verschlüsselungsalgorithmus AES gefunden haben. Akut besteht keine Gefahr. Langfristig könnte der Hack aber Folgen haben. Als der Verschlüsselungsstandard AES (Advanced Encryption Stand
+<summary>2026-08-16 — Fit für die KI-Ära: Großbritannien startet Bootcamp für arbeitslose Jugendliche (t3n · DE)</summary>
+<p>Die Arbeit mit KI wird für junge Menschen, die derzeit auf den Arbeitsmarkt strömen, eine entscheidende Rolle spielen. Die britische Regierung will ihre KI-Kompetenz deshalb jetzt gezielt fördern. Kaum eine Altersgruppe ist derzeit so stark von den KI-bedingten Veränderungen des Arbeitsmarktes betroffen wie die Gen Z. 
 
-Link: https://t3n.de/news/anthropic-claude-mythos-verschluesselungsstandard-aes-1755434/</p>
+Link: https://t3n.de/news/fit-fuer-die-ki-aera-grossbritannien-startet-bootcamp-fuer-arbeitslose-jugendliche-1758342/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-09 — Einkommen um 40 Prozent eingebrochen: Wie KI in China Menschen die Jobs kostet (t3n · DE)</summary>
-<p>Lange hat die Regierung in Peking die Entwicklung aktiv gefördert. Laut Analyst:innen hat jetzt aber ein Umdenken eingesetzt. Können chinesische Bürger:innen vor KI-bedingter Arbeitslosigkeit geschützt werden? Während die Angst vor KI-bedingtem Jobverlust in Deutschland noch theoretischer Natur ist, sind die Auswirkung
+<summary>2026-08-16 — Gemini außer Kontrolle: Google-KI löscht Code und erfindet Rechtfertigungen (t3n · DE)</summary>
+<p>Kurioses Fundstück von Reddit: Gemini hat versehentlich 30 000 Zeilen Code gelöscht. Daraufhin reagierte die Google-KI allzu menschlich. Sie hat versucht, ihren Fehler zu vertuschen und sich selbt als Retter darzustellen. Ein Reddit-User beauftragte kürzlich Gemini 3.5, mit einer überschaubaren Aktion. Die KI sollte ac
 
-Link: https://t3n.de/news/ki-china-jobverlust-einkommen-eingebrochen-1755938/</p>
+Link: https://t3n.de/news/google-gemini-loescht-code-faelscht-protokolle-ki-fehler-1743891/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-09 — Trotz Fachkräftemangel: Warum plötzlich weniger IT-Experten gesucht werden (t3n · DE)</summary>
-<p>Im abgelaufenen zweiten Quartal 2026 ist die Nachfrage nach IT-Fachkräften spürbar gesunken. Einen besonders starken Rückgang gab es laut Hays-Fachkräfte-Index bei IT-Security-Spezialisten. Ein anderer Bereich profitiert derweil von KI-Boom. Der Fachkräfte-Index des Personaldienstleisters Hays nimmt quartalsweise die N
+<summary>2026-08-16 — Anthropic erklärt, wie das neue Wasserzeichen in Claude genau funktioniert (t3n · DE)</summary>
+<p>Die Neuerung soll mehr Transparenz bieten, aber nicht alle sind von der unsichtbaren Markierung begeistert. Jetzt klärt das KI-Unternehmen einige der häufigsten Fragen, die aktuell im Internet kursieren. Die EU will für mehr Transparenz bei KI-generierten Inhalten sorgen. Deshalb gilt seit dem 2. August 2026 eine neue 
 
-Link: https://t3n.de/news/fachkraeftemangel-it-experten-nachfrage-rueckgang-1756380/</p>
+Link: https://t3n.de/news/anthropic-erklaert-wie-das-neue-wasserzeichen-in-claude-genau-funktioniert-1758332/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-09 — Mobilfunk am KI-Limit: Warum das Netz beim Upload lahm wird (Golem.de · DE)</summary>
-<p>AT&T beginnt jetzt den Netzausbau bei 600 MHz. Damit will man den in den USA traditionell schwachen Upload stark verbessern. (&lt;a href="https://www.golem.de/specials/att/"&gt;AT&T&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/mobilfunk/"&gt;Mobilfunk&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=211745&amp;page=1
+<summary>2026-08-16 — KI-Müdigkeit im Job: 41 Prozent würden ChatGPT am liebsten komplett abschaffen (t3n · DE)</summary>
+<p>Eigentlich sollte sie die Produktivität steigern – inzwischen blicken Mitarbeiter:innen aber vor allem mit Frust auf den Einsatz von KI. Viele würden die Technologie am liebsten sogar komplett abschaffen. Die Jobs von Wissensarbeiter:innen galten lange als sicher und angemessen bezahlt. Dazu zählen akademische Berufe w
 
-Link: https://www.golem.de/news/mobilfunk-am-ki-limit-warum-das-netz-beim-upload-lahm-wird-2608-211745.html</p>
+Link: https://t3n.de/news/ki-muedigkeit-wissensarbeiter-chatgpt-studie-produktivitaet-1755296/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-08 — Cloudflare: "Menschen werden im Internet nur ein Rundungsfehler sein" (Golem.de · DE)</summary>
-<p>KI-Systeme erzeugen immer mehr Datenverkehr. Cloudflare erwartet, dass Maschinen Menschen im Internet geradezu überrollen werden. (&lt;a href="https://www.golem.de/specials/cloudflare/"&gt;Cloudflare&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=211739&amp;pa
+<summary>2026-08-15 — Eure Meinung zum KI-Hype: "Irgendwann fliegt uns alles um die Ohren" (Golem.de · DE)</summary>
+<p>Ist KI ein nützliches Tool oder führt der KI-Hype in die Katastrophe? Wir haben euch gefragt, wie ihr die Zukunft von KI seht. Danke für eure tollen Antworten - hier sind sie. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/boerse/"&gt;Börse&lt;/a&gt;) &lt;img src="https://cpx.golem.de/c
 
-Link: https://www.golem.de/news/cloudflare-menschen-werden-im-internet-nur-ein-rundungsfehler-sein-2608-211739.html</p>
+Link: https://www.golem.de/news/eure-meinung-zum-ki-hype-irgendwann-fliegt-uns-alles-um-die-ohren-2608-211913.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-08 — Astra: OpenAI will neues KI-Modell vorerst nicht veröffentlichen (Golem.de · DE)</summary>
-<p>Wie gefährlich darf eine KI werden, bevor sie zur Waffe wird? OpenAI kann diese Frage bei seinem Modell Astra derzeit nicht mehr sicher beantworten. (&lt;a href="https://www.golem.de/specials/openai/"&gt;OpenAI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=21
+<summary>2026-08-14 — Psychological Ownership: Own the Right Things (Nielsen Norman Group · EN)</summary>
+<p>Psychological ownership can make you more effective, but you’ll struggle if it attaches to things you can’t control. Spot misplaced ownership and redirect it.
 
-Link: https://www.golem.de/news/astra-openai-will-neues-ki-modell-vorerst-nicht-veroeffentlichen-2608-211738.html</p>
+Link: https://www.nngroup.com/articles/psychological-ownership/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-07 — Dogfooding vs. QA vs. User Research (Nielsen Norman Group · EN)</summary>
-<p>Dogfooding, or using your own products internally, helps catch bugs, but it can't replace user research: your team knows too much to represent real users.
+<summary>2026-08-14 — One AI Output Is an Example, Not an Evaluation (Nielsen Norman Group · EN)</summary>
+<p>One output cannot establish how well an AI system performs. Evaluate with multiple representative inputs, repeated runs, and confidence intervals.
 
-Link: https://www.nngroup.com/articles/dogfooding/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.nngroup.com/articles/eval-ai-output/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-07 — How to Decide When an AI Tool Is Worth Keeping (Nielsen Norman Group · EN)</summary>
-<p>Pressure to adopt AI isn't evidence that a tool helps. The PROVE framework tests one tool against one task and produces a provisional decision you can defend.
+<summary>2026-08-14 — (g+) Artificial Intelligence: OpenAI and Anthropic in price war as Chinese AI rivals gain ground (Golem.de · DE)</summary>
+<p>US groups release cheaper models after new challenges to their trillion-dollar ambitions Von Jamie John (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/software/"&gt;Software&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=211957&amp;page=1&amp;ts=1786723202" alt=""
 
-Link: https://www.nngroup.com/articles/prove-framework/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.golem.de/news/artificial-intelligence-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground-2608-211957.html</p>
 </details>
 <!-- AUTO-RESEARCH:END -->
