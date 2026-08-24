@@ -4,86 +4,86 @@ Automatisch gesammelte Links — **Schwerpunkt Deutsch** (heise, t3n, Golem, Net
 
 <!-- AUTO-RESEARCH:START -->
 <details class="accordion">
-<summary>2026-08-17 — Umsetzung der EU-Vorgaben: Claudes Wasserzeichen lässt sich kaum entfernen (Golem.de · DE)</summary>
-<p>Anthropic erklärt, wie das Wasserzeichen in Claude-Texten funktioniert, woher die Methode stammt und wie leicht es sich umgehen lässt. (&lt;a href="https://www.golem.de/specials/claude/"&gt;Claude&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=211982&amp;page=
+<summary>2026-08-24 — Anthropic: Fable 5 verfehlt Erwartungen (Golem.de · DE)</summary>
+<p>Fable 5 erreicht bisher nur geringe Umsätze. Kunden von Anthropic bevorzugen vor dem Börsengang preiswerte KI-Modelle. (&lt;a href="https://www.golem.de/specials/anthropic/"&gt;Anthropic&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/boerse/"&gt;Börse&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=212207&amp;page=1&a
 
-Link: https://www.golem.de/news/umsetzung-der-eu-vorgaben-claudes-wasserzeichen-laesst-sich-kaum-entfernen-2608-211982.html</p>
+Link: https://www.golem.de/news/anthropic-fable-5-verfehlt-erwartungen-2608-212207.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-17 — Aufrüstung: Nato plant digitalen Schutzschild an Ostflanke (Golem.de · DE)</summary>
-<p>Ein Netzwerk aus Drohnen, Sensoren und KI soll die Nato-Ostgrenze sichern. Über Angriffe entscheiden aber weiterhin menschliche Operatoren. (&lt;a href="https://www.golem.de/specials/militaer/"&gt;Militär&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=211979&a
+<summary>2026-08-24 — 5 Dinge, die du diese Woche wissen musst: KI und das Problem mit der Transparenz (t3n · DE)</summary>
+<p>Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um KI-Wasserzeichen, Städte in Zeiten des Klimawandels, Retro-Gadgets, ein E-Motorrad und Chrome OS Flex. Anthropic, die Firma hinter der KI Claude, will KI-generierte Texte mit einem versteckten Wasserzeichen versehen. 
 
-Link: https://www.golem.de/news/aufruestung-nato-plant-digitales-schutzschild-an-ostflanke-2608-211979.html</p>
+Link: https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-ki-und-das-problem-mit-der-transparenz-1759156/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-17 — 5 Dinge, die du diese Woche wissen musst: Es muss ja nicht immer KI sein (t3n · DE)</summary>
-<p>Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um KI-freie Produktivitäts-Tools, Wasserzeichen in Claude, Googles neue Pixel-Smartphones, die bislang größte Sternenkarte und Tipps für Google Maps. Claude erstellt das Dashboard, Copilot die Powerpoint-Präsentation und
+<summary>2026-08-24 — KI am Arbeitsplatz: Warum der Stress steigt und die Technik nicht schuld ist (t3n · DE)</summary>
+<p>KI soll uns vermeintlich entlasten, doch in der Praxis steigen Stress und Arbeitsverdichtung. Die Soziologin Sabine Pfeiffer erklärt bei t3n Arbeit in Progress, was die überraschenden Ursachen sind. „AI Brain Fry“ nennt eine Harvard-Studie das Phänomen, wenn KI-Nutzung am Arbeitsplatz zu Überlastung und mentalem Dauers
 
-Link: https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-ki-freie-tools-claude-pixel-11-sternenkarte-google-maps-1758120/</p>
+Link: https://t3n.de/news/ki-arbeitsplatz-stress-steigt-ursache-ki-forschung-soziologin-sabine-pfeiffer-1757651/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-17 — Bildungsforscher warnt: Diese Metakompetenz entscheidet über eure Zukunft (t3n · DE)</summary>
-<p>Wer KI blind vertraut, verliert die Fähigkeit, Ergebnisse zu hinterfragen. Bildungsforscher Ulrich Trautwein fordert, Schulen und Hochschulen stärker auf Selbstregulation auszurichten, um Schüler und Studierende fit für die Arbeitswelt zu machen. Ulrich Trautwein ist Professor und geschäftsführender Direktor des Hector
+<summary>2026-08-23 — Warum KI-Agenten lügen und betrügen – und was wir dagegen machen können (t3n · DE)</summary>
+<p>Dass KIs auch mal unlautere Abkürzungen nutzen, um die gesetzten Ziele zu erreichen, ist an sich nicht neu. Doch mit zunehmender Komplexität der großen Sprachmodelle wird es immer schwieriger, ihnen das sogenannte Reward-Hacking auszutreiben. Als sich im Juli zwei OpenAI-Modelle in die Website des populären KI-Werkzeug
 
-Link: https://t3n.de/news/bildungsforscher-warnt-vor-ki-in-der-schule-diese-metakompetenz-entscheidet-ueber-eure-zukunft-1756476/</p>
+Link: https://t3n.de/news/ki-agenten-reward-hacking-luegen-betrug-openai-hugging-face-1756375/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-16 — Fit für die KI-Ära: Großbritannien startet Bootcamp für arbeitslose Jugendliche (t3n · DE)</summary>
-<p>Die Arbeit mit KI wird für junge Menschen, die derzeit auf den Arbeitsmarkt strömen, eine entscheidende Rolle spielen. Die britische Regierung will ihre KI-Kompetenz deshalb jetzt gezielt fördern. Kaum eine Altersgruppe ist derzeit so stark von den KI-bedingten Veränderungen des Arbeitsmarktes betroffen wie die Gen Z. 
+<summary>2026-08-23 — Verhaltensscanner in Berlin: Harte Kritik an der KI-Überwachung (Netzpolitik.org · DE)</summary>
+<p>Die erste von vielen: Etwa 30 Kameras werden hier am Kottbusser Tor installiert – und mit einer Verhaltenserkennungs-Software verknüpft. Weitere Orte sollen folgen. – CC-BY-NC-SA 4.0 : netzpolitik.org Heute beginnt die Installation von Kameras, mit denen die Berliner Polizei die automatisierte Verhaltensanalyse einführ
 
-Link: https://t3n.de/news/fit-fuer-die-ki-aera-grossbritannien-startet-bootcamp-fuer-arbeitslose-jugendliche-1758342/</p>
+Link: https://netzpolitik.org/2026/verhaltensscanner-in-berlin-harte-kritik-an-der-ki-ueberwachung/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-16 — Gemini außer Kontrolle: Google-KI löscht Code und erfindet Rechtfertigungen (t3n · DE)</summary>
-<p>Kurioses Fundstück von Reddit: Gemini hat versehentlich 30 000 Zeilen Code gelöscht. Daraufhin reagierte die Google-KI allzu menschlich. Sie hat versucht, ihren Fehler zu vertuschen und sich selbt als Retter darzustellen. Ein Reddit-User beauftragte kürzlich Gemini 3.5, mit einer überschaubaren Aktion. Die KI sollte ac
+<summary>2026-08-23 — Verhaltensscanner in Berlin: Jetzt beginnt die automatisierte Überwachung (Netzpolitik.org · DE)</summary>
+<p>Am Sonntag Vormittag wurden die ersten Videokameras am Kottbusser Tor angebracht. – CC-BY-ND 4.0 : netzpolitik.org Am Kottbusser Tor in Berlin werden seit heute rund 30 Überwachungskameras installiert und an ein KI-System angeschlossen, das prüft, wer artig ist und wer nicht. Weitere Areale sollen folgen. Menschen, die
 
-Link: https://t3n.de/news/google-gemini-loescht-code-faelscht-protokolle-ki-fehler-1743891/</p>
+Link: https://netzpolitik.org/2026/verhaltensscanner-in-berlin-jetzt-beginnt-die-automatisierte-ueberwachung/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-16 — Anthropic erklärt, wie das neue Wasserzeichen in Claude genau funktioniert (t3n · DE)</summary>
-<p>Die Neuerung soll mehr Transparenz bieten, aber nicht alle sind von der unsichtbaren Markierung begeistert. Jetzt klärt das KI-Unternehmen einige der häufigsten Fragen, die aktuell im Internet kursieren. Die EU will für mehr Transparenz bei KI-generierten Inhalten sorgen. Deshalb gilt seit dem 2. August 2026 eine neue 
+<summary>2026-08-23 — (g+) KI aus Deutschland: Ein Fördersystem, das Innovationen bremst (Golem.de · DE)</summary>
+<p>Bisher kam bei KI in Deutschland eher Mittelmaß heraus. Das liegt aber nicht an den Wissenschaftlern, sondern an einem System, das Forscherdrang nicht belohnt. Ein IMHO von Tim Elsner (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/silicon-valley/"&gt;Silicon Valley&lt;/a&gt;) &lt;img sr
 
-Link: https://t3n.de/news/anthropic-erklaert-wie-das-neue-wasserzeichen-in-claude-genau-funktioniert-1758332/</p>
+Link: https://www.golem.de/news/ki-aus-deutschland-ein-foerdersystem-das-innovationen-bremst-2608-212027.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-16 — KI-Müdigkeit im Job: 41 Prozent würden ChatGPT am liebsten komplett abschaffen (t3n · DE)</summary>
-<p>Eigentlich sollte sie die Produktivität steigern – inzwischen blicken Mitarbeiter:innen aber vor allem mit Frust auf den Einsatz von KI. Viele würden die Technologie am liebsten sogar komplett abschaffen. Die Jobs von Wissensarbeiter:innen galten lange als sicher und angemessen bezahlt. Dazu zählen akademische Berufe w
+<summary>2026-08-22 — (g+) Artificial Intelligence: AI hasn't gone rogue. It's worse than that (Golem.de · DE)</summary>
+<p>Recent cyber attacks reflect what the technology was trained to do but safeguards are falling short Von Madhumita Murgia (&lt;a href="https://www.golem.de/specials/llm/"&gt;LLM&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=212188&amp;page=1&amp;ts=1787405402"
 
-Link: https://t3n.de/news/ki-muedigkeit-wissensarbeiter-chatgpt-studie-produktivitaet-1755296/</p>
+Link: https://www.golem.de/news/artificial-intelligence-ai-hasn-t-gone-rogue-it-s-worse-than-that-2608-212188.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-15 — Eure Meinung zum KI-Hype: "Irgendwann fliegt uns alles um die Ohren" (Golem.de · DE)</summary>
-<p>Ist KI ein nützliches Tool oder führt der KI-Hype in die Katastrophe? Wir haben euch gefragt, wie ihr die Zukunft von KI seht. Danke für eure tollen Antworten - hier sind sie. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/boerse/"&gt;Börse&lt;/a&gt;) &lt;img src="https://cpx.golem.de/c
+<summary>2026-08-22 — Claude und SynthID: Tool entfernt KI-Wasserzeichen mit KI (Golem.de · DE)</summary>
+<p>Anthropics neue KI-Wasserzeichen stoßen auf Widerstand. Ein Entwickler hat binnen weniger Stunden ein Tool gebaut, um sie zu entfernen. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/software/"&gt;Software&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=212197&amp;
 
-Link: https://www.golem.de/news/eure-meinung-zum-ki-hype-irgendwann-fliegt-uns-alles-um-die-ohren-2608-211913.html</p>
+Link: https://www.golem.de/news/claude-und-synthid-tool-entfernt-ki-wasserzeichen-mit-ki-2608-212197.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-14 — Psychological Ownership: Own the Right Things (Nielsen Norman Group · EN)</summary>
-<p>Psychological ownership can make you more effective, but you’ll struggle if it attaches to things you can’t control. Spot misplaced ownership and redirect it.
+<summary>2026-08-22 — EZB-Analysten: Einbruch bei KI-Aktien auch ohne Blase zu erwarten (Golem.de · DE)</summary>
+<p>Sind Aktien aus dem KI-Umfeld überbewertet? Spielt keine Rolle, sagen EZB-Analysten, der prognostizierte Einbruch habe andere Gründe. (&lt;a href="https://www.golem.de/specials/wirtschaft/"&gt;Wirtschaft&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/boerse/"&gt;Börse&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=21
 
-Link: https://www.nngroup.com/articles/psychological-ownership/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.golem.de/news/ezb-analysten-einbruch-bei-ki-aktien-auch-ohne-blase-zu-erwarten-2608-212196.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-14 — One AI Output Is an Example, Not an Evaluation (Nielsen Norman Group · EN)</summary>
-<p>One output cannot establish how well an AI system performs. Evaluate with multiple representative inputs, repeated runs, and confidence intervals.
+<summary>2026-08-21 — Artificial Intelligence: Glossary (Nielsen Norman Group · EN)</summary>
+<p>Plain-language definitions of the AI terms that come up in product and design work, from tokens and context windows to agents, evals, and prompt injection.
 
-Link: https://www.nngroup.com/articles/eval-ai-output/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.nngroup.com/articles/artificial-intelligence-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-14 — (g+) Artificial Intelligence: OpenAI and Anthropic in price war as Chinese AI rivals gain ground (Golem.de · DE)</summary>
-<p>US groups release cheaper models after new challenges to their trillion-dollar ambitions Von Jamie John (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/software/"&gt;Software&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=211957&amp;page=1&amp;ts=1786723202" alt=""
+<summary>2026-08-21 — AI-Generated Images Can Perform as Well as Stock Photography (Nielsen Norman Group · EN)</summary>
+<p>When users didn’t know whether an image was AI-generated, the images we tested did not create any perception penalty compared to stock photos.
 
-Link: https://www.golem.de/news/artificial-intelligence-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground-2608-211957.html</p>
+Link: https://www.nngroup.com/articles/ai-generated-images/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 <!-- AUTO-RESEARCH:END -->
