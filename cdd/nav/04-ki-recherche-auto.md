@@ -4,86 +4,86 @@ Automatisch gesammelte Links — **Schwerpunkt Deutsch** (heise, t3n, Golem, Net
 
 <!-- AUTO-RESEARCH:START -->
 <details class="accordion">
-<summary>2026-08-24 — Anthropic: Fable 5 verfehlt Erwartungen (Golem.de · DE)</summary>
-<p>Fable 5 erreicht bisher nur geringe Umsätze. Kunden von Anthropic bevorzugen vor dem Börsengang preiswerte KI-Modelle. (&lt;a href="https://www.golem.de/specials/anthropic/"&gt;Anthropic&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/boerse/"&gt;Börse&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=212207&amp;page=1&a
+<summary>2026-08-31 — Smart Glasses und Barrierefreiheit: “Meta hat kein Blinden-Hilfsmittel entwickelt” (Netzpolitik.org · DE)</summary>
+<p>Meta bewirbt seine Brillen gerne als Werkzeug für Barrierefreiheit. – Alle Rechte vorbehalten: Imago / ZUMA Press Wire KI-Brillen geraten derzeit als Werkzeuge für heimliche Überwachung und digitale Gewalt in die Kritik. Rufe nach einem Verbot werden laut. Für Menschen mit einer Sehbehinderung können sie hingegen im Al
 
-Link: https://www.golem.de/news/anthropic-fable-5-verfehlt-erwartungen-2608-212207.html</p>
+Link: https://netzpolitik.org/2026/smart-glasses-und-barrierefreiheit-meta-hat-kein-blinden-hilfsmittel-entwickelt/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-24 — 5 Dinge, die du diese Woche wissen musst: KI und das Problem mit der Transparenz (t3n · DE)</summary>
-<p>Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um KI-Wasserzeichen, Städte in Zeiten des Klimawandels, Retro-Gadgets, ein E-Motorrad und Chrome OS Flex. Anthropic, die Firma hinter der KI Claude, will KI-generierte Texte mit einem versteckten Wasserzeichen versehen. 
+<summary>2026-08-31 — Neuer Job als KI-Compliance Spezialist (m/w/d) gesucht? Schau dir unsere KI Jobs an (t3n · DE)</summary>
+<p>Unsere KI-Jobs der Woche für digitale Zukunftsgestalter. Entdecke die spannendsten Stellenangebote im Bereich Künstliche Intelligenz – von Machine Learning und Data Science über KI-gestützte Produktentwicklung bis hin zu innovativen Anwendungen in Marketing, Design, Projektmanagement und Business Development. Baden-Bad
 
-Link: https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-ki-und-das-problem-mit-der-transparenz-1759156/</p>
+Link: https://t3n.de/news/neuer-job-als-softwarearchitekt-fuer-kuenstliche-intelligenz-gesucht-schau-dir-unsere-ki-jobs-der-woche-1722550/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-24 — KI am Arbeitsplatz: Warum der Stress steigt und die Technik nicht schuld ist (t3n · DE)</summary>
-<p>KI soll uns vermeintlich entlasten, doch in der Praxis steigen Stress und Arbeitsverdichtung. Die Soziologin Sabine Pfeiffer erklärt bei t3n Arbeit in Progress, was die überraschenden Ursachen sind. „AI Brain Fry“ nennt eine Harvard-Studie das Phänomen, wenn KI-Nutzung am Arbeitsplatz zu Überlastung und mentalem Dauers
+<summary>2026-08-31 — Digital Services Act: Schärfere EU-Auflagen für ChatGPT, Reddit und Roblox (Golem.de · DE)</summary>
+<p>Mit ChatGPT fällt erstmals ein KI-Chatbot unter die schärferen Digitalregeln in der EU. Das liegt an der hohen Nutzerzahl in Europa. (&lt;a href="https://www.golem.de/specials/dsa/"&gt;Digital Services Act&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=212458&
 
-Link: https://t3n.de/news/ki-arbeitsplatz-stress-steigt-ursache-ki-forschung-soziologin-sabine-pfeiffer-1757651/</p>
+Link: https://www.golem.de/news/digital-services-act-schaerfere-eu-auflagen-fuer-chatgpt-reddit-und-roblox-2608-212458.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-23 — Warum KI-Agenten lügen und betrügen – und was wir dagegen machen können (t3n · DE)</summary>
-<p>Dass KIs auch mal unlautere Abkürzungen nutzen, um die gesetzten Ziele zu erreichen, ist an sich nicht neu. Doch mit zunehmender Komplexität der großen Sprachmodelle wird es immer schwieriger, ihnen das sogenannte Reward-Hacking auszutreiben. Als sich im Juli zwei OpenAI-Modelle in die Website des populären KI-Werkzeug
+<summary>2026-08-31 — KI-Bilder für Social Media: Top oder Slop? (t3n · DE)</summary>
+<p>KI-Bilder für Social Media entstehen in Sekunden. Doch Schnellschüsse gehen oft nach hinten los. Für überzeugende Visuals braucht es vor dem Prompten einen kreativen Prozess. Ein Praxisleitfaden. Aitana Lopez liebt die Farbe Pink, freizügige Kleider, schnelle Autos – und Sport. Seit Juni 2023 gibt es das Instagram-Prof
 
-Link: https://t3n.de/news/ki-agenten-reward-hacking-luegen-betrug-openai-hugging-face-1756375/</p>
+Link: https://t3n.de/news/ki-bilder-fuer-social-media-top-oder-slop-1760151/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-23 — Verhaltensscanner in Berlin: Harte Kritik an der KI-Überwachung (Netzpolitik.org · DE)</summary>
-<p>Die erste von vielen: Etwa 30 Kameras werden hier am Kottbusser Tor installiert – und mit einer Verhaltenserkennungs-Software verknüpft. Weitere Orte sollen folgen. – CC-BY-NC-SA 4.0 : netzpolitik.org Heute beginnt die Installation von Kameras, mit denen die Berliner Polizei die automatisierte Verhaltensanalyse einführ
+<summary>2026-08-31 — (g+) KI-Abrechnung nach Energieverbrauch: Um den Faktor vier billiger (Golem.de · DE)</summary>
+<p>Bei Neuralwatt bezahlt man bei KI-Nutzung statt Token verbrauchte Kilowattstunden. 30 Tage nachgerechnet ergeben 100 statt 428 US-Dollar. Ein Erfahrungsbericht von Robert Heide (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/api/"&gt;API&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.p
 
-Link: https://netzpolitik.org/2026/verhaltensscanner-in-berlin-harte-kritik-an-der-ki-ueberwachung/</p>
+Link: https://www.golem.de/news/ki-abrechnung-nach-energieverbrauch-um-den-faktor-vier-billiger-2608-212451.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-23 — Verhaltensscanner in Berlin: Jetzt beginnt die automatisierte Überwachung (Netzpolitik.org · DE)</summary>
-<p>Am Sonntag Vormittag wurden die ersten Videokameras am Kottbusser Tor angebracht. – CC-BY-ND 4.0 : netzpolitik.org Am Kottbusser Tor in Berlin werden seit heute rund 30 Überwachungskameras installiert und an ein KI-System angeschlossen, das prüft, wer artig ist und wer nicht. Weitere Areale sollen folgen. Menschen, die
+<summary>2026-08-31 — AI Lab Report: KI lernt nicht aus dem Nichts (Golem.de · DE)</summary>
+<p>Unser Newsletter AI Lab Report ordnet neue KI-Entwicklungen ein. In der aktuellen Ausgabe geht es darum, warum Modelle Fähigkeiten scheinbar aus dem Nichts entwickeln. (&lt;a href="https://www.golem.de/specials/golem.de/"&gt;In eigener Sache&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem
 
-Link: https://netzpolitik.org/2026/verhaltensscanner-in-berlin-jetzt-beginnt-die-automatisierte-ueberwachung/</p>
+Link: https://www.golem.de/news/ai-lab-report-ki-lernt-nicht-aus-dem-nichts-2608-212434.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-23 — (g+) KI aus Deutschland: Ein Fördersystem, das Innovationen bremst (Golem.de · DE)</summary>
-<p>Bisher kam bei KI in Deutschland eher Mittelmaß heraus. Das liegt aber nicht an den Wissenschaftlern, sondern an einem System, das Forscherdrang nicht belohnt. Ein IMHO von Tim Elsner (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/silicon-valley/"&gt;Silicon Valley&lt;/a&gt;) &lt;img sr
+<summary>2026-08-31 — KI-Anproben statt 3D-Modelle: Was moderne Virtual-Try-On-Systeme heute können (t3n · DE)</summary>
+<p>Generative KI löst zunehmend echte, operative Geschäftsprobleme im Onlinehandel. Kaum ein Beispiel führt das so eindrucksvoll vor Augen wie Virtual Try-On (VTO). Was lange als technische Spielerei galt, entwickelt sich 2026 zum Business Case. Herausforderungen erkennen und lösen Der Online-Modehandel kämpft seit Jahren
 
-Link: https://www.golem.de/news/ki-aus-deutschland-ein-foerdersystem-das-innovationen-bremst-2608-212027.html</p>
+Link: https://t3n.de/news/ki-anproben-statt-3d-modelle-virtual-try-on-systeme-1756722/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-22 — (g+) Artificial Intelligence: AI hasn't gone rogue. It's worse than that (Golem.de · DE)</summary>
-<p>Recent cyber attacks reflect what the technology was trained to do but safeguards are falling short Von Madhumita Murgia (&lt;a href="https://www.golem.de/specials/llm/"&gt;LLM&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=212188&amp;page=1&amp;ts=1787405402"
+<summary>2026-08-31 — User-Rights-Co-CEO über KI-Moderation in sozialen Medien: „ Es sind manchmal einfach ganz klare Fehlentscheidungen“ (t3n · DE)</summary>
+<p>Wer sich bei Social-Media-Plattformen über gesperrte Beiträge beschwert, läuft damit oft ins Leere. Dabei sind deren Entscheidungen häufig schlicht falsch. Niklas Eder von User Rights erklärt, wie man zu seinem Recht kommt. Fotos, Videos, Posts, Kommentare: Jeden Tag fluten Milliarden von Inhalten die verschiedensten S
 
-Link: https://www.golem.de/news/artificial-intelligence-ai-hasn-t-gone-rogue-it-s-worse-than-that-2608-212188.html</p>
+Link: https://t3n.de/news/user-rights-co-ceo-ueber-ki-moderation-in-sozialen-medien-es-sind-manchmal-einfach-ganz-klare-fehlentscheidungen-1760661/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-22 — Claude und SynthID: Tool entfernt KI-Wasserzeichen mit KI (Golem.de · DE)</summary>
-<p>Anthropics neue KI-Wasserzeichen stoßen auf Widerstand. Ein Entwickler hat binnen weniger Stunden ein Tool gebaut, um sie zu entfernen. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/software/"&gt;Software&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=212197&amp;
+<summary>2026-08-31 — Strengere EU-Regeln für ChatGPT: Warum zu viele Nutzer OpenAI zum Verhängnis werden (t3n · DE)</summary>
+<p>Verfahren, Rügen und Millionenstrafen: Große Online-Plattformen müssen bei Verstößen gegen EU-Gesetze mit Konsequenzen rechnen. Brüssel nimmt künftig drei weitere beliebte Angebote unter die Lupe. Für den KI-Bot ChatGPT, das riesige Online-Forum Reddit und die besonders bei jungen Menschen beliebte Spieleplattform Robl
 
-Link: https://www.golem.de/news/claude-und-synthid-tool-entfernt-ki-wasserzeichen-mit-ki-2608-212197.html</p>
+Link: https://t3n.de/news/eu-dsa-chatgpt-roblox-reddit-strenge-regeln-1760732/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-22 — EZB-Analysten: Einbruch bei KI-Aktien auch ohne Blase zu erwarten (Golem.de · DE)</summary>
-<p>Sind Aktien aus dem KI-Umfeld überbewertet? Spielt keine Rolle, sagen EZB-Analysten, der prognostizierte Einbruch habe andere Gründe. (&lt;a href="https://www.golem.de/specials/wirtschaft/"&gt;Wirtschaft&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/boerse/"&gt;Börse&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=21
+<summary>2026-08-31 — Rockstar Games: GTA 6 soll ohne Mikrotransaktionen und generative KI starten (Golem.de · DE)</summary>
+<p>Ein Entwickler verspricht für GTA 6 (Singleplayer) keine Käufe mit echtem Geld, vermutlich gibt es auch keine Abos. (&lt;a href="https://www.golem.de/specials/gta-6/"&gt;GTA 6&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/red-dead-redemption/"&gt;Red Dead Redemption&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=212
 
-Link: https://www.golem.de/news/ezb-analysten-einbruch-bei-ki-aktien-auch-ohne-blase-zu-erwarten-2608-212196.html</p>
+Link: https://www.golem.de/news/rockstar-games-gta-6-soll-ohne-mikrotransaktionen-und-generative-ki-starten-2608-212448.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-21 — Artificial Intelligence: Glossary (Nielsen Norman Group · EN)</summary>
-<p>Plain-language definitions of the AI terms that come up in product and design work, from tokens and context windows to agents, evals, and prompt injection.
+<summary>2026-08-28 — AI Can't Replace Real Research in Empathy Mapping (Nielsen Norman Group · EN)</summary>
+<p>AI can help you organize research you’ve already collected, but it can’t create research evidence about the specific, messy experience of real users.
 
-Link: https://www.nngroup.com/articles/artificial-intelligence-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.nngroup.com/articles/ai-empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-21 — AI-Generated Images Can Perform as Well as Stock Photography (Nielsen Norman Group · EN)</summary>
-<p>When users didn’t know whether an image was AI-generated, the images we tested did not create any perception penalty compared to stock photos.
+<summary>2026-08-28 — The Custodial Era of UX: Cleaning Up After AI (Nielsen Norman Group · EN)</summary>
+<p>AI lets teams build faster than UX can evaluate. UX can adapt by building shared judgment, accelerating evaluation, and guiding AI-generated designs.
 
-Link: https://www.nngroup.com/articles/ai-generated-images/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.nngroup.com/articles/ai-ux-debt/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 <!-- AUTO-RESEARCH:END -->
