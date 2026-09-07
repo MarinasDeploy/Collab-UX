@@ -4,86 +4,86 @@ Automatisch gesammelte Links — **Schwerpunkt Deutsch** (heise, t3n, Golem, Net
 
 <!-- AUTO-RESEARCH:START -->
 <details class="accordion">
-<summary>2026-08-31 — Smart Glasses und Barrierefreiheit: “Meta hat kein Blinden-Hilfsmittel entwickelt” (Netzpolitik.org · DE)</summary>
-<p>Meta bewirbt seine Brillen gerne als Werkzeug für Barrierefreiheit. – Alle Rechte vorbehalten: Imago / ZUMA Press Wire KI-Brillen geraten derzeit als Werkzeuge für heimliche Überwachung und digitale Gewalt in die Kritik. Rufe nach einem Verbot werden laut. Für Menschen mit einer Sehbehinderung können sie hingegen im Al
+<summary>2026-09-07 — Zahnbürste mit viel Technik: Colgate macht sich über Dysons neue Kamera-KI-Zahnbürste lustig (Golem.de · DE)</summary>
+<p>Mit ironischem Tonfall spottet Colgate über Dysons neu vorgestellte KI-Zahnbürste mit eingebauter Kamera. (&lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=212728&amp;page=1&amp;ts=1788783962" alt="" width="1" height="1" /&gt;
 
-Link: https://netzpolitik.org/2026/smart-glasses-und-barrierefreiheit-meta-hat-kein-blinden-hilfsmittel-entwickelt/</p>
+Link: https://www.golem.de/news/zahnbuerste-mit-viel-technik-colgate-macht-sich-ueber-dysons-neue-kamera-ki-zahnbuerste-lustig-2609-212728.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-31 — Neuer Job als KI-Compliance Spezialist (m/w/d) gesucht? Schau dir unsere KI Jobs an (t3n · DE)</summary>
-<p>Unsere KI-Jobs der Woche für digitale Zukunftsgestalter. Entdecke die spannendsten Stellenangebote im Bereich Künstliche Intelligenz – von Machine Learning und Data Science über KI-gestützte Produktentwicklung bis hin zu innovativen Anwendungen in Marketing, Design, Projektmanagement und Business Development. Baden-Bad
+<summary>2026-09-07 — KI: Bergsteiger planen Tour mit Gemini und müssen gerettet werden (Golem.de · DE)</summary>
+<p>In den USA hat eine Gruppe die Gefahren des Mount Shasta unterschätzt - auch, weil Googles Gemini ihnen schlechte Hinweise gegeben hat. (&lt;a href="https://www.golem.de/specials/gemini/"&gt;Gemini&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=212715&amp;page
 
-Link: https://t3n.de/news/neuer-job-als-softwarearchitekt-fuer-kuenstliche-intelligenz-gesucht-schau-dir-unsere-ki-jobs-der-woche-1722550/</p>
+Link: https://www.golem.de/news/ki-bergsteiger-planen-tour-mit-gemini-und-muessen-gerettet-werden-2609-212715.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-31 — Digital Services Act: Schärfere EU-Auflagen für ChatGPT, Reddit und Roblox (Golem.de · DE)</summary>
-<p>Mit ChatGPT fällt erstmals ein KI-Chatbot unter die schärferen Digitalregeln in der EU. Das liegt an der hohen Nutzerzahl in Europa. (&lt;a href="https://www.golem.de/specials/dsa/"&gt;Digital Services Act&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=212458&
+<summary>2026-09-07 — Experiment: KI spielt Portal durch und verbraucht dabei 571 US-Dollar (Golem.de · DE)</summary>
+<p>Das neue GPT-6 Astra hat selbstständig Valves Spieleklassiger Portal geschafft. Die Leistung ist erstaunlich, die Rechnung allerdings auch. (&lt;a href="https://www.golem.de/specials/chatgpt/"&gt;ChatGPT&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/valve/"&gt;Valve&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=212
 
-Link: https://www.golem.de/news/digital-services-act-schaerfere-eu-auflagen-fuer-chatgpt-reddit-und-roblox-2608-212458.html</p>
+Link: https://www.golem.de/news/experiment-ki-spielt-portal-durch-und-verbraucht-dabei-571-us-dollar-2609-212708.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-31 — KI-Bilder für Social Media: Top oder Slop? (t3n · DE)</summary>
-<p>KI-Bilder für Social Media entstehen in Sekunden. Doch Schnellschüsse gehen oft nach hinten los. Für überzeugende Visuals braucht es vor dem Prompten einen kreativen Prozess. Ein Praxisleitfaden. Aitana Lopez liebt die Farbe Pink, freizügige Kleider, schnelle Autos – und Sport. Seit Juni 2023 gibt es das Instagram-Prof
+<summary>2026-09-07 — KI in Deutschland: Wir schaffen das (Golem.de · DE)</summary>
+<p>Deutschland hat bisher bei KI viele Chancen liegengelassen. Statt im eigenen LLM liegt die Zukunft in Nischen, Forschung und Anwendung. Ein IMHO von Tim Elsner (&lt;a href="https://www.golem.de/specials/digitalesouveraenitaet/"&gt;Souveränität&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.gol
 
-Link: https://t3n.de/news/ki-bilder-fuer-social-media-top-oder-slop-1760151/</p>
+Link: https://www.golem.de/news/ki-in-deutschland-wir-schaffen-das-2609-211993.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-31 — (g+) KI-Abrechnung nach Energieverbrauch: Um den Faktor vier billiger (Golem.de · DE)</summary>
-<p>Bei Neuralwatt bezahlt man bei KI-Nutzung statt Token verbrauchte Kilowattstunden. 30 Tage nachgerechnet ergeben 100 statt 428 US-Dollar. Ein Erfahrungsbericht von Robert Heide (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/api/"&gt;API&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.p
+<summary>2026-09-07 — Softwareentwicklung: "Typing Code is absolutely over" (Golem.de · DE)</summary>
+<p>Microsoft setzt verstärkt auf KI-Agenten. Laut David Fowler verlagert sich die Arbeit von der Codeeingabe zur Architektur. (&lt;a href="https://www.golem.de/specials/softwareentwicklung/"&gt;Softwareentwicklung&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/microsoft/"&gt;Microsoft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class
 
-Link: https://www.golem.de/news/ki-abrechnung-nach-energieverbrauch-um-den-faktor-vier-billiger-2608-212451.html</p>
+Link: https://www.golem.de/news/softwareentwicklung-typing-code-is-absolutely-over-2609-212699.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-31 — AI Lab Report: KI lernt nicht aus dem Nichts (Golem.de · DE)</summary>
-<p>Unser Newsletter AI Lab Report ordnet neue KI-Entwicklungen ein. In der aktuellen Ausgabe geht es darum, warum Modelle Fähigkeiten scheinbar aus dem Nichts entwickeln. (&lt;a href="https://www.golem.de/specials/golem.de/"&gt;In eigener Sache&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem
+<summary>2026-09-06 — Hugging-Face-Übernahme: Diese 2 Eastereggs hat Nvidia im Kaufpreis versteckt (t3n · DE)</summary>
+<p>Nvidia hat die Übernahme der KI-Plattform Hugging Face offiziell gemacht. Der schräge Kaufpreis von exakt 12.930.300.000 US-Dollar gab der Tech-Gemeinde allerdings zunächst Rätsel auf. Jetzt ist klar: Darin sind zwei Eastereggs versteckt. Schon Ende August 2026 hatten US-Medien berichtet, dass die zuvor kolportierte Üb
 
-Link: https://www.golem.de/news/ai-lab-report-ki-lernt-nicht-aus-dem-nichts-2608-212434.html</p>
+Link: https://t3n.de/news/hugging-face-nvidia-eastereggs-1761758/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-31 — KI-Anproben statt 3D-Modelle: Was moderne Virtual-Try-On-Systeme heute können (t3n · DE)</summary>
-<p>Generative KI löst zunehmend echte, operative Geschäftsprobleme im Onlinehandel. Kaum ein Beispiel führt das so eindrucksvoll vor Augen wie Virtual Try-On (VTO). Was lange als technische Spielerei galt, entwickelt sich 2026 zum Business Case. Herausforderungen erkennen und lösen Der Online-Modehandel kämpft seit Jahren
+<summary>2026-09-06 — KI-Rechenzentren und Wasserverbrauch: Wie erneuerbare Energien helfen (t3n · DE)</summary>
+<p>Künstliche Intelligenz benötigt für ihren Betrieb physische Infrastruktur, die kontinuierlich gekühlt werden muss. Dies stellt wasserarme Regionen vor Herausforderungen. Dabei gibt es bereits konkrete Ansätze, den Ressourcenbedarf spürbar einzudämmen. Der Ausbau von KI-Kapazitäten führt an Standorten von Rechenzentren 
 
-Link: https://t3n.de/news/ki-anproben-statt-3d-modelle-virtual-try-on-systeme-1756722/</p>
+Link: https://t3n.de/news/ki-rechenzentren-wasserverbrauch-kuehlung-1761765/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-31 — User-Rights-Co-CEO über KI-Moderation in sozialen Medien: „ Es sind manchmal einfach ganz klare Fehlentscheidungen“ (t3n · DE)</summary>
-<p>Wer sich bei Social-Media-Plattformen über gesperrte Beiträge beschwert, läuft damit oft ins Leere. Dabei sind deren Entscheidungen häufig schlicht falsch. Niklas Eder von User Rights erklärt, wie man zu seinem Recht kommt. Fotos, Videos, Posts, Kommentare: Jeden Tag fluten Milliarden von Inhalten die verschiedensten S
+<summary>2026-09-06 — Lebenslauf-Check mit KI: Diese 6 Prompts zeigen dir, was du übersehen hast (t3n · DE)</summary>
+<p>Der Lebenslauf ist so etwas wie die Visitenkarte des eigenen beruflichen Werdegangs, seinen Inhalt kennt man in der Regel in- und auswendig. Aber manchmal sind doch verborgene Talente in ihm zu finden &#8211; und damit ungeahntes Potenzial. Als eine Freundin von Catherine Leser in einem Job war, der sie nicht besonders
 
-Link: https://t3n.de/news/user-rights-co-ceo-ueber-ki-moderation-in-sozialen-medien-es-sind-manchmal-einfach-ganz-klare-fehlentscheidungen-1760661/</p>
+Link: https://t3n.de/news/bewerbung-lebenslauf-ki-prompts-versteckte-chancen-potenzial-1758125/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-31 — Strengere EU-Regeln für ChatGPT: Warum zu viele Nutzer OpenAI zum Verhängnis werden (t3n · DE)</summary>
-<p>Verfahren, Rügen und Millionenstrafen: Große Online-Plattformen müssen bei Verstößen gegen EU-Gesetze mit Konsequenzen rechnen. Brüssel nimmt künftig drei weitere beliebte Angebote unter die Lupe. Für den KI-Bot ChatGPT, das riesige Online-Forum Reddit und die besonders bei jungen Menschen beliebte Spieleplattform Robl
+<summary>2026-09-06 — Versteckte Befehle im Lebenslauf: Wie Bewerber per Prompt-Injection aus der Masse herausstechen wollen (t3n · DE)</summary>
+<p>Jobsuchende sind vom aktuellen Arbeitsmarkt zunehmend frustriert. Um ihre Chancen zu erhöhen, greifen manche zu unethischen Mitteln und verstecken heimlich KI-Anweisungen in ihren Bewerbungsunterlagen. KI-Tools können im Bewerbungsprozess äußerst nützlich sein – sowohl für Kandidat:innen als auch für Personalverantwort
 
-Link: https://t3n.de/news/eu-dsa-chatgpt-roblox-reddit-strenge-regeln-1760732/</p>
+Link: https://t3n.de/news/versteckte-befehle-im-lebenslauf-wie-bewerber-per-prompt-injection-aus-der-masse-herausstechen-wollen-1761743/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-31 — Rockstar Games: GTA 6 soll ohne Mikrotransaktionen und generative KI starten (Golem.de · DE)</summary>
-<p>Ein Entwickler verspricht für GTA 6 (Singleplayer) keine Käufe mit echtem Geld, vermutlich gibt es auch keine Abos. (&lt;a href="https://www.golem.de/specials/gta-6/"&gt;GTA 6&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/red-dead-redemption/"&gt;Red Dead Redemption&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=212
+<summary>2026-09-06 — Bankraub mit ChatGPT geplant: Täter vergaß Maske – und trug rote Nike-Pantoletten (t3n · DE)</summary>
+<p>Die KI war keine große Hilfe: Der Täter betrat die Filiale unmaskiert und konnte auch wegen seiner auffälligen Nike-Pantoletten schnell überführt werden. Jetzt muss er für mehr als zehn Jahre ins Gefängnis. ChatGPT wird längst nicht mehr nur zum Auswerten großer Excel-Tabellen oder Überarbeiten von Texten eingesetzt. L
 
-Link: https://www.golem.de/news/rockstar-games-gta-6-soll-ohne-mikrotransaktionen-und-generative-ki-starten-2608-212448.html</p>
+Link: https://t3n.de/news/chatgpt-bankraub-planung-nike-pantoletten-verurteilung-1759174/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-28 — AI Can't Replace Real Research in Empathy Mapping (Nielsen Norman Group · EN)</summary>
-<p>AI can help you organize research you’ve already collected, but it can’t create research evidence about the specific, messy experience of real users.
+<summary>2026-09-04 — Using AI for UX Work: Study Guide (Nielsen Norman Group · EN)</summary>
+<p>Unsure where to start? Use this collection of links to our articles and videos to learn about the best ways to use artificial intelligence for UX work.
 
-Link: https://www.nngroup.com/articles/ai-empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.nngroup.com/articles/ai-work-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 
 <details class="accordion">
-<summary>2026-08-28 — The Custodial Era of UX: Cleaning Up After AI (Nielsen Norman Group · EN)</summary>
-<p>AI lets teams build faster than UX can evaluate. UX can adapt by building shared judgment, accelerating evaluation, and guiding AI-generated designs.
+<summary>2026-09-03 — UX Conference November Announced (Nov 16 - Nov 19) (Nielsen Norman Group · EN)</summary>
+<p>Take up to 2 in-depth training courses, teaching user experience best practices for successful design. Live online training focused on long-lasting skills for UX professionals. Nov 16 - Nov 19, 2026 (Americas) | Nov 17 - Nov 20 (Asia/AU).
 
-Link: https://www.nngroup.com/articles/ai-ux-debt/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 <!-- AUTO-RESEARCH:END -->
