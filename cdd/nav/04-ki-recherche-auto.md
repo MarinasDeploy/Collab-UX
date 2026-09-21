@@ -4,86 +4,86 @@ Automatisch gesammelte Links — **Schwerpunkt Deutsch** (heise, t3n, Golem, Net
 
 <!-- AUTO-RESEARCH:START -->
 <details class="accordion">
-<summary>2026-09-14 — Künstliche Intelligenz: China warnt vor "böswilligem Wettbewerb" bei KI-Entwicklung (Golem.de · DE)</summary>
-<p>Mehrere Chefs von KI-Unternehmen aus den USA schlagen vor, die Entwicklung der Technologie zu verlangsamen. China will eine gemeinsame Regulierung. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/wirtschaft/"&gt;Wirtschaft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp
+<summary>2026-09-21 — Energieversorgung im All: USA planen für 2028 den Start eines Atomreaktors (Golem.de · DE)</summary>
+<p>Nachdem ein erster Prototyp Kritikalität erreicht hat, soll eine Weiterentwicklung den Orbit und schließlich den Mond erreichen. (&lt;a href="https://www.golem.de/specials/atomkraft/"&gt;Atomkraft&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/rakete/"&gt;Rakete&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=213270&a
 
-Link: https://www.golem.de/news/kuenstliche-intelligenz-china-warnt-vor-boeswilligem-wettbewerb-bei-ki-entwicklung-2609-212991.html</p>
+Link: https://www.golem.de/news/energieversorgung-im-all-usa-planen-fuer-2028-den-start-eines-atomreaktors-2609-213270.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-09-14 — Warnung vor „katastrophalen Schäden“: Künstliche Intelligenz ist kein Naturereignis (Netzpolitik.org · DE)</summary>
-<p>Das jüngste Gericht von Hieronymus Bosch. – Gemeinfrei: Hieronymus Bosch Anthropic und OpenAI sind mal wieder vom Tempo ihrer eigenen Entwicklung beunruhigt. Eindringlich warnen sie davor, dass generative KI außer Kontrolle geraten könnte. Der eigentliche Kontrollverlust droht aber, wenn Medien und Politik ins gleiche 
+<summary>2026-09-21 — Ausbruch aus der Sandbox: Wo das eigentliche Problem beim Testen von KI-Agenten liegt (t3n · DE)</summary>
+<p>Ein KI-Modell von OpenAI ist aus seiner isolierten Testumgebung ausgebrochen und hat das Unternehmen Hugging Face gehackt. Wie gefährlich ist der Fall wirklich für die IT-Sicherheit? Und welche Rolle spielt die Sandbox? Der internationale Aufschrei war gewaltig: Ein auf Cyberangriffe spezialisiertes KI-Modell von OpenA
 
-Link: https://netzpolitik.org/2026/warnung-vor-katastrophalen-schaeden-kuenstliche-intelligenz-ist-kein-naturereignis/</p>
+Link: https://t3n.de/news/ausbruch-aus-der-sandbox-wo-das-eigentliche-problem-beim-testen-von-ki-agenten-liegt-1763779/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-09-14 — (g+) Der Mythos vom Millionen-Token-Kontext: Warum KI bei längeren Eingaben schwächelt (Golem.de · DE)</summary>
-<p>KI-Hersteller bewerben Kontextlängen von Millionen von Zeichen, doch trotzdem versagen die Modelle bei großen Dokumenten. Wir erklären die Hintergründe. Eine Analyse von Tim Elsner (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/software/"&gt;Software&lt;/a&gt;) &lt;img src="https://cpx.
+<summary>2026-09-21 — KI trifft auf Reagenzglas: Anthropic eröffnet Biotech-Labor (Golem.de · DE)</summary>
+<p>Anthropic betreibt in den USA ein Labor, in dem seine KI-Systeme echte biologische Experimente durchführen. (&lt;a href="https://www.golem.de/specials/anthropic/"&gt;Anthropic&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=213264&amp;page=1&amp;ts=1789982522" 
 
-Link: https://www.golem.de/news/der-mythos-vom-millionen-token-kontext-warum-ki-bei-laengeren-eingaben-schwaechelt-2609-212718.html</p>
+Link: https://www.golem.de/news/ki-trifft-auf-reagenzglas-anthropic-eroeffnet-biotech-labor-2609-213264.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-09-14 — Sicherheitskäfig: Wie Google KI-Agenten davon abhalten will, Schaden auf deinem Smartphone anzurichten (t3n · DE)</summary>
-<p>Google hat eine Art Sicherheitskäfig für KI-Agenten entwickelt, den es tief in sein mobiles Betriebssystem Android eingebaut hat. Damit bereitet der Konzern Smartphones auf die bevorstehende Integration von Gemini und Co vor. Autonome KI-Agenten sollen künftig noch stärker als bisher eigenständig Aufgaben wie das Plane
+<summary>2026-09-21 — Studie zeigt: KI-Chatbots liefern bei Finanzfragen in 57 Prozent der Fälle falsche Antworten (t3n · DE)</summary>
+<p>KI-Chatbots werden von vielen Menschen auch für Finanztipps genutzt. Eine britische Studie zeigt allerdings, dass das sehr gefährlich sein kann. KI steht mittlerweile auch in Sachen Finanzberatung bei vielen Menschen hoch im Kurs. Doch sind die Finanztipps von KI-Chatbots auch gut? Laut einer Studie des Technologieunte
 
-Link: https://t3n.de/news/sicherheitskaefig-google-ki-agenten-1763150/</p>
+Link: https://t3n.de/news/ki-finanztipps-studie-57-prozent-falsche-antworten-1764310/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-09-14 — Panikmache oder echte Gefahr? Sicherheitsexperte hält Warnung von Anthropic-CEO für berechtigt (t3n · DE)</summary>
-<p>Chefs der größten KI-Anbieter warnen vor den möglichen Folgen ihrer eigenen Schöpfung. Ist das berechtigt oder pures Marketing? Ein Experte schätzt die Lage ein. Der KI-Experte Dennis-Kenji Kipker hält Warnungen führender KI-Unternehmen vor einer außer Kontrolle geratenden künstlichen Intelligenz grundsätzlich für bere
+<summary>2026-09-21 — ChatGPT-Effekt: Frische Informatik-Absolventen verdienen 13 Prozent weniger als ihre Vorgänger (t3n · DE)</summary>
+<p>KI hat die Einstiegschancen von Absolvent:innen auf dem Arbeitsmarkt deutlich verschlechtert. Laut einem Arbeitspapier der US-Statistikbehörde verdienten etwa Informatik-Student:innen nach ihrem Abschluss seit dem ChatGPT-Start weniger. Auch wenn in den vergangenen Monaten viele Tech-Konzerne tausende Mitarbeiter:innen
 
-Link: https://t3n.de/news/panikmache-oder-echte-gefahr-sicherheitsexperte-haelt-warnung-von-anthropic-ceo-fuer-berechtigt-1763205/</p>
+Link: https://t3n.de/news/berufe-ki-fokus-lohn-1764272/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-09-14 — Anthropic-Chef ruft zur langsameren KI‑Entwicklung auf: Was bedeutet das für Börsenkurse? (t3n · DE)</summary>
-<p>Lösung für viele Probleme oder große Gefahr? Die Zukunft der Künstlichen Intelligenz wird kontrovers diskutiert. Die Macher sprechen sich für ein langsameres Tempo bei der Entwicklung aus. Wie reagiert die Börse? Befürchtungen rund um Künstliche Intelligenz (KI) belasten weltweit die Werte mit Fantasie bei diesem Trend
+<summary>2026-09-21 — Investitionen in KI: Tech-Konzerne lagern immer mehr Schulden aus (Golem.de · DE)</summary>
+<p>Zur Absicherung der Investitionen in KI-Infrastruktur setzen Unternehmen wie Broadcom, Nvidia und Meta auf Restwertgarantien für Zweckgesellschaften. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/nvidia/"&gt;Nvidia&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=2
 
-Link: https://t3n.de/news/anthropic-chef-ruft-zur-langsameren-ki-entwicklung-auf-was-bedeutet-das-fuer-boersenkurse-1763178/</p>
+Link: https://www.golem.de/news/investitionen-in-ki-tech-konzerne-lagern-immer-mehr-schulden-aus-2609-213259.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-09-14 — KI-Anwendungen: Chinesischer RTX-5090-Umbau verspricht 96 GByte (Golem.de · DE)</summary>
-<p>Für nur 4.000 US-Dollar bietet ein chinesischer Händler eine RTX 5090 mit 96 Gigabyte Speicher an. Die Spezifikationen werfen Fragen auf. (&lt;a href="https://www.golem.de/specials/grafikhardware/"&gt;Grafikkarten&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/nvidia/"&gt;Nvidia&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17
+<summary>2026-09-20 — 107 Jahre ungelöst: KI knackt deutschen Funkspruch aus dem Ersten Weltkrieg (Golem.de · DE)</summary>
+<p>Ein Autor namens prinz will mit einem KI-Modell eine deutsche Militärchiffre von 1918 entschlüsselt haben, die bislang als unlösbar galt. (&lt;a href="https://www.golem.de/specials/verschluesselung/"&gt;Verschlüsselung&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&am
 
-Link: https://www.golem.de/news/ki-anwendungen-chinesischer-rtx-5090-umbau-verspricht-96-gbyte-2609-212971.html</p>
+Link: https://www.golem.de/news/107-jahre-ungeloest-ki-knackt-deutschen-funkspruch-aus-dem-ersten-weltkrieg-2609-213252.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-09-14 — „Weißt du eigentlich, wo deine KI-Daten landen?&#8220; – Podcast-Folge in Kooperation mit mittwald (t3n · DE)</summary>
-<p>Wo landen eigentlich deine KI-Daten? Millionen Menschen füttern täglich ChatGPT und Co. mit sensiblen Infos – oft ohne zu wissen, was danach passiert. Im Sponsored Podcast spricht Lars Bergmann, Developer Relations Engineer bei mittwald über KI-Agenten, Datensouveränität und wie Tools, Skills und MCP euren Agenten wirk
+<summary>2026-09-20 — 13 Prozent weniger Lohn: KI macht Absolventen den Jobstart schwer (Golem.de · DE)</summary>
+<p>Eine US-Studie zeigt: Wer ein Fach studiert hat, in dem KI stark zum Einsatz kommt, verdient im ersten Job deutlich weniger. (&lt;a href="https://www.golem.de/specials/gehalt/"&gt;Gehalt&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=213251&amp;page=1&amp;ts=1
 
-Link: https://t3n.de/news/ki-agenten-datensouveraenitaet-mittwald-1761951/</p>
+Link: https://www.golem.de/news/13-prozent-weniger-lohn-ki-macht-absolventen-den-jobstart-schwer-2609-213251.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-09-14 — Noch vor Hugging-Face-Hack: KI-Agenten von OpenAI haben Rubygems attackiert (Golem.de · DE)</summary>
-<p>Im Mai ist die Paketverwaltung Rubygems Ziel einer merkwürdigen Cyberattacke worden. Nun zeigt sich, dass KI-Agenten von OpenAI dahinter steckten. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/api/"&gt;API&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=212970&amp
+<summary>2026-09-20 — Optimismus gefordert: Baustellen und KI-Entwicklung begeistern Telekom-Chef Höttges (Golem.de · DE)</summary>
+<p>Telekom-Chef Tim Höttges ärgert sich über zu viel Pessimismus. Jede Baustelle sei ein positives Zeichen und KI sei ein großes "Geschenk". (&lt;a href="https://www.golem.de/specials/timotheus-hoettges/"&gt;Timotheus Höttges&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=1
 
-Link: https://www.golem.de/news/noch-vor-hugging-face-hack-ki-agenten-von-openai-haben-rubygems-attackiert-2609-212970.html</p>
+Link: https://www.golem.de/news/optimismus-gefordert-baustellen-und-ki-entwicklung-begeistern-telekom-chef-hoettges-2609-213249.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-09-14 — KI-Warnungen von Anthropic-Chef Amodei: Eigennützig – und trotzdem richtig (t3n · DE)</summary>
-<p>Anthropic-Chef Dario Amodei fordert ein langsameres Tempo bei KI und profitiert davon selbst. Warum das trotzdem kein Grund ist, die Warnung abzutun. ChatGPTs Start war vor allem faszinierend: Mit einer Maschine zu chatten und halbwegs vernünftige Antworten zu bekommen, hatte etwas von Magie. Man testete eine Software 
+<summary>2026-09-20 — Kettenhemd statt Katze: KI hat gravierende Schwächen beim Erkennen von Formen (Golem.de · DE)</summary>
+<p>Moderne KI kann selbst einfachste Umrisse von Objekten nicht erkennen. Eine Katze wird als Kreuzworträtsel oder Kettenhemd erkannt. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/wissenschaft/"&gt;Wissenschaft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=213248&
 
-Link: https://t3n.de/news/ki-warnungen-anthropic-chef-amodei-eigennuetzig-richtig-1763135/</p>
+Link: https://www.golem.de/news/kettenhemd-statt-katze-ki-hat-gravierende-schwaechen-beim-erkennen-von-formen-2609-213248.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-09-11 — Test Complex Interactions Earlier with AI Prototyping (Nielsen Norman Group · EN)</summary>
-<p>AI tools make it feasible to build fully interactive prototypes of complex interfaces so you can test them with users earlier in the design process.
+<summary>2026-09-18 — Designing AI Products and Features: Study Guide (Nielsen Norman Group · EN)</summary>
+<p>Unsure where to start? Use this collection of links to our articles and videos to learn about recommendations for designing AI products and features.
 
-Link: https://www.nngroup.com/articles/test-earlier-with-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.nngroup.com/articles/designing-ai-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 
 <details class="accordion">
-<summary>2026-09-11 — AI Can Help Write an Article, but It Can’t Stand Behind It (Nielsen Norman Group · EN)</summary>
-<p>NN/G uses AI for clarity, formatting, and critique, but humans retain editorial judgment and responsibility for every article.
+<summary>2026-09-18 — The 3 Roles of Context for AI Agents (Nielsen Norman Group · EN)</summary>
+<p>AI-agent power users curate 3 kinds of context: global (across tasks), local (task-specific), and ambient (raw streams like email).
 
-Link: https://www.nngroup.com/articles/ai-editorial-process/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.nngroup.com/articles/3-agent-context-roles/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 <!-- AUTO-RESEARCH:END -->
