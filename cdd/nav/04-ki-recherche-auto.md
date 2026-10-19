@@ -4,86 +4,86 @@ Automatisch gesammelte Links — **Schwerpunkt Deutsch** (heise, t3n, Golem, Net
 
 <!-- AUTO-RESEARCH:START -->
 <details class="accordion">
-<summary>2026-10-12 — (g+) Künstliche Intelligenz: Ein Blick in die 'Roboter-Fitnessstudios', in denen Maschinen für ... (Golem.de · DE)</summary>
-<p>Robotern fehlen Trainingsdaten aus der echten Welt. Die Financial Times zeigt in unserem Lesetipp, wie Unternehmen das ändern wollen. Von Rafe Rosner-Uddin (&lt;a href="https://www.golem.de/specials/robots/"&gt;Roboter&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&am
+<summary>2026-10-19 — Claude für alte Fernseher: So macht die KI Android-TVs wieder flott (t3n · DE)</summary>
+<p>Alternde Smart-TVs könnten dank KI eine neue Chance bekommen. Ein Entwickler hat einen Weg gefunden, mit dem Claude auf den Geräten ordentlich aufräumt. Wie das Ganze funktioniert. Wer schon mehrere Jahre einen smarten Fernseher mit Android benutzt, wird das Problem sicherlich kennen. Nach dieser langen Zeit fühlt sich
 
-Link: https://www.golem.de/news/kuenstliche-intelligenz-ein-blick-in-die-roboter-fitnessstudios-in-denen-maschinen-fuer-die-echte-welt-trainiert-werden-2610-214019.html</p>
+Link: https://t3n.de/news/claude-alter-fernseher-android-tv-1768831/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-12 — Kostenfalle KI: Gratisdemo auf Steam verschlingt 1.000 US-Dollar täglich (Golem.de · DE)</summary>
-<p>Ein kleines Entwicklerteam muss einen Bankkredit aufnehmen, um seine kostenlose KI-Spiel-Demo weiter anbieten zu können. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/steam/"&gt;Steam&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214012&amp;page=1&amp;ts=1791814
-
-Link: https://www.golem.de/news/kostenfalle-ki-gratisdemo-auf-steam-verschlingt-1-000-us-dollar-taeglich-2610-214012.html</p>
-</details>
-
-<details class="accordion">
-<summary>2026-10-12 — AMD Helion: Offene KI-Racks sollen Rechenzentren flexibler auslasten (Golem.de · DE)</summary>
-<p>Mit der offenen KI-Plattform Helios will AMD Kunden eine flexibel anpassbare Lösung für agentische KI-Anwendungen liefern. (&lt;a href="https://www.golem.de/specials/helios/"&gt;Helios&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/cpu/"&gt;Prozessor&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214014&amp;page=1&am
-
-Link: https://www.golem.de/news/amd-helion-offene-ki-racks-sollen-rechenzentren-flexibler-auslasten-2610-214014.html</p>
-</details>
-
-<details class="accordion">
-<summary>2026-10-12 — Das Ende von Photoshop, Word &#038; Co.? So schlagen sich KI-generierte Software-Kopien wirklich (t3n · DE)</summary>
-<p>Von Adobe Photoshop bis Microsoft Word: Artcraft bietet KI-generierte Kopien einiger der beliebtesten Software-Tools an. Wie gut sind die Gratis-Klone wirklich – und was sagt das über die Zukunft kommerzieller Software aus? „Software is over“, erklärte der US-amerikanische Entwickler Brandon Thomas Anfang Oktober 2026 
-
-Link: https://t3n.de/news/das-ende-von-photoshop-word-co-so-schlagen-sich-ki-generierte-software-kopien-wirklich-1767815/</p>
-</details>
-
-<details class="accordion">
-<summary>2026-10-12 — Fitbit Edge: Googles neuer GPS-Tracker erkennt 100 Sportarten per KI (Golem.de · DE)</summary>
-<p>Die neue Fitbit Edge bietet EKG und KI-Coach. Gleichzeitig erhalten auch Air und Pixel Watch eine massiv verbesserte Trainingserkennung. (&lt;a href="https://www.golem.de/specials/fitbit/"&gt;Fitbit&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/amoled/"&gt;Amoled&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=213996
-
-Link: https://www.golem.de/news/fitbit-edge-googles-neuer-gps-tracker-erkennt-100-sportarten-per-ki-2610-213996.html</p>
-</details>
-
-<details class="accordion">
-<summary>2026-10-12 — Neuer Job Spezialist für KI Governance / Informationssicherheit gesucht? Schau dir unsere KI Jobs der Woche an (t3n · DE)</summary>
+<summary>2026-10-19 — Neuer Job als Business Analyst mit KI-Hintergrund gesucht? Schau dir unsere KI Jobs der Woche an (t3n · DE)</summary>
 <p>Unsere KI-Jobs der Woche für digitale Zukunftsgestalter. Entdecke die spannendsten Stellenangebote im Bereich Künstliche Intelligenz – von Machine Learning und Data Science über KI-gestützte Produktentwicklung bis hin zu innovativen Anwendungen in Marketing, Design, Projektmanagement und Business Development. 603** Fra
 
 Link: https://t3n.de/news/neuer-job-als-softwarearchitekt-fuer-kuenstliche-intelligenz-gesucht-schau-dir-unsere-ki-jobs-der-woche-1722550/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-12 — Spider-Noir abgesetzt: Nicolas Cage verweigerte Amazons KI-Klausel (Golem.de · DE)</summary>
-<p>Für die überraschende Absetzung der Marvel-Serie Spider-Noir ist ein möglicher Grund aufgetaucht: eine KI-Klausel. (&lt;a href="https://www.golem.de/specials/amazon-prime-video/"&gt;Prime Video&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214006&amp;page=1&a
+<summary>2026-10-19 — MonoRace: Wie eine KI mit billiger Hardware die besten Drohnenpiloten der Welt abhängt (t3n · DE)</summary>
+<p>Während viele moderne Roboter auf teure Hardware setzen, reicht dieser Renndrohne eine einfache 8-Megapixel-Kamera und ein neuronales Netzwerk, um mit bis zu 100 Kilometern pro Stunde durch einen Parcours zu fliegen. Bei der Abu Dabi Autonomous Drone Racing Competition treffen jährlich die besten Renndrohnen und ihre P
 
-Link: https://www.golem.de/news/spider-noir-abgesetzt-nicolas-cage-verweigerte-amazons-ki-klausel-2610-214006.html</p>
+Link: https://t3n.de/news/monorace-wie-eine-ki-mit-billiger-hardware-die-besten-drohnenpiloten-der-welt-abhaengt-1768866/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-12 — Entwickler lassen GPT, Claude und Grok einen Toyota fahren: So lief der Test (t3n · DE)</summary>
-<p>Drei Entwickler haben die großen Sprachmodelle GPT, Claude und Grok ans Steuer eines echten Fahrzeugs gelassen. Tatsächlich gelang es allen drei KI-Systemen, das Auto zu steuern. Aber nur ein Modell absolvierte den Test-Parcours zu 100 Prozent. Hinter der Steuerung autonom fahrender Autos stecken normalerweise speziell
+<summary>2026-10-19 — KI für Arztpraxen: 7 Prozesse, die sich heute schon automatisieren lassen (t3n · DE)</summary>
+<p>Zwischen Terminen, Patientenanfragen und interner Abstimmung bleibt in Arztpraxen oft wenig Zeit für den Verwaltungsalltag. KI und intelligente Automatisierung entlasten Praxisteams genau dort, wo sich Aufgaben täglich wiederholen – ohne dabei medizinische Entscheidungen zu übernehmen. Wo Automatisierung im Praxisallta
 
-Link: https://t3n.de/news/gpt-claude-grok-steuern-toyota-1767731/</p>
+Link: https://t3n.de/news/ki-fuer-arztpraxen-7-prozesse-die-sich-heute-schon-automatisieren-lassen-1766121/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-12 — Umbennenung von KI in SI: Ist Trump die echte Superintelligenz? (Golem.de · DE)</summary>
-<p>Der US-Präsident ist so gerissen, dass er selbst Microsoft-CEO Satya Nadella auf die Seite der Superintelligenzen gezogen hat. Eine Glosse von Oliver Nickel (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/microsoft/"&gt;Microsoft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class
+<summary>2026-10-19 — (g+) KI in der Energiewende: Wenn Algorithmen Engpässe vorhersehen (Golem.de · DE)</summary>
+<p>Mehr Solarstrom, mehr Windkraft, mehr Last im Netz: EnBW zeigt, wie KI drohende Engpässe erkennt und Netzbetreibern hilft, die Stromversorgung stabil zu halten. Ein Bericht von Otto Geißler (&lt;a href="https://www.golem.de/specials/energiewende/"&gt;Energiewende&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img 
 
-Link: https://www.golem.de/news/umbennenung-von-ki-in-si-ist-trump-die-echte-superintelligenz-2610-213991.html</p>
+Link: https://www.golem.de/news/ki-in-der-energiewende-wenn-algorithmen-engpaesse-vorhersehen-2610-214251.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-12 — Qualcomm-Chef: KI-Agenten sollen für Smartphone-Käufe Anreiz sein (Golem.de · DE)</summary>
-<p>Cristiano Amon erwartet, dass KI-Agenten die Smartphone-Käufe ankurbeln. Der Qualcomm-CEO hat daran sicherlich ein Eigeninteresse. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/smartphone/"&gt;Smartphone&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214003&amp;p
+<summary>2026-10-19 — Atlas: Amazon soll mit KI Gewerkschaftsrisiko überwachen (Golem.de · DE)</summary>
+<p>Mittels hunderter Datenpunkte soll eine spezielle Amazon-KI frühzeitig Gewerkschaftsbewegungen in seinen Verteilzentren entdecken. (&lt;a href="https://www.golem.de/specials/amazon/"&gt;Amazon&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214249&amp;page=1&am
 
-Link: https://www.golem.de/news/qualcomm-chef-ki-agenten-sollen-fuer-smartphone-kaeufe-anreiz-sein-2610-214003.html</p>
+Link: https://www.golem.de/news/atlas-amazon-soll-mit-ki-gewerkschaftsrisiko-ueberwachen-2610-214249.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-09 — The New Siri’s Biggest Strength Is Not Intelligence (Nielsen Norman Group · EN)</summary>
-<p>A useful AI assistant needs relevant personal context, the capability to use it, and an experience that helps users understand its limits.
+<summary>2026-10-19 — KI in der Cybersicherheit: "Ohne KI in der Verteidigung ist man verloren" (Golem.de · DE)</summary>
+<p>Der Sicherheitsexperte Jacob Mendel hält KI in der Cyberabwehr für unverzichtbar. Zugleich warnt er im Golem-Gespräch vor neuen Angriffsflächen und den Folgen staatlicher Regulierung. Ein Interview von Stefan Beiersmann (&lt;a href="https://www.golem.de/specials/security/"&gt;Security&lt;/a&gt;, &lt;a href="https://www.golem.de/speci
 
-Link: https://www.nngroup.com/articles/ai-assistant-context/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.golem.de/news/ki-in-der-cybersicherheit-ohne-ki-in-der-verteidigung-ist-man-verloren-2610-214238.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-09 — Context Libraries: How AI Power Users Manage Context Engineering (Nielsen Norman Group · EN)</summary>
-<p>Claude power users rarely edit their context files and often can’t find them. Your AI agent is only as powerful as its context library.
+<summary>2026-10-19 — KI: Anthropic will 5 Prozent seiner Aktien dem Gemeinwohl widmen (Golem.de · DE)</summary>
+<p>Anthropic will 5 Prozent seiner Aktien einem Gemeinwohlfonds geben. Der Anteil kann mit dem Unternehmenswert wachsen. (&lt;a href="https://www.golem.de/specials/anthropic/"&gt;Anthropic&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/wirtschaft/"&gt;Wirtschaft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214243&amp;
 
-Link: https://www.nngroup.com/articles/context-libraries/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.golem.de/news/ki-anthropic-will-5-prozent-seiner-aktien-dem-gemeinwohl-widmen-2610-214243.html</p>
+</details>
+
+<details class="accordion">
+<summary>2026-10-19 — Tim Sweeney: Epic Games stellt Spieleentwicklung radikal auf KI um (Golem.de · DE)</summary>
+<p>Ein goldenes Zeitalter für Computerspiele: Das erwartet Tim Sweeney durch KI. Dafür baut er Epic Games massiv um. (&lt;a href="https://www.golem.de/specials/epic-games/"&gt;Epic Games&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214239&amp;page=1&amp;ts=1792
+
+Link: https://www.golem.de/news/tim-sweeney-epic-games-stellt-spieleentwicklung-radikal-auf-ki-um-2610-214239.html</p>
+</details>
+
+<details class="accordion">
+<summary>2026-10-16 — UX Maps: Glossary (Nielsen Norman Group · EN)</summary>
+<p>Use this glossary to quickly clarify key terms and concepts related to UX maps.
+
+Link: https://www.nngroup.com/articles/ux-maps-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+</details>
+
+<details class="accordion">
+<summary>2026-10-16 — Synthetic Users vs. Human Respondents: Same Conclusion, Less Variation (Nielsen Norman Group · EN)</summary>
+<p>Data from AI-generated respondents pointed to the same conclusion as a survey of 604 humans but contained far fewer distinct answers.
+
+Link: https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+</details>
+
+<details class="accordion">
+<summary>2026-10-13 — Werbeindustrie liest mit: KI-Chatbots schicken Inhalte aus Gesprächen an Tracking-Firmen (Netzpolitik.org · DE)</summary>
+<p>Wer erfährt, worüber ich mit meiner KI spreche? (Symbolbild) – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Solen Feyissa Sechs von neun untersuchten KI-Chatbots übermitteln laut einer Studie Gesprächsinformationen an Tracking- und Werbedienste. Betroffen sind auch bekannte Angebote wie ChatGPT, Claude und Gemini
+
+Link: https://netzpolitik.org/2026/werbeindustrie-liest-mit-ki-chatbots-schicken-inhalte-aus-gespraechen-an-tracking-firmen/</p>
 </details>
 <!-- AUTO-RESEARCH:END -->
