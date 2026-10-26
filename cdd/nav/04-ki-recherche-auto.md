@@ -4,86 +4,86 @@ Automatisch gesammelte Links — **Schwerpunkt Deutsch** (heise, t3n, Golem, Net
 
 <!-- AUTO-RESEARCH:START -->
 <details class="accordion">
-<summary>2026-10-19 — Claude für alte Fernseher: So macht die KI Android-TVs wieder flott (t3n · DE)</summary>
-<p>Alternde Smart-TVs könnten dank KI eine neue Chance bekommen. Ein Entwickler hat einen Weg gefunden, mit dem Claude auf den Geräten ordentlich aufräumt. Wie das Ganze funktioniert. Wer schon mehrere Jahre einen smarten Fernseher mit Android benutzt, wird das Problem sicherlich kennen. Nach dieser langen Zeit fühlt sich
+<summary>2026-10-26 — 95 Milliarden US-Dollar: Meta verkauft Anteile für gigantische KI-Investition (Golem.de · DE)</summary>
+<p>Meta Plattforms braucht 95 Milliarden US-Dollar für weitere KI-Pläne. Der Werbemarkt bringt dafür nicht genug ein. (&lt;a href="https://www.golem.de/specials/meta/"&gt;Meta&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/rechenzentrum/"&gt;Rechenzentrum&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214517&amp;page=1&
 
-Link: https://t3n.de/news/claude-alter-fernseher-android-tv-1768831/</p>
+Link: https://www.golem.de/news/95-milliarden-us-dollar-meta-verkauft-anteile-fuer-gigantische-ki-investition-2610-214517.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-19 — Neuer Job als Business Analyst mit KI-Hintergrund gesucht? Schau dir unsere KI Jobs der Woche an (t3n · DE)</summary>
-<p>Unsere KI-Jobs der Woche für digitale Zukunftsgestalter. Entdecke die spannendsten Stellenangebote im Bereich Künstliche Intelligenz – von Machine Learning und Data Science über KI-gestützte Produktentwicklung bis hin zu innovativen Anwendungen in Marketing, Design, Projektmanagement und Business Development. 603** Fra
+<summary>2026-10-26 — Fürs KI-Training genutzt? Songs von Elvis Presley könnten Anthropic Millionen kosten (t3n · DE)</summary>
+<p>Diverse Lieder des King of Rock&#8217;n&#8216; Roll sollen ohne Zustimmung ins KI-Training von Anthropic geflossen sein. Nun fordert eine Klage Millionen vom Claude-Entwickler. Die Rechteinhaber der Musik von Elvis Presley haben US-Medienberichten zufolge das KI-Unternehmen Anthropic verklagt. Demnach soll die Entwickl
 
-Link: https://t3n.de/news/neuer-job-als-softwarearchitekt-fuer-kuenstliche-intelligenz-gesucht-schau-dir-unsere-ki-jobs-der-woche-1722550/</p>
+Link: https://t3n.de/news/anthropic-elvis-presley-songs-ki-training-1769888/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-19 — MonoRace: Wie eine KI mit billiger Hardware die besten Drohnenpiloten der Welt abhängt (t3n · DE)</summary>
-<p>Während viele moderne Roboter auf teure Hardware setzen, reicht dieser Renndrohne eine einfache 8-Megapixel-Kamera und ein neuronales Netzwerk, um mit bis zu 100 Kilometern pro Stunde durch einen Parcours zu fliegen. Bei der Abu Dabi Autonomous Drone Racing Competition treffen jährlich die besten Renndrohnen und ihre P
+<summary>2026-10-26 — r/opensource: Leute ohne ausreichende Englischkenntnisse sind nicht mehr erwünscht (Golem.de · DE)</summary>
+<p>Die Reddit-Community r/opensource stellt neue Regeln auf, um etwa KI-Nutzung zu unterbinden. Das wird stark kritisiert. (&lt;a href="https://www.golem.de/specials/reddit/"&gt;Reddit&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/softwareentwicklung/"&gt;Softwareentwicklung&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;a
 
-Link: https://t3n.de/news/monorace-wie-eine-ki-mit-billiger-hardware-die-besten-drohnenpiloten-der-welt-abhaengt-1768866/</p>
+Link: https://www.golem.de/news/r-opensource-leute-ohne-ausreichende-englischkenntnisse-sind-nicht-mehr-erwuenscht-2610-214511.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-19 — KI für Arztpraxen: 7 Prozesse, die sich heute schon automatisieren lassen (t3n · DE)</summary>
-<p>Zwischen Terminen, Patientenanfragen und interner Abstimmung bleibt in Arztpraxen oft wenig Zeit für den Verwaltungsalltag. KI und intelligente Automatisierung entlasten Praxisteams genau dort, wo sich Aufgaben täglich wiederholen – ohne dabei medizinische Entscheidungen zu übernehmen. Wo Automatisierung im Praxisallta
+<summary>2026-10-26 — M5 Ultra: Der Mac Studio macht bei KI reinen GPUs Konkurrenz (Golem.de · DE)</summary>
+<p>Apples Mac Studio überzeugt bei KI und rechenintensiven Aufgaben. Das kann den hohen Preis relativieren - es kann aber bessere Alternativen geben. Ein Test von Johannes Hiltscher (&lt;a href="https://www.golem.de/specials/apple/"&gt;Apple&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/cpu/"&gt;Prozessor&lt;/a&gt;) &lt;img src="https://cpx.
 
-Link: https://t3n.de/news/ki-fuer-arztpraxen-7-prozesse-die-sich-heute-schon-automatisieren-lassen-1766121/</p>
+Link: https://www.golem.de/news/m5-ultra-der-mac-studio-macht-bei-ki-reinen-gpus-konkurrenz-2610-214325.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-19 — (g+) KI in der Energiewende: Wenn Algorithmen Engpässe vorhersehen (Golem.de · DE)</summary>
-<p>Mehr Solarstrom, mehr Windkraft, mehr Last im Netz: EnBW zeigt, wie KI drohende Engpässe erkennt und Netzbetreibern hilft, die Stromversorgung stabil zu halten. Ein Bericht von Otto Geißler (&lt;a href="https://www.golem.de/specials/energiewende/"&gt;Energiewende&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img 
+<summary>2026-10-26 — Laut Elon Musk: Neoclouds bekommen kaum noch Geld am Anleihenmarkt (Golem.de · DE)</summary>
+<p>SpaceX soll dennoch eine Milliardenfinanzierung für neue GPUs erhalten. Viel Rechenleistung könnte 2027 zudem ungenutzt bleiben. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/rechenzentrum/"&gt;Rechenzentrum&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214506&a
 
-Link: https://www.golem.de/news/ki-in-der-energiewende-wenn-algorithmen-engpaesse-vorhersehen-2610-214251.html</p>
+Link: https://www.golem.de/news/laut-elon-musk-neoclouds-bekommen-kaum-noch-geld-am-anleihenmarkt-2610-214506.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-19 — Atlas: Amazon soll mit KI Gewerkschaftsrisiko überwachen (Golem.de · DE)</summary>
-<p>Mittels hunderter Datenpunkte soll eine spezielle Amazon-KI frühzeitig Gewerkschaftsbewegungen in seinen Verteilzentren entdecken. (&lt;a href="https://www.golem.de/specials/amazon/"&gt;Amazon&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214249&amp;page=1&am
+<summary>2026-10-26 — Wie Hacker KI-Modelle gegeneinander ausspielen, um Sicherheitsmaßnahmen zu umgehen (t3n · DE)</summary>
+<p>Sicherheitsforscher:innen haben untersucht, wie Betrüger:innen KI-Agenten bei ihren Angriffen einsetzen. Trotz modernster Technologie bleibe der menschliche Faktor hinter den Methoden weiterhin erkennbar. Anthropic und OpenAI haben selbst unter Beweis gestellt, wie leicht ihre KI-Agenten Sicherheitsvorkehrungen umgehen
 
-Link: https://www.golem.de/news/atlas-amazon-soll-mit-ki-gewerkschaftsrisiko-ueberwachen-2610-214249.html</p>
+Link: https://t3n.de/news/wie-hacker-ki-modelle-gegeneinander-ausspielen-um-sicherheitsmassnahmen-zu-umgehen-1769852/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-19 — KI in der Cybersicherheit: "Ohne KI in der Verteidigung ist man verloren" (Golem.de · DE)</summary>
-<p>Der Sicherheitsexperte Jacob Mendel hält KI in der Cyberabwehr für unverzichtbar. Zugleich warnt er im Golem-Gespräch vor neuen Angriffsflächen und den Folgen staatlicher Regulierung. Ein Interview von Stefan Beiersmann (&lt;a href="https://www.golem.de/specials/security/"&gt;Security&lt;/a&gt;, &lt;a href="https://www.golem.de/speci
+<summary>2026-10-26 — „Benotung ist sinnlos geworden“: Warum dieser Mathe-Professor den Zweck von Hausaufgaben anzweifelt (t3n · DE)</summary>
+<p>Zu Beginn des KI-Booms galt Mathematik als eine gute Studienwahl – das hat sich geändert. Jetzt zweifeln selbst Lehrkräfte an Universitäten daran, ob sie jungen Menschen raten sollen, das Fach zu studieren. KI hat die Art und Weise, wie junge Menschen studieren, grundlegend verändert und zwingt auch Professor:innen zum
 
-Link: https://www.golem.de/news/ki-in-der-cybersicherheit-ohne-ki-in-der-verteidigung-ist-man-verloren-2610-214238.html</p>
+Link: https://t3n.de/news/benotung-ist-sinnlos-geworden-warum-dieser-mathe-professor-den-zweck-von-hausaufgaben-anzweifelt-1769844/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-19 — KI: Anthropic will 5 Prozent seiner Aktien dem Gemeinwohl widmen (Golem.de · DE)</summary>
-<p>Anthropic will 5 Prozent seiner Aktien einem Gemeinwohlfonds geben. Der Anteil kann mit dem Unternehmenswert wachsen. (&lt;a href="https://www.golem.de/specials/anthropic/"&gt;Anthropic&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/wirtschaft/"&gt;Wirtschaft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214243&amp;
+<summary>2026-10-26 — KI-Film: Grok veröffentlicht sieben Minuten seiner Odyssee (Golem.de · DE)</summary>
+<p>Elon Musk hatte einen abendfüllenden Film angekündigt. Nun zeigt Grok Episode 1 seiner KI-Odyssee, gemacht mit Wonder Studios. (&lt;a href="https://www.golem.de/specials/grok/"&gt;Grok&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/elon-musk/"&gt;Elon Musk&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214500&amp;pag
 
-Link: https://www.golem.de/news/ki-anthropic-will-5-prozent-seiner-aktien-dem-gemeinwohl-widmen-2610-214243.html</p>
+Link: https://www.golem.de/news/ki-film-grok-veroeffentlicht-sieben-minuten-seiner-odyssee-2610-214500.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-19 — Tim Sweeney: Epic Games stellt Spieleentwicklung radikal auf KI um (Golem.de · DE)</summary>
-<p>Ein goldenes Zeitalter für Computerspiele: Das erwartet Tim Sweeney durch KI. Dafür baut er Epic Games massiv um. (&lt;a href="https://www.golem.de/specials/epic-games/"&gt;Epic Games&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214239&amp;page=1&amp;ts=1792
+<summary>2026-10-26 — Nach Hacking-Vorfällen: OpenAI trainiert Spitzenmodelle nur noch in einer Kopie des Webs (t3n · DE)</summary>
+<p>Nach wiederholten Sicherheitsvorfällen zieht das KI-Labor jetzt die Reißleine. Dabei hatten Expert:innen zuvor argumentiert, dass es nahezu unmöglich sei, eine Sandbox komplett von der Außenwelt abzuschotten. OpenAI hat seinen KI-Modellen in Tests den Internetzugang entzogen. Künftig sollen sie nur noch mit zwischenges
 
-Link: https://www.golem.de/news/tim-sweeney-epic-games-stellt-spieleentwicklung-radikal-auf-ki-um-2610-214239.html</p>
+Link: https://t3n.de/news/openai-training-simulation-web-1769746/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-16 — UX Maps: Glossary (Nielsen Norman Group · EN)</summary>
-<p>Use this glossary to quickly clarify key terms and concepts related to UX maps.
+<summary>2026-10-26 — KI-Assistent: Google nutzt Schlupfloch für personalisierte Werbung (Golem.de · DE)</summary>
+<p>Google ändert seine Datenschutzerklärung. Wer Gmail und Fotos mit Personal Intelligence verbindet, sieht womöglich gezielte Werbung. (&lt;a href="https://www.golem.de/specials/google/"&gt;Google&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/gmail/"&gt;Gmail&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214497&amp;p
 
-Link: https://www.nngroup.com/articles/ux-maps-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.golem.de/news/personal-intelligence-google-macht-gmail-und-fotos-fuer-werbung-nutzbar-2610-214497.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-16 — Synthetic Users vs. Human Respondents: Same Conclusion, Less Variation (Nielsen Norman Group · EN)</summary>
-<p>Data from AI-generated respondents pointed to the same conclusion as a survey of 604 humans but contained far fewer distinct answers.
+<summary>2026-10-23 — UX Disciplines: Glossary (Nielsen Norman Group · EN)</summary>
+<p>Definitions of fields related to user experience, including UX design, UI design, visual design, interaction design, service design, UX research, and DesignOps
 
-Link: https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.nngroup.com/articles/ux-disciplines-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-13 — Werbeindustrie liest mit: KI-Chatbots schicken Inhalte aus Gesprächen an Tracking-Firmen (Netzpolitik.org · DE)</summary>
-<p>Wer erfährt, worüber ich mit meiner KI spreche? (Symbolbild) – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Solen Feyissa Sechs von neun untersuchten KI-Chatbots übermitteln laut einer Studie Gesprächsinformationen an Tracking- und Werbedienste. Betroffen sind auch bekannte Angebote wie ChatGPT, Claude und Gemini
+<summary>2026-10-23 — AI in UX: Work Is Faster, But Practitioners Have Mixed Feelings (Nielsen Norman Group · EN)</summary>
+<p>AI saves UX practitioners time on nearly every task, yet most feel lukewarm about it: mandates, unreliable output, and inflated expectations eat the gains.
 
-Link: https://netzpolitik.org/2026/werbeindustrie-liest-mit-ki-chatbots-schicken-inhalte-aus-gespraechen-an-tracking-firmen/</p>
+Link: https://www.nngroup.com/articles/ai-in-ux-survey-26/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 <!-- AUTO-RESEARCH:END -->
