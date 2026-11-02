@@ -4,86 +4,86 @@ Automatisch gesammelte Links — **Schwerpunkt Deutsch** (heise, t3n, Golem, Net
 
 <!-- AUTO-RESEARCH:START -->
 <details class="accordion">
-<summary>2026-10-26 — 95 Milliarden US-Dollar: Meta verkauft Anteile für gigantische KI-Investition (Golem.de · DE)</summary>
-<p>Meta Plattforms braucht 95 Milliarden US-Dollar für weitere KI-Pläne. Der Werbemarkt bringt dafür nicht genug ein. (&lt;a href="https://www.golem.de/specials/meta/"&gt;Meta&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/rechenzentrum/"&gt;Rechenzentrum&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214517&amp;page=1&
+<summary>2026-11-02 — Minecraft und Mindustry: Risikoscheue KI-Agenten entwickeln ausgeprägte Bürokratie (Golem.de · DE)</summary>
+<p>Bei Misserfolgen neigen KI-Agenten dazu, ein starkes Vorsorgeverhalten zu entwickeln und Aufgaben übermäßig bürokratisch zu regeln. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/minecraft/"&gt;Minecraft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214769&amp;pa
 
-Link: https://www.golem.de/news/95-milliarden-us-dollar-meta-verkauft-anteile-fuer-gigantische-ki-investition-2610-214517.html</p>
+Link: https://www.golem.de/news/minecraft-und-mindustry-risikoscheue-ki-agenten-entwickeln-ausgepraegte-buerokratie-2611-214769.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-26 — Fürs KI-Training genutzt? Songs von Elvis Presley könnten Anthropic Millionen kosten (t3n · DE)</summary>
-<p>Diverse Lieder des King of Rock&#8217;n&#8216; Roll sollen ohne Zustimmung ins KI-Training von Anthropic geflossen sein. Nun fordert eine Klage Millionen vom Claude-Entwickler. Die Rechteinhaber der Musik von Elvis Presley haben US-Medienberichten zufolge das KI-Unternehmen Anthropic verklagt. Demnach soll die Entwickl
+<summary>2026-11-02 — KI, Cloud und Open Source: Die EU sucht die digitale Souveränität (Netzpolitik.org · DE)</summary>
+<p>Auf dem Weg in die digitale Unabhängigkeit sucht Brüssel seinen Kurs. – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Denise Jans Die EU will mehr digitale Souveränität. Doch statt eigene hoch leistungsfähige KI-Modelle zu entwickeln, setzt die EU-Kommission nun auf industrielle Anwendung. Bei Plänen zu souveränen
 
-Link: https://t3n.de/news/anthropic-elvis-presley-songs-ki-training-1769888/</p>
+Link: https://netzpolitik.org/2026/ki-cloud-und-open-source-die-eu-sucht-die-digitale-souveraenitaet/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-26 — r/opensource: Leute ohne ausreichende Englischkenntnisse sind nicht mehr erwünscht (Golem.de · DE)</summary>
-<p>Die Reddit-Community r/opensource stellt neue Regeln auf, um etwa KI-Nutzung zu unterbinden. Das wird stark kritisiert. (&lt;a href="https://www.golem.de/specials/reddit/"&gt;Reddit&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/softwareentwicklung/"&gt;Softwareentwicklung&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;a
+<summary>2026-11-02 — Lumentum: Marvell gibt 115 Milliarden Dollar für KI-Laserexperten aus (Golem.de · DE)</summary>
+<p>Mit der historischen Übernahme von Lumentum sichert sich Marvell Technology die Kontrolle über optische Schlüsseltechnologien für KI-Rechenzentren. (&lt;a href="https://www.golem.de/specials/marvell/"&gt;Marvell&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=2
 
-Link: https://www.golem.de/news/r-opensource-leute-ohne-ausreichende-englischkenntnisse-sind-nicht-mehr-erwuenscht-2610-214511.html</p>
+Link: https://www.golem.de/news/lumentum-marvell-gibt-115-milliarden-dollar-fuer-ki-laserexperten-aus-2611-214765.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-26 — M5 Ultra: Der Mac Studio macht bei KI reinen GPUs Konkurrenz (Golem.de · DE)</summary>
-<p>Apples Mac Studio überzeugt bei KI und rechenintensiven Aufgaben. Das kann den hohen Preis relativieren - es kann aber bessere Alternativen geben. Ein Test von Johannes Hiltscher (&lt;a href="https://www.golem.de/specials/apple/"&gt;Apple&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/cpu/"&gt;Prozessor&lt;/a&gt;) &lt;img src="https://cpx.
+<summary>2026-11-02 — KI-Sicherheit: TÜV hält Selbstverpflichtungen für unzureichend (Golem.de · DE)</summary>
+<p>Um staatliche Verantwortung mit technischer Expertise zu verbinden, schlägt der TÜV einen mehrstufigen Sicherheitsrahmen vor. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/bundesregierung/"&gt;Bundesregierung&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214763&
 
-Link: https://www.golem.de/news/m5-ultra-der-mac-studio-macht-bei-ki-reinen-gpus-konkurrenz-2610-214325.html</p>
+Link: https://www.golem.de/news/ki-sicherheit-tuev-haelt-selbstverpflichtungen-fuer-unzureichend-2611-214763.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-26 — Laut Elon Musk: Neoclouds bekommen kaum noch Geld am Anleihenmarkt (Golem.de · DE)</summary>
-<p>SpaceX soll dennoch eine Milliardenfinanzierung für neue GPUs erhalten. Viel Rechenleistung könnte 2027 zudem ungenutzt bleiben. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/rechenzentrum/"&gt;Rechenzentrum&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214506&a
+<summary>2026-11-02 — Neuer Job als COE Lead KI-Governance gesucht? Schau dir unsere KI Jobs der Woche an (t3n · DE)</summary>
+<p>Unsere KI-Jobs der Woche für digitale Zukunftsgestalter. Entdecke die spannendsten Stellenangebote im Bereich Künstliche Intelligenz – von Machine Learning und Data Science über KI-gestützte Produktentwicklung bis hin zu innovativen Anwendungen in Marketing, Design, Projektmanagement und Business Development. Aachen Ba
 
-Link: https://www.golem.de/news/laut-elon-musk-neoclouds-bekommen-kaum-noch-geld-am-anleihenmarkt-2610-214506.html</p>
+Link: https://t3n.de/news/neuer-job-als-softwarearchitekt-fuer-kuenstliche-intelligenz-gesucht-schau-dir-unsere-ki-jobs-der-woche-1722550/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-26 — Wie Hacker KI-Modelle gegeneinander ausspielen, um Sicherheitsmaßnahmen zu umgehen (t3n · DE)</summary>
-<p>Sicherheitsforscher:innen haben untersucht, wie Betrüger:innen KI-Agenten bei ihren Angriffen einsetzen. Trotz modernster Technologie bleibe der menschliche Faktor hinter den Methoden weiterhin erkennbar. Anthropic und OpenAI haben selbst unter Beweis gestellt, wie leicht ihre KI-Agenten Sicherheitsvorkehrungen umgehen
+<summary>2026-11-02 — Versteckte Kameras in Hotel und Airbnb: 6-Euro-Gadget erkennt sie mit 94 Prozent Genauigkeit (t3n · DE)</summary>
+<p>Forscher:innen haben einen Smartphone-Aufsatz entwickelt, der mit KI-Support versteckte Kameras in Airbnb-Wohnungen oder Hotels aufspüren soll. Die Hardwarekosten für das SweepLED genannte System belaufen sich auf sechs Euro. Seit Jahren kursieren Berichte von Urlauber:innen, die in ihren Airbnb-Wohnungen oder Hotelzim
 
-Link: https://t3n.de/news/wie-hacker-ki-modelle-gegeneinander-ausspielen-um-sicherheitsmassnahmen-zu-umgehen-1769852/</p>
+Link: https://t3n.de/news/kameras-versteckt-hotel-airbnb-tool-1761003/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-26 — „Benotung ist sinnlos geworden“: Warum dieser Mathe-Professor den Zweck von Hausaufgaben anzweifelt (t3n · DE)</summary>
-<p>Zu Beginn des KI-Booms galt Mathematik als eine gute Studienwahl – das hat sich geändert. Jetzt zweifeln selbst Lehrkräfte an Universitäten daran, ob sie jungen Menschen raten sollen, das Fach zu studieren. KI hat die Art und Weise, wie junge Menschen studieren, grundlegend verändert und zwingt auch Professor:innen zum
+<summary>2026-11-02 — KI-Remixe bei Spotify: Was die Funktion kosten soll – und warum viele Musiker dagegen sind (t3n · DE)</summary>
+<p>Schon vor Monaten hatte Spotify eine KI-gestützte Remix-Funktion angekündigt. Offenbar sind aber viele Musiker:innen davon wenig begeistert. Der Musikstreaminganbieter Spotify kann mit einem geplanten neuen KI-Feature zunächst nicht starten. Das berichtet die Financial Times unter Berufung auf informierte Kreise. Die V
 
-Link: https://t3n.de/news/benotung-ist-sinnlos-geworden-warum-dieser-mathe-professor-den-zweck-von-hausaufgaben-anzweifelt-1769844/</p>
+Link: https://t3n.de/news/ki-remixe-bei-spotify-was-die-funktion-kosten-soll-und-warum-viele-musiker-dagegen-sind-1771085/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-26 — KI-Film: Grok veröffentlicht sieben Minuten seiner Odyssee (Golem.de · DE)</summary>
-<p>Elon Musk hatte einen abendfüllenden Film angekündigt. Nun zeigt Grok Episode 1 seiner KI-Odyssee, gemacht mit Wonder Studios. (&lt;a href="https://www.golem.de/specials/grok/"&gt;Grok&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/elon-musk/"&gt;Elon Musk&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214500&amp;pag
+<summary>2026-11-02 — KI-Agenten: EU fordert Echtzeit-Überwachung – doch die Daten fehlen (t3n · DE)</summary>
+<p>Die EU und US-Behörden fordern Echtzeit-Überwachung bei den Aktivitäten von KI‑Agenten. Allerdings liefern die gängigen Frameworks die dafür nötigen Daten nicht zuverlässig. Unsere Autoren warnen vor dieser intransparenten Situation. Die Vorfälle mit KI-Agenten haben sich in diesem Sommer scheinbar nahtlos aneinanderge
 
-Link: https://www.golem.de/news/ki-film-grok-veroeffentlicht-sieben-minuten-seiner-odyssee-2610-214500.html</p>
+Link: https://t3n.de/news/ki-agenten-eu-fordert-echtzeit-ueberwachung-doch-die-daten-fehlen-1771104/</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-26 — Nach Hacking-Vorfällen: OpenAI trainiert Spitzenmodelle nur noch in einer Kopie des Webs (t3n · DE)</summary>
-<p>Nach wiederholten Sicherheitsvorfällen zieht das KI-Labor jetzt die Reißleine. Dabei hatten Expert:innen zuvor argumentiert, dass es nahezu unmöglich sei, eine Sandbox komplett von der Außenwelt abzuschotten. OpenAI hat seinen KI-Modellen in Tests den Internetzugang entzogen. Künftig sollen sie nur noch mit zwischenges
+<summary>2026-11-02 — (g+) Security: Wie gefährlich sind lokale Coding-Agenten? (Golem.de · DE)</summary>
+<p>Coding-Agenten können selbstständig Dateien löschen, Zugangsdaten preisgeben oder manipuliert werden. Welche Risiken drohen und wie sich der eigene Rechner schützen lässt. Ein Ratgebertext von Klaus Manhart (&lt;a href="https://www.golem.de/specials/security/"&gt;Security&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/
 
-Link: https://t3n.de/news/openai-training-simulation-web-1769746/</p>
+Link: https://www.golem.de/news/security-wie-gefaehrlich-sind-lokale-coding-agenten-2611-214733.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-26 — KI-Assistent: Google nutzt Schlupfloch für personalisierte Werbung (Golem.de · DE)</summary>
-<p>Google ändert seine Datenschutzerklärung. Wer Gmail und Fotos mit Personal Intelligence verbindet, sieht womöglich gezielte Werbung. (&lt;a href="https://www.golem.de/specials/google/"&gt;Google&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/gmail/"&gt;Gmail&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214497&amp;p
+<summary>2026-11-02 — Straßenverkehr: KI soll Handy-Sünder automatisch erkennen (Golem.de · DE)</summary>
+<p>Bund und Länder unterstützen den Einsatz von Kameras, die Autofahrer mit Handy am Steuer per KI identifizieren. (&lt;a href="https://www.golem.de/specials/ueberwachung/"&gt;Überwachung&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/digitalkamera/"&gt;Kameras&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;aid=214752&amp;p
 
-Link: https://www.golem.de/news/personal-intelligence-google-macht-gmail-und-fotos-fuer-werbung-nutzbar-2610-214497.html</p>
+Link: https://www.golem.de/news/strassenverkehr-ki-soll-handy-suender-automatisch-erkennen-2611-214752.html</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-23 — UX Disciplines: Glossary (Nielsen Norman Group · EN)</summary>
-<p>Definitions of fields related to user experience, including UX design, UI design, visual design, interaction design, service design, UX research, and DesignOps
+<summary>2026-10-30 — The Role of UX in Agentic Software Factories (Nielsen Norman Group · EN)</summary>
+<p>AI-native software development lifecycles reduce UX to AI context. UX must discover user needs, shape what’s built, and evaluate it before and after launch.
 
-Link: https://www.nngroup.com/articles/ux-disciplines-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.nngroup.com/articles/ux-agentic-software-factories/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 
 <details class="accordion">
-<summary>2026-10-23 — AI in UX: Work Is Faster, But Practitioners Have Mixed Feelings (Nielsen Norman Group · EN)</summary>
-<p>AI saves UX practitioners time on nearly every task, yet most feel lukewarm about it: mandates, unreliable output, and inflated expectations eat the gains.
+<summary>2026-10-30 — Experience Design: Dropping the “User” from “User Experience” (Nielsen Norman Group · EN)</summary>
+<p>AI is expanding UX beyond human users to agents acting on their behalf. Experience design names this broader field, which still centers on people’s goals.
 
-Link: https://www.nngroup.com/articles/ai-in-ux-survey-26/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
+Link: https://www.nngroup.com/articles/ux-vs-experience-design/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication</p>
 </details>
 <!-- AUTO-RESEARCH:END -->
